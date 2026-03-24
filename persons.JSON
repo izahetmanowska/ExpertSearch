@@ -1,0 +1,4743 @@
+{
+  "count": 791,
+  "pageInformation": {
+    "offset": 0,
+    "size": 10
+  },
+  "items": [
+    {
+      "pureId": 263316,
+      "uuid": "37d49222-56d7-4c65-8d52-3638544511cf",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/37d49222-56d7-4c65-8d52-3638544511cf",
+      "prettyUrlIdentifiers": [
+        "jens-christian-godskesen"
+      ],
+      "version": "85f0f9488b87bc147a13ab54ec4935efb6dc1bdc",
+      "name": {
+        "firstName": "Jens Christian",
+        "lastName": "Godskesen"
+      },
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113217143,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "c01af025-9c8f-4e9a-aabd-3b8e66f7395b"
+          },
+          "emails": [
+            {
+              "pureId": 113217144,
+              "value": "jcg@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2024-08-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/152",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 30846962,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/tap",
+            "term": {
+              "en_GB": "TAP",
+              "da_DK": "TAP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "cb3b9f8e-6978-46ad-8ee2-21c3ef48351d"
+          },
+          "emails": [
+            {
+              "pureId": 79379002,
+              "value": "jcg@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380266,
+              "value": "+45 7218 5276",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2015-05-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_research_dept",
+            "term": {
+              "en_GB": "Associate Professor, Head of  the Department",
+              "da_DK": "Associate Professor, Head of  the Department"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 39093008,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/tap",
+            "term": {
+              "en_GB": "TAP",
+              "da_DK": "TAP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "897bc698-a399-425d-8877-64b68f12d4c9"
+          },
+          "emails": [
+            {
+              "pureId": 79379623,
+              "value": "jcg@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380443,
+              "value": "+45 7218 5276",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2012-06-01",
+            "endDate": "2014-08-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/sektionsleder",
+            "term": {
+              "en_GB": "Head of Section",
+              "da_DK": "Sektionsleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 80983371,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/tap",
+            "term": {
+              "en_GB": "TAP",
+              "da_DK": "TAP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "4a702605-7fe5-40fd-8270-5699bb722ea4"
+          },
+          "emails": [
+            {
+              "pureId": 80983373,
+              "value": "jcg@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 80983374,
+              "value": "+45 72185276",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2022-01-01",
+            "endDate": "2022-08-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/interim_vice_chancellor",
+            "term": {
+              "en_GB": "Interim Vice Chancellor",
+              "da_DK": "Interim Vice Chancellor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "jcg"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 80489212,
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "jcg@itu.dk"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79380815,
+          "id": "jcg",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263331,
+      "uuid": "79ebe3ed-0527-4160-9af6-be0b0853b00e",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/79ebe3ed-0527-4160-9af6-be0b0853b00e",
+      "prettyUrlIdentifiers": [
+        "jan-pries-heje"
+      ],
+      "version": "bb0a14c052967154e7ba59fe6910f9432f2872f5",
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 79390449,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords",
+            "da_DK": "Emneord"
+          },
+          "keywords": [
+            {
+              "pureId": 79390451,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "The changing nature of work – towards projects and agile",
+                "Process improvement",
+                "Digital infrastructure and its implementation (digital change)"
+              ]
+            },
+            {
+              "pureId": 79390458,
+              "locale": "da_DK",
+              "freeKeywords": [
+                "The changing nature of work – towards projects and agile",
+                "Process improvement",
+                "Digital infrastructure and its implementation (digital change)"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": {
+        "firstName": "Jan ",
+        "lastName": "Pries-Heje"
+      },
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 114048968,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/dvip",
+            "term": {
+              "en_GB": "DVIP",
+              "da_DK": "DVIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "43ff926e-e029-4933-8ca7-d31cea75a9ad"
+          },
+          "period": {
+            "startDate": "2025-01-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/117",
+            "term": {
+              "en_GB": "Part-time lecturer",
+              "da_DK": "Ekstern lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 85330804,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/dvip",
+            "term": {
+              "en_GB": "DVIP",
+              "da_DK": "DVIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "c6fa53f2-e82c-42c0-ac6f-86f0828b563d"
+          },
+          "emails": [
+            {
+              "pureId": 85330845,
+              "value": "jph@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2018-09-01",
+            "endDate": "2024-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/ekstern_lektor",
+            "term": {
+              "en_GB": "Part-time Lecturer",
+              "da_DK": "Ekstern lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 83376720,
+          "addresses": [
+            {
+              "pureId": 86531991,
+              "addressType": {
+                "uri": "/dk/atira/pure/person/personaddresstype/postal",
+                "term": {
+                  "en_GB": "Postal address",
+                  "da_DK": "Postaddresse"
+                }
+              },
+              "building": "4B11"
+            }
+          ],
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "768f3a75-8ff6-46cf-8ab0-c09d1057ec3b"
+          },
+          "emails": [
+            {
+              "pureId": 83376722,
+              "value": "jph@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 83376723,
+              "value": {
+                "da_DK": "http://rucforsk.ruc.dk/site/person/janph"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/organisation/organisationwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web",
+                  "da_DK": "Web"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2018-09-01",
+            "endDate": "2022-11-30"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/honorary_professor",
+            "term": {
+              "en_GB": "Honorary Professor",
+              "da_DK": "Honorary Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81608866,
+          "addresses": [
+            {
+              "pureId": 81608867,
+              "addressType": {
+                "uri": "/dk/atira/pure/person/personaddresstype/postal",
+                "term": {
+                  "en_GB": "Postal address",
+                  "da_DK": "Postaddresse"
+                }
+              },
+              "building": "3C14"
+            }
+          ],
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "c6fa53f2-e82c-42c0-ac6f-86f0828b563d"
+          },
+          "emails": [
+            {
+              "pureId": 81608868,
+              "value": "jph@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 81608869,
+              "value": {
+                "da_DK": "http://rucforsk.ruc.dk/site/person/janph"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/organisation/organisationwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web",
+                  "da_DK": "Web"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2017-12-01",
+            "endDate": "2018-08-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/honorary_professor",
+            "term": {
+              "en_GB": "Honorary Professor",
+              "da_DK": "Honorary Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 80489097,
+          "addresses": [
+            {
+              "pureId": 80489098,
+              "addressType": {
+                "uri": "/dk/atira/pure/person/personaddresstype/postal",
+                "term": {
+                  "en_GB": "Postal address",
+                  "da_DK": "Postaddresse"
+                }
+              },
+              "building": "3C14"
+            }
+          ],
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "9489c379-74e2-4594-8c37-cf23875e5132"
+          },
+          "emails": [
+            {
+              "pureId": 80489099,
+              "value": "jph@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 80489100,
+              "value": {
+                "da_DK": "http://rucforsk.ruc.dk/site/person/janph"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/organisation/organisationwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web",
+                  "da_DK": "Web"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2015-08-15",
+            "endDate": "2017-11-30"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/honorary_professor",
+            "term": {
+              "en_GB": "Honorary Professor",
+              "da_DK": "Honorary Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 80365363,
+          "addresses": [
+            {
+              "pureId": 80365364,
+              "addressType": {
+                "uri": "/dk/atira/pure/person/personaddresstype/postal",
+                "term": {
+                  "en_GB": "Postal address",
+                  "da_DK": "Postaddresse"
+                }
+              },
+              "building": "3C14"
+            }
+          ],
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "9489c379-74e2-4594-8c37-cf23875e5132"
+          },
+          "emails": [
+            {
+              "pureId": 80365365,
+              "value": "jph@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 80365366,
+              "value": {
+                "da_DK": "http://rucforsk.ruc.dk/site/person/janph"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/organisation/organisationwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web",
+                  "da_DK": "Web"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2015-08-15",
+            "endDate": "2017-01-14"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/honorary_professor",
+            "term": {
+              "en_GB": "Honorary Professor",
+              "da_DK": "Honorary Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 78744948,
+          "addresses": [
+            {
+              "pureId": 79378613,
+              "addressType": {
+                "uri": "/dk/atira/pure/person/personaddresstype/postal",
+                "term": {
+                  "en_GB": "Postal address",
+                  "da_DK": "Postaddresse"
+                }
+              },
+              "building": "3C10"
+            }
+          ],
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/dvip",
+            "term": {
+              "en_GB": "DVIP",
+              "da_DK": "DVIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "d4b9ac2f-a7f7-48c3-afcf-9443c3c6710d"
+          },
+          "emails": [
+            {
+              "pureId": 79380070,
+              "value": "jph@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380780,
+              "value": {
+                "da_DK": "http://rucforsk.ruc.dk/site/person/janph"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2014-08-15",
+            "endDate": "2016-01-29"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/ekstern_lektor",
+            "term": {
+              "en_GB": "Part-time Lecturer",
+              "da_DK": "Ekstern lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 37274739,
+          "addresses": [
+            {
+              "pureId": 79378387,
+              "addressType": {
+                "uri": "/dk/atira/pure/person/personaddresstype/postal",
+                "term": {
+                  "en_GB": "Postal address",
+                  "da_DK": "Postaddresse"
+                }
+              }
+            }
+          ],
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/tap",
+            "term": {
+              "en_GB": "TAP",
+              "da_DK": "TAP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e6be95d9-b218-4dc0-990f-cc2a4aeed976"
+          },
+          "emails": [
+            {
+              "pureId": 79379541,
+              "value": "jph@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380716,
+              "value": {
+                "da_DK": "http://rucforsk.ruc.dk/site/person/janph"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2012-12-01",
+            "endDate": "2014-09-30"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/honorary_professor",
+            "term": {
+              "en_GB": "Honorary Professor",
+              "da_DK": "Honorary Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34827092,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/tap",
+            "term": {
+              "en_GB": "TAP",
+              "da_DK": "TAP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "897bc698-a399-425d-8877-64b68f12d4c9"
+          },
+          "emails": [
+            {
+              "pureId": 79379345,
+              "value": "jph@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2012-12-01",
+            "endDate": "2014-01-14"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "profilePhotos": [
+        {
+          "pureId": 79386202,
+          "fileId": "MDA0YmI1NjVh",
+          "fileName": "Foto_af_JanPH.jpg",
+          "mimeType": "image/jpeg",
+          "size": 280376,
+          "url": "https://pure.itu.dk/ws/api/persons/79ebe3ed-0527-4160-9af6-be0b0853b00e/files/MDA0YmI1NjVh/Foto_af_JanPH.jpg",
+          "fileStoreLocations": {},
+          "type": {
+            "uri": "/dk/atira/pure/person/personfiles/portrait",
+            "term": {
+              "en_GB": "Portrait",
+              "da_DK": "Portræt"
+            }
+          }
+        }
+      ],
+      "profileInformation": [
+        {
+          "pureId": 79386245,
+          "value": {
+            "en_GB": "<p>I am Full Professor in Information Systems at Roskilde University, Denmark. Furthermore I was appointed honorary professor ( ‘Adjungeret Professor’) in Information Systems at the IT University of Copenhagen in 2012. I have more than 20 years of experience working as Project and Research manager and doing research in IT and project management. I hold M.Sc. and Ph.D. degrees from Copenhagen Business School. I am certified ISO 9000 auditor, certified in the Belbin team role model, and Bootstrap maturity assessor. Currently I am undertaking a project to study agile project management in several companies. I am also doing several design science research studies. I recently finished another project called SourceIT focusing on virtual and distributed projects. Prior to that I have studied and written on internet speed projects, estimation and risk management, enterprise architecture, IT strategy and maturity. Teaching languages: Danish/English.</p>",
+            "da_DK": "<p>I am Full Professor in Information Systems at Roskilde University, Denmark. Furthermore I was appointed honorary professor ( ‘Adjungeret Professor’) in Information Systems at the IT University of Copenhagen in 2012. I have more than 20 years of experience working as Project and Research manager and doing research in IT and project management. I hold M.Sc. and Ph.D. degrees from Copenhagen Business School. I am certified ISO 9000 auditor, certified in the Belbin team role model, and Bootstrap maturity assessor. Currently I am undertaking a project to study agile project management in several companies. I am also doing several design science research studies. I recently finished another project called SourceIT focusing on virtual and distributed projects. Prior to that I have studied and written on internet speed projects, estimation and risk management, enterprise architecture, IT strategy and maturity. Teaching languages: Danish/English.</p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/curriculum",
+            "term": {
+              "en_GB": "Profil Information text",
+              "da_DK": "Profil informationstekst"
+            }
+          }
+        },
+        {
+          "pureId": 79403736,
+          "value": {
+            "en_GB": "<p>1993         </p>\n<p>Ph.D. from Copenhagen Business School, Denmark. Title of dissertation: “Metoder og værktøjer til udvikling af edb-systemer” (“Methods and tools for developing software”)</p>\n<p> </p>\n<p>1989             </p>\n<p>M.Sc. in Computer Science and Business Administration from Copenhagen Business School, Denmark</p>",
+            "da_DK": "<p>1993         </p>\n<p>Ph.D. from Copenhagen Business School, Denmark. Title of dissertation: “Metoder og værktøjer til udvikling af edb-systemer” (“Methods and tools for developing software”)</p>\n<p> </p>\n<p>1989             </p>\n<p>M.Sc. in Computer Science and Business Administration from Copenhagen Business School, Denmark</p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/undervisning_og_uddannelse",
+            "term": {
+              "en_GB": "Education and training",
+              "da_DK": "Undervisning og uddannelse"
+            }
+          }
+        },
+        {
+          "pureId": 79403747,
+          "value": {
+            "en_GB": "<p><em>Main employment</em></p>\n<p><em> </em></p>\n<p>2007-        </p>\n<p>Full Professor in Information Systems, Roskilde University, Denmark. Head of the User Driven IT Innovation Research Group.</p>\n<p> </p>\n<p>2001-2007 </p>\n<p>Associate Professor, The IT University of Copenhagen, Department of Design and Use of IT, Rued Langgaards Vej 7, DK-2300 Copenhagen S, Denmark.</p>\n<p> </p>\n<p><em>Other employments</em></p>\n<p> </p>\n<p>2012-        </p>\n<p>“Adjungeret Full Professor”, The IT University of Copenhagen.</p>\n<p> </p>\n<p>2002-2007 </p>\n<p>Full Professor in Software Engineering and Management, The IT University of Gothenburg. Responsible for research and teaching in Software Engineering and Management.</p>\n<p> </p>\n<p>1995-2000 </p>\n<p>Associate Professor in applied Informatics, Department of Informatics, CopenhagenBusinessSchool. Denmark.</p>\n<p> </p>\n<p>1997-2000 </p>\n<p>Consultant in Best Software Practice at DELTA Software Engineering.</p>\n<p> </p>\n<p>1986         </p>\n<p>Software developer in the company Courseware Scandinavia, Copenhagen, Denmark.</p>",
+            "da_DK": "<p><em>Main employment </em></p>\n<p><em> </em></p>\n<p>2007-        </p>\n<p>Full Professor in Information Systems, Roskilde University, Denmark. Head of the User Driven IT Innovation Research Group.</p>\n<p> </p>\n<p>2001-2007 </p>\n<p>Associate Professor, The IT University of Copenhagen, Department of Design and Use of IT, Rued Langgaards Vej 7, DK-2300 Copenhagen S, Denmark.</p>\n<p> </p>\n<p><em>Other employments</em></p>\n<p> </p>\n<p>2012-        </p>\n<p>“Adjungeret Full Professor”, The IT University of Copenhagen.</p>\n<p> </p>\n<p>2002-2007 </p>\n<p>Full Professor in Software Engineering and Management, The IT University of Gothenburg. Responsible for research and teaching in Software Engineering and Management.</p>\n<p> </p>\n<p>1995-2000 </p>\n<p>Associate Professor in applied Informatics, Department of Informatics, CopenhagenBusinessSchool. Denmark.</p>\n<p> </p>\n<p>1997-2000 </p>\n<p>Consultant in Best Software Practice at DELTA Software Engineering.</p>\n<p> </p>\n<p>1986         </p>\n<p>Software developer in the company Courseware Scandinavia, Copenhagen, Denmark.</p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/ans_ttelser_positioner",
+            "term": {
+              "en_GB": "Employments/positions",
+              "da_DK": "Ansættelser/positioner"
+            }
+          }
+        },
+        {
+          "pureId": 79403772,
+          "value": {
+            "en_GB": "<p><strong>Studies abroad:</strong></p>\n<p>2006-07    </p>\n<p>Visiting at Curtin University of Technology, Perth, Western Australia, from August 2006 to May 2007.</p>\n<p> </p>\n<p>2000-01    </p>\n<p>Visiting Professor at Georgia State University, Atlanta, Georgia, USA, from June 2000 to July 2001.</p>\n<p> </p>\n<p>1990-91       </p>\n<p>Visiting Scholar at New York State University in Binghamton, New York.</p>\n<p> </p>\n<p><strong>Experience besides teaching and academic service:</strong></p>\n<p>2011-        </p>\n<p>Head of Studies, Master in Project Management and Process Improvement, Roskilde University.</p>\n<p> </p>\n<p>2007-        </p>\n<p>Head of User Driven IT Innovation Research Group (”Forsknings-gruppeleder”), Dept. of Communication, Business &amp; IT, Roskilde University.</p>\n<p> </p>\n<p>2001-06    </p>\n<p>Study Line leader (“Linieleder”) from September 2001, for the Software Engineering Study Line at the IT University of Copenhagen. This involved responsibility for approximately 8 external lecturers, 12 courses and 200 students. From 2003 also study program leader for the diploma education (“diplomuddannelsen”) at the IT University of Copenhagen.</p>\n<p> </p>\n<p>1998-2000 </p>\n<p>Study program leader (“Studieleder”) from April 1998 to January 2000, for the Computer Science and Business Administration study program at CopenhagenBusinessSchool. This involved responsibility for a Secretariat with 2,5 employees, approximately 80 teachers, and 600 students.</p>\n<p> </p>\n<p>1997-98    </p>\n<p>Danish Project Leader for the SMILE Project. A project financed by the European Union under the ESSI-programme. In the SMILE-project we developed a multi media CD-ROM on software quality and process improvement. In Denmark in the project I had four people employed. The CD-ROM was distributed to 3000 people in Europe in November 1998.</p>\n<p> </p>\n<p>1997         </p>\n<p>Passed exam as Quality Lead Auditor in the ISO 9000-quality standard, October 1997.</p>\n<p> </p>\n<p>1996         </p>\n<p>Passed exam as Bootstrap Assessor, February 1996.</p>\n<p> </p>\n<p>1995-96    </p>\n<p>Study program leader (“Studienævnsformand”) from July 1995 to January 1996 for the Computer Science and Business Administration study program (“DØK”) at the CopenhagenBusinessSchool.</p>\n<p> </p>\n<p>1994-97    </p>\n<p>Responsible Project Manager for building up a Multimedia laboratory at the CopenhagenBusinessSchool.</p>\n<p> </p>\n<p><strong>Awards and academic service:</strong></p>\n<p>2015         </p>\n<p>Key Note Speaker at the Accounting Information Systems Design Science Conference (DRAW 3), in Charleston, USA, January 2015.</p>\n<p> </p>\n<p>2014         </p>\n<p>Chair of the Information Systems Research in Scandinavia (IRIS) Conference. Sørup Herregaard, Ringsted, Denmark. August 2014.</p>\n<p> </p>\n<p>2013         </p>\n<p>Doctoral Consortium Co-Chair for the IFIP Working Group 8.6 Conference, Bangalore, India, June 2013.</p>\n<p> </p>\n<p>2012         </p>\n<p>Program Chair for the European Conference on Information Systems (ECIS 2012), Barcelona, Spain.</p>\n<p> </p>\n<p>2010-        </p>\n<p>Elected as Chair to IFIP (International Federation and Information processing) Technical Committee 8 on Information Systems.</p>\n<p> </p>\n<p>2009         </p>\n<p>Key Note Speaker at the 16<sup>th</sup> EuroSPI Conference, September 2009, Alcala de Henares, Spain</p>\n<p> </p>\n<p>2009         </p>\n<p>Doctoral Consortium Chair and Programme Committee member, The 4th International Conference on Design Science Research in IT (DESRIST), Philadelphia, USA, May 2009.</p>\n<p> </p>\n<p>2008-10    </p>\n<p>Elected as Vice Chair to IFIP (International Federation and Information processing) Technical Committee 8 on Information Systems.</p>\n<p> </p>\n<p>2008         </p>\n<p>Expert reviewer for the Swedish Strategic Research Council</p>\n<p> </p>\n<p>2008         </p>\n<p>President of the Scandinavian Chapter of AIS (Association of Information Systems)</p>\n<p> </p>\n<p>2007         </p>\n<p>Awarded the IFIP (International Federation for Information Processing) Silver Core Award</p>\n<p> </p>\n<p>2007         </p>\n<p>Best Paper Award in the area Information Systems Analysis for the paper: “DESIGNING AN APPROPRIATE INFORMATION SYSTEMS DEVELOPMENT METHODOLOGY FOR DIFFERENT SITUATIONS”, International Conference on Enterprise Information Systems (ICEIS), June 2007, Funchal, Madeira.</p>\n<p> </p>\n<p>1993          </p>\n<p>March 19, Honoured with the Tietgen Price, Gold Medal.</p>\n<p> </p>\n<p><strong>Others:</strong></p>\n<p>2008-11    </p>\n<p>Research Manager (“Forskningsleder”) for the SourceIT project. A co-operation between the RoskildeUniversity, DELTA, and three Danish Companies (Danske Bank, PBS and CSC Scandihealth). The project budget was 16 mio. kroner (DKK).</p>\n<p> </p>\n<p>2006-08    </p>\n<p>Research and Project Manager for “Netværk om forskningsbaseret efter- og videreuddannelse i it-arkitektur” (Network for Research Based Further Education on IT Architecture).</p>\n<p> </p>\n<p>2003-06    </p>\n<p>Research Manager (“Forskningsleder”) for the Talent@IT Project. A co-operation between the IT University of Copenhagen, DELTA, and four Danish Companies (Danske Bank, ATP-huset, PBS and SimCorp). The purpose of the project was to develop a model for innovation and improvement in software organizations. The result of the project was the ImprovAbility model. The project budget was 30 mio. kroner (DKK).</p>\n<p> </p>\n<p>2002-05    </p>\n<p>Partner in the research project “Software Processes and Knowledge Management”. A co-operation between the IT University of Copenhagen, Aalborg University and the Copenhagen Business School on one hand and three Danish Companies (Systematic, Logimatic and Rovsing) on the other hand.</p>",
+            "da_DK": "<p><strong>Studies abroad:</strong></p>\n<p>2006-07    </p>\n<p>Visiting at Curtin University of Technology, Perth, Western Australia, from August 2006 to May 2007.</p>\n<p> </p>\n<p>2000-01    </p>\n<p>Visiting Professor at Georgia State University, Atlanta, Georgia, USA, from June 2000 to July 2001.</p>\n<p> </p>\n<p>1990-91       </p>\n<p>Visiting Scholar at New York State University in Binghamton, New York.</p>\n<p> </p>\n<p><strong>Experience besides teaching and academic service:</strong></p>\n<p>2011-        </p>\n<p>Head of Studies, Master in Project Management and Process Improvement, Roskilde University.</p>\n<p> </p>\n<p>2007-        </p>\n<p>Head of User Driven IT Innovation Research Group (”Forsknings-gruppeleder”), Dept. of Communication, Business &amp; IT, Roskilde University.</p>\n<p> </p>\n<p>2001-06    </p>\n<p>Study Line leader (“Linieleder”) from September 2001, for the Software Engineering Study Line at the IT University of Copenhagen. This involved responsibility for approximately 8 external lecturers, 12 courses and 200 students. From 2003 also study program leader for the diploma education (“diplomuddannelsen”) at the IT University of Copenhagen.</p>\n<p> </p>\n<p>1998-2000 </p>\n<p>Study program leader (“Studieleder”) from April 1998 to January 2000, for the Computer Science and Business Administration study program at CopenhagenBusinessSchool. This involved responsibility for a Secretariat with 2,5 employees, approximately 80 teachers, and 600 students.</p>\n<p> </p>\n<p>1997-98    </p>\n<p>Danish Project Leader for the SMILE Project. A project financed by the European Union under the ESSI-programme. In the SMILE-project we developed a multi media CD-ROM on software quality and process improvement. In Denmark in the project I had four people employed. The CD-ROM was distributed to 3000 people in Europe in November 1998.</p>\n<p> </p>\n<p>1997         </p>\n<p>Passed exam as Quality Lead Auditor in the ISO 9000-quality standard, October 1997.</p>\n<p> </p>\n<p>1996         </p>\n<p>Passed exam as Bootstrap Assessor, February 1996.</p>\n<p> </p>\n<p>1995-96    </p>\n<p>Study program leader (“Studienævnsformand”) from July 1995 to January 1996 for the Computer Science and Business Administration study program (“DØK”) at the CopenhagenBusinessSchool.</p>\n<p> </p>\n<p>1994-97    </p>\n<p>Responsible Project Manager for building up a Multimedia laboratory at the CopenhagenBusinessSchool.</p>\n<p> </p>\n<p><strong>Awards and academic service:</strong></p>\n<p>2015         </p>\n<p>Key Note Speaker at the Accounting Information Systems Design Science Conference (DRAW 3), in Charleston, USA, January 2015.</p>\n<p> </p>\n<p>2014         </p>\n<p>Chair of the Information Systems Research in Scandinavia (IRIS) Conference. Sørup Herregaard, Ringsted, Denmark. August 2014.</p>\n<p> </p>\n<p>2013         </p>\n<p>Doctoral Consortium Co-Chair for the IFIP Working Group 8.6 Conference, Bangalore, India, June 2013.</p>\n<p> </p>\n<p>2012         </p>\n<p>Program Chair for the European Conference on Information Systems (ECIS 2012), Barcelona, Spain.</p>\n<p> </p>\n<p>2010-        </p>\n<p>Elected as Chair to IFIP (International Federation and Information processing) Technical Committee 8 on Information Systems.</p>\n<p> </p>\n<p>2009         </p>\n<p>Key Note Speaker at the 16<sup>th</sup> EuroSPI Conference, September 2009, Alcala de Henares, Spain</p>\n<p> </p>\n<p>2009         </p>\n<p>Doctoral Consortium Chair and Programme Committee member, The 4th International Conference on Design Science Research in IT (DESRIST), Philadelphia, USA, May 2009.</p>\n<p> </p>\n<p>2008-10    </p>\n<p>Elected as Vice Chair to IFIP (International Federation and Information processing) Technical Committee 8 on Information Systems.</p>\n<p> </p>\n<p>2008         </p>\n<p>Expert reviewer for the Swedish Strategic Research Council</p>\n<p> </p>\n<p>2008         </p>\n<p>President of the Scandinavian Chapter of AIS (Association of Information Systems)</p>\n<p> </p>\n<p>2007         </p>\n<p>Awarded the IFIP (International Federation for Information Processing) Silver Core Award</p>\n<p> </p>\n<p>2007         </p>\n<p>Best Paper Award in the area Information Systems Analysis for the paper: “DESIGNING AN APPROPRIATE INFORMATION SYSTEMS DEVELOPMENT METHODOLOGY FOR DIFFERENT SITUATIONS”, International Conference on Enterprise Information Systems (ICEIS), June 2007, Funchal, Madeira.</p>\n<p> </p>\n<p>1993          </p>\n<p>March 19, Honoured with the Tietgen Price, Gold Medal.</p>\n<p> </p>\n<p><strong>Others:</strong></p>\n<p>2008-11    </p>\n<p>Research Manager (“Forskningsleder”) for the SourceIT project. A co-operation between the RoskildeUniversity, DELTA, and three Danish Companies (Danske Bank, PBS and CSC Scandihealth). The project budget was 16 mio. kroner (DKK).</p>\n<p> </p>\n<p>2006-08    </p>\n<p>Research and Project Manager for “Netværk om forskningsbaseret efter- og videreuddannelse i it-arkitektur” (Network for Research Based Further Education on IT Architecture).</p>\n<p> </p>\n<p>2003-06    </p>\n<p>Research Manager (“Forskningsleder”) for the Talent@IT Project. A co-operation between the IT University of Copenhagen, DELTA, and four Danish Companies (Danske Bank, ATP-huset, PBS and SimCorp). The purpose of the project was to develop a model for innovation and improvement in software organizations. The result of the project was the ImprovAbility model. The project budget was 30 mio. kroner (DKK).</p>\n<p> </p>\n<p>2002-05    </p>\n<p>Partner in the research project “Software Processes and Knowledge Management”. A co-operation between the IT University of Copenhagen, Aalborg University and the Copenhagen Business School on one hand and three Danish Companies (Systematic, Logimatic and Rovsing) on the other hand.</p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/researchdescription",
+            "term": {
+              "en_GB": "Research and teaching information",
+              "da_DK": "Forsknings- og undervisningsinformation"
+            }
+          }
+        }
+      ],
+      "titles": [
+        {
+          "pureId": 79386203,
+          "value": {
+            "da_DK": "PhD"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/titles/academicdegree",
+            "term": {
+              "en_GB": "Academic degree",
+              "da_DK": "Akademisk grad"
+            }
+          }
+        },
+        {
+          "pureId": 79386204,
+          "value": {
+            "da_DK": "Adjungeret professor"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/titles/honorary",
+            "term": {
+              "en_GB": "Honorary title",
+              "da_DK": "Ærestitel"
+            }
+          }
+        }
+      ],
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "jph"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 80489101,
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "jph@itu.dk"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79380818,
+          "id": "jph",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263356,
+      "uuid": "4d7fda5a-3cf4-4d39-9daf-1ae192b0e0e7",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/4d7fda5a-3cf4-4d39-9daf-1ae192b0e0e7",
+      "prettyUrlIdentifiers": [
+        "rune-møller-jensen"
+      ],
+      "version": "d4cd702e21cfe687fbc142245770452be4481952",
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 106344197,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords",
+            "da_DK": "Emneord"
+          },
+          "keywords": [
+            {
+              "pureId": 106344199,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "Stowage optimization",
+                "Metaheuristics",
+                "Mathematical programming",
+                "Machine Learning/AI",
+                "Forecasting"
+              ]
+            },
+            {
+              "pureId": 106344200,
+              "locale": "da_DK",
+              "freeKeywords": [
+                "Meta heuristics",
+                "Constructive heuristics",
+                "Mathematical programming",
+                "Classification",
+                "Forecasting"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "pureId": 109779867,
+          "url": "https://www.linkedin.com/in/rune-m%C3%B8ller-jensen-21b1481/",
+          "alias": "",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/person/linkedin",
+            "term": {
+              "en_GB": "LinkedIn",
+              "da_DK": "Linkedin"
+            }
+          }
+        }
+      ],
+      "name": {
+        "firstName": "Rune Møller",
+        "lastName": "Jensen"
+      },
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113209027,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "f9f56620-e9c1-4ca0-ad98-952dae9912ce"
+          },
+          "emails": [
+            {
+              "pureId": 113209028,
+              "value": "rmj@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2017-01-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/152",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 102879946,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "c0953059-5750-41b6-a6c8-71ece4732609"
+          },
+          "emails": [
+            {
+              "pureId": 108534983,
+              "value": "rmj@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2024-01-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_center",
+            "term": {
+              "en_GB": "Head of Center",
+              "da_DK": "Centerleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81539337,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "768f3a75-8ff6-46cf-8ab0-c09d1057ec3b"
+          },
+          "emails": [
+            {
+              "pureId": 81539339,
+              "value": "rmj@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 81539340,
+              "value": "+45 72185048",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2017-01-01",
+            "endDate": "2022-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34827357,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e6be95d9-b218-4dc0-990f-cc2a4aeed976"
+          },
+          "emails": [
+            {
+              "pureId": 79379432,
+              "value": "rmj@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380695,
+              "value": {
+                "da_DK": "http://www.itu.dk/people/rmj/pmwiki/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380368,
+              "value": "+45 7218 5048",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2006-10-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 80491699,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e6be95d9-b218-4dc0-990f-cc2a4aeed976"
+          },
+          "emails": [
+            {
+              "pureId": 80491701,
+              "value": "rmj@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 80491702,
+              "value": "+45 7218 5048",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2006-10-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81951630,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "5f657c5d-532f-41df-b1e5-891f50d7062b"
+          },
+          "period": {
+            "startDate": "2017-02-01",
+            "endDate": "2018-09-01"
+          },
+          "primaryAssociation": false,
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "profilePhotos": [
+        {
+          "pureId": 109779866,
+          "fileId": "MDA2OGIxYjlh",
+          "fileName": "RMJ.jpg",
+          "mimeType": "image/jpeg",
+          "size": 503850,
+          "url": "https://pure.itu.dk/ws/api/persons/4d7fda5a-3cf4-4d39-9daf-1ae192b0e0e7/files/MDA2OGIxYjlh/RMJ.jpg",
+          "fileStoreLocations": {},
+          "type": {
+            "uri": "/dk/atira/pure/person/personfiles/portrait",
+            "term": {
+              "en_GB": "Portrait",
+              "da_DK": "Portræt"
+            }
+          }
+        }
+      ],
+      "privateAddress": {
+        "room": "4F25-4T93"
+      },
+      "profileInformation": [
+        {
+          "pureId": 83381444,
+          "value": {
+            "en_GB": "<p>For more than 20 years, I have focused on container vessel stowage planning optimization with derived applications in capacity, network, and revenue management. With a background in symbolic-AI from <a title=\"CMU\" href=\"https://www.cs.cmu.edu/\">CMU</a>, I have moved into operations research and analytics. I apply optimization methods such as metaheuristics, constraint programming, and mathematical programming. In addition, I have carried out a wide range of industrial projects including churn prediction, terminal load planning, AIS ship ETA prediction, lashing force regression, and cargo forecasting. I spent half of my time as CEO of <a title=\"Sealytix\" href=\"https://www.sealytix.com/\">Sealytix</a> which is a leading provider of  stowage analytics tools. As head of <a title=\"mHub\" href=\"https://mhub.itu.dk/\">The Maritime Hub</a>, my mission is to support young researchers at ITU.</p>\n<p>Link to short <a title=\"CV\" href=\"https://kilia.egnyte.com/dl/3kr6Xy3xYbYh\">CV</a></p>\n<p>Some <a title=\"citations\" href=\"https://kilia.egnyte.com/dl/rmm7JqMHFrk9\">citations</a> to get you through the day.</p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/researchareas",
+            "term": {
+              "en_GB": "Research areas",
+              "da_DK": "Forskningsområde"
+            }
+          }
+        }
+      ],
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "rmj"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79380823,
+          "id": "rmj",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263386,
+      "uuid": "5ad9c220-e37f-443a-8a31-fc4abf365db5",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/5ad9c220-e37f-443a-8a31-fc4abf365db5",
+      "prettyUrlIdentifiers": [
+        "dan-witzner-hansen"
+      ],
+      "version": "b1ce45a880b6a7b2888162c2620cc27fd77299a1",
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 106343507,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords",
+            "da_DK": "Emneord"
+          },
+          "keywords": [
+            {
+              "pureId": 106343509,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "Image analysis",
+                "Machine learning",
+                "Eye tracking",
+                "Gaze interaction",
+                "Sports analysis",
+                "Eye information",
+                "Privacy and security within Eye information"
+              ]
+            },
+            {
+              "pureId": 106343510,
+              "locale": "da_DK",
+              "freeKeywords": [
+                "Image analysis",
+                "Machine learning",
+                "Eye tracking",
+                "Gaze interaction",
+                "Sports analysis",
+                "Eye information",
+                "Privacy and security within Eye information"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": {
+        "firstName": "Dan Witzner",
+        "lastName": "Hansen"
+      },
+      "orcid": "0000-0002-6780-4471",
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113206086,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "f9f56620-e9c1-4ca0-ad98-952dae9912ce"
+          },
+          "emails": [
+            {
+              "pureId": 113206087,
+              "value": "witzner@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2021-07-01",
+            "endDate": "2028-05-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/165",
+            "term": {
+              "en_GB": "Professor",
+              "da_DK": "Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 86598494,
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "5f657c5d-532f-41df-b1e5-891f50d7062b"
+          },
+          "emails": [
+            {
+              "pureId": 108534963,
+              "value": "witzner@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2018-07-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_research_group",
+            "term": {
+              "en_GB": "Head of Research Group",
+              "da_DK": "Forskningsgruppeleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 107786101,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "1a7cb01a-b4b5-410b-827c-f77628616c3a"
+          },
+          "emails": [
+            {
+              "pureId": 108534964,
+              "value": "witzner@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2020-01-01",
+            "endDate": "2028-05-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_programme",
+            "term": {
+              "en_GB": "Head of Programme",
+              "da_DK": "Uddannelsesleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81539706,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "768f3a75-8ff6-46cf-8ab0-c09d1057ec3b"
+          },
+          "emails": [
+            {
+              "pureId": 81539708,
+              "value": "witzner@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 81539709,
+              "value": "+45 72185088",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2021-07-01",
+            "endDate": "2022-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/professor",
+            "term": {
+              "en_GB": "Professor",
+              "da_DK": "Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34827529,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e6be95d9-b218-4dc0-990f-cc2a4aeed976"
+          },
+          "emails": [
+            {
+              "pureId": 79379476,
+              "value": "witzner@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380706,
+              "value": {
+                "da_DK": "http://itu.academia.edu/DanWitznerHansen"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380393,
+              "value": "+45 7218 5088",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2008-07-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "profilePhotos": [
+        {
+          "pureId": 78709024,
+          "fileId": "MDA0YjEwMTIw",
+          "fileName": "dan_witzner_hansen.jpg",
+          "mimeType": "image/jpeg",
+          "size": 60937,
+          "url": "https://pure.itu.dk/ws/api/persons/5ad9c220-e37f-443a-8a31-fc4abf365db5/files/MDA0YjEwMTIw/dan_witzner_hansen.jpg",
+          "fileStoreLocations": {},
+          "type": {
+            "uri": "/dk/atira/pure/person/personfiles/portrait",
+            "term": {
+              "en_GB": "Portrait",
+              "da_DK": "Portræt"
+            }
+          }
+        }
+      ],
+      "privateAddress": {
+        "room": "4F25-4T99"
+      },
+      "profileInformation": [
+        {
+          "pureId": 78758087,
+          "value": {
+            "en_GB": "<p><em>Dan Witzner Hansen investigates to which extend information from images of eyes can be obtained through computationally tractable techniques and how this information can be used in future applications.</em></p>\n<p>His focus is  on robust methods for extracting information from the eyes. He investigate how this information can be employed as a part of the next generation of contactless and continuous biometric identification modalities and how it can be used for the general public everyday and out-of-laboratory use. His research covers aspects from computer vision, machine learning, HCI, neuroscience and psychology. Among other things the has contributed to the research in eye-based biometric markers and development of novel and low-cost gaze trackers. These eye trackers have together with novel gaze-based interaction techniques been used for interaction for physically disabled persons with great success. </p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/curriculum",
+            "term": {
+              "en_GB": "Profil Information text",
+              "da_DK": "Profil informationstekst"
+            }
+          }
+        }
+      ],
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "witzner"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79380829,
+          "id": "witzner",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263401,
+      "uuid": "f2136570-f73c-446f-9fb0-6d9e461e2124",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/f2136570-f73c-446f-9fb0-6d9e461e2124",
+      "prettyUrlIdentifiers": [
+        "yvonne-dittrich"
+      ],
+      "version": "91be09fa181a64b3b815dd0733d077b8eacb99d5",
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 79399840,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords",
+            "da_DK": "Emneord"
+          },
+          "keywords": [
+            {
+              "pureId": 79399842,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "Cooperative and human aspects of software engineering",
+                "Participatory design",
+                "Designing evolvable software products",
+                "End user development",
+                "ICT for development",
+                "Flexible and adaptable software",
+                "Global software engineering"
+              ]
+            },
+            {
+              "pureId": 107274184,
+              "locale": "da_DK",
+              "freeKeywords": [
+                "Cooperative and human aspects of software engineering",
+                "Participatory design",
+                "Designing evolvable software products",
+                "End user development",
+                "ICT for development",
+                "Flexible and adaptable software",
+                "Global software engineering"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "pureId": 106343080,
+          "url": "https://www.itu.dk/people/ydi/",
+          "description": {
+            "en_GB": "Yvonne's personal webpage.",
+            "da_DK": "Yvonne's personlige hjemmeside "
+          },
+          "linkType": {
+            "uri": "/dk/atira/pure/links/person/personal",
+            "term": {
+              "en_GB": "Personal",
+              "da_DK": "Personlig"
+            }
+          }
+        }
+      ],
+      "name": {
+        "firstName": "Yvonne ",
+        "lastName": "Dittrich"
+      },
+      "orcid": "0000-0003-4757-3394",
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113219411,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "04e2bcb8-43a5-45f6-b330-d91ce61a7742"
+          },
+          "emails": [
+            {
+              "pureId": 113219412,
+              "value": "ydi@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2024-02-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/165",
+            "term": {
+              "en_GB": "Professor",
+              "da_DK": "Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 62414414,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "ee5c661f-e0ab-4afb-acba-6ec467d5f1a9"
+          },
+          "emails": [
+            {
+              "pureId": 108534899,
+              "value": "ydi@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2012-07-01"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_research_group",
+            "term": {
+              "en_GB": "Head of Research Group",
+              "da_DK": "Forskningsgruppeleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 107399709,
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "c0953059-5750-41b6-a6c8-71ece4732609"
+          },
+          "emails": [
+            {
+              "pureId": 108534900,
+              "value": "ydi@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2024-01-01"
+          },
+          "primaryAssociation": false,
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81539714,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "768f3a75-8ff6-46cf-8ab0-c09d1057ec3b"
+          },
+          "emails": [
+            {
+              "pureId": 81539716,
+              "value": "ydi@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 81539717,
+              "value": "+45 72185177",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2019-10-01",
+            "endDate": "2022-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/professor",
+            "term": {
+              "en_GB": "Professor",
+              "da_DK": "Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34827535,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e6be95d9-b218-4dc0-990f-cc2a4aeed976"
+          },
+          "emails": [
+            {
+              "pureId": 79379478,
+              "value": "ydi@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380708,
+              "value": {
+                "da_DK": "http://www.itu.dk/people/ydi/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380395,
+              "value": "+45 7218 5177",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2003-08-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "profilePhotos": [
+        {
+          "pureId": 113766403,
+          "fileId": "MDA2YzdmMDAz",
+          "fileName": "Yvonne_small.jpg",
+          "mimeType": "image/jpeg",
+          "size": 395271,
+          "url": "https://pure.itu.dk/ws/api/persons/f2136570-f73c-446f-9fb0-6d9e461e2124/files/MDA2YzdmMDAz/Yvonne_small.jpg",
+          "fileStoreLocations": {},
+          "type": {
+            "uri": "/dk/atira/pure/person/personfiles/portrait",
+            "term": {
+              "en_GB": "Portrait",
+              "da_DK": "Portræt"
+            }
+          }
+        }
+      ],
+      "privateAddress": {
+        "room": "4F31-4T101"
+      },
+      "profileInformation": [
+        {
+          "pureId": 79399843,
+          "value": {
+            "en_GB": "<p><span>Since my time as a student I am interested in use oriented design and development of software. In the last years i especially focussed on the flexible and adaptable software.</span></p>\n<p><span>Use-orientation cuts across the sub-divisions of software engineering. Process management has to allow for evolution and </span><span style=\"font-family: Arial;\"><a href=\"http://www.routledge.com/books/details/9780415694407/\">Participatory Design</a> with users; architectures have to support vertical and horizontal prototyping; requirements are under re-design throughout the life cycle and so on. The product of software development, the processes that lead to it and the context of use respectively its change and development have to be regarded as interlaced domains of reality. Use oriented design has to take all three dimensions into account.</span></p>\n<p><span>To be able to develop relevant guidelines and methods, I focus in empirical research on the actual work practice of software development. I use qualitative social science methods informed by ethnography and ethnomethodology. Cooperative Method Development uses empirical findings to adapt and further develop methods together with practitioners.</span></p>\n<p><span style=\"font-family: Arial;\">Under the heading 'Design for Change', we looked e.g. at methods, techniques and tools promoting the design of adaptable software that can be tailored to a developing work practice.  Tailorable software brings design to use. It challenges traditional ways to organise software development. Flexible and agile approaches to software processes allow for a interlace of design activities and use. </span></p>\n<p><span style=\"font-family: Arial;\">Find my CV <a href=\"http://www.itu.dk/~ydi/ShortCV.htm\">here</a></span></p>",
+            "da_DK": "<p>Since my time as a student I am interested in use oriented design and development of software. In the last years i especially focussed on the flexible and adaptable software.</p>\n<p>Use-orientation cuts across the sub-divisions of software engineering. Process management has to allow for evolution and <span><a href=\"http://www.routledge.com/books/details/9780415694407/\">Participatory Design</a> with users; architectures have to support vertical and horizontal prototyping; requirements are under re-design throughout the life cycle and so on. The product of software development, the processes that lead to it and the context of use respectively its change and development have to be regarded as interlaced domains of reality. Use oriented design has to take all three dimensions into account.</span></p>\n<p>To be able to develop relevant guidelines and methods, I focus in empirical research on the actual work practice of software development. I use qualitative social science methods informed by ethnography and ethnomethodology. Cooperative Method Development uses empirical findings to adapt and further develop methods together with practitioners.</p>\n<p><span>Under the heading 'Design for Change', we looked e.g. at methods, techniques and tools promoting the design of adaptable software that can be tailored to a developing work practice.  Tailorable software brings design to use. It challenges traditional ways to organise software development. Flexible and agile approaches to software processes allow for a interlace of design activities and use. </span></p>\n<p><span>Find my CV <a href=\"http://www.itu.dk/~ydi/ShortCV.htm\">here</a></span></p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/curriculum",
+            "term": {
+              "en_GB": "Profil Information text",
+              "da_DK": "Profil informationstekst"
+            }
+          }
+        }
+      ],
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "ydi"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79380832,
+          "id": "ydi",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263426,
+      "uuid": "472021c7-73cc-44ba-a4ef-70cd2bed8601",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/472021c7-73cc-44ba-a4ef-70cd2bed8601",
+      "prettyUrlIdentifiers": [
+        "thore-husfeldt"
+      ],
+      "version": "4692a7f03b0ec0a215f2626871f29a1e86291c01",
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 78721480,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords",
+            "da_DK": "Emneord"
+          },
+          "keywords": [
+            {
+              "pureId": 78721482,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "Computer science",
+                "Algorithms",
+                "Graph algorithms",
+                "Exponential time algorithms"
+              ]
+            },
+            {
+              "pureId": 106343606,
+              "locale": "da_DK",
+              "freeKeywords": [
+                "Computer science",
+                "Algorithms",
+                "Graph algorithms",
+                "Exponential time algorithms"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "pureId": 83014415,
+          "url": "http://thorehusfeldt.com",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/person/personal",
+            "term": {
+              "en_GB": "Personal",
+              "da_DK": "Personlig"
+            }
+          }
+        }
+      ],
+      "name": {
+        "firstName": "Thore ",
+        "lastName": "Husfeldt"
+      },
+      "orcid": "0000-0001-9078-4512",
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113208348,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "c01af025-9c8f-4e9a-aabd-3b8e66f7395b"
+          },
+          "emails": [
+            {
+              "pureId": 113208349,
+              "value": "thore@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2025-01-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/165",
+            "term": {
+              "en_GB": "Professor",
+              "da_DK": "Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 108606859,
+          "affiliationId": "",
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "ec9c8384-5f4d-4db6-8277-f9e2973be070"
+          },
+          "emails": [
+            {
+              "pureId": 108844203,
+              "value": "thore@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2025-02-05"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_research_group",
+            "term": {
+              "en_GB": "Head of Research Group",
+              "da_DK": "Forskningsgruppeleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81539633,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "768f3a75-8ff6-46cf-8ab0-c09d1057ec3b"
+          },
+          "emails": [
+            {
+              "pureId": 81539635,
+              "value": "thore@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 81539637,
+              "value": {
+                "da_DK": "http://thorehusfeldt.com"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2022-01-01",
+            "endDate": "2022-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/professor_viceinstitutleder",
+            "term": {
+              "en_GB": "Professor, Deputy Head of Department",
+              "da_DK": "Professor, Deputy Head of Department"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34827467,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "b3fe7cc4-8011-4940-aef6-ec228d37c128"
+          },
+          "emails": [
+            {
+              "pureId": 79379461,
+              "value": "thore@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380701,
+              "value": {
+                "da_DK": "http://thorehusfeldt.net/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380384,
+              "value": "+45 7218 5075",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2008-06-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 53090456,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "ec9c8384-5f4d-4db6-8277-f9e2973be070"
+          },
+          "emails": [
+            {
+              "pureId": 79379707,
+              "value": "thore@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2008-06-01",
+            "endDate": "2025-02-04"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "profilePhotos": [
+        {
+          "pureId": 78721483,
+          "fileId": "MDA0YjEzMWNi",
+          "fileName": "thore_husfeldt_04_2.jpg",
+          "mimeType": "image/jpeg",
+          "size": 1805008,
+          "url": "https://pure.itu.dk/ws/api/persons/472021c7-73cc-44ba-a4ef-70cd2bed8601/files/MDA0YjEzMWNi/thore_husfeldt_04_2.jpg",
+          "fileStoreLocations": {},
+          "type": {
+            "uri": "/dk/atira/pure/person/personfiles/portrait",
+            "term": {
+              "en_GB": "Portrait",
+              "da_DK": "Portræt"
+            }
+          }
+        }
+      ],
+      "privateAddress": {
+        "room": "4B08"
+      },
+      "profileInformation": [
+        {
+          "pureId": 78721484,
+          "value": {
+            "en_GB": "<p><span>My research is in theoretical computer science, namely </span><em>algorithms</em><span>. I began in data structures, but in the last few years the focus has been on combinatorial optimisation (“algorithms for hard problems”, if you want). Most of my recent results are in exponential time algorithms.</span></p>",
+            "da_DK": "<p>Min forskning omhandler teoretisk datalogi, navnligt algoritmer. Min oprindelige forskningsområde var datastrukturer, men i de sidste år er fokus skiftet til kombinatorisk optimering (»algoritmer for hårde problemer«, om man vil). De fleste af mine seneste resultater er inden for eksponentialtidsalgoritmer.</p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/curriculum",
+            "term": {
+              "en_GB": "Profil Information text",
+              "da_DK": "Profil informationstekst"
+            }
+          }
+        },
+        {
+          "pureId": 78721506,
+          "value": {
+            "en_GB": "<p>1993. Bachelor (B.Sc.) in Computer Science and Mathematics, University of Aarhus.</p>\n<p>1994. Cand. scient. (M.Sc.) in Computer Science, University of Aarhus.</p>\n<p>1997. Ph.d. degree in Science, University of Aarhus (Computer Science Department). Title: Dynamic Computation, supervisor: Sven Skyum.</p>\n<p>2007. Docent, Lund University.</p>\n<p>2012. Professor of Computer Science, University of Lund</p>",
+            "da_DK": "<p>1993. Bachelor i datalogi og matematik, Aarhus Universitet.</p>\n<p>1994. Cand. scient.i datalogi, Aarhus Universitet.</p>\n<p>1997. Ph.d. i Naturvidenskab, Aarhus Universitet, Institut for Datalogi. Titel: Dynamic Computation, vejleder: Sven Skyum.</p>\n<p>2007. Docent, Lunds Universitet</p>\n<p>2012. Professor i datalogi, Lunds Universitet</p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/undervisning_og_uddannelse",
+            "term": {
+              "en_GB": "Education and training",
+              "da_DK": "Undervisning og uddannelse"
+            }
+          }
+        }
+      ],
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "thore"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 80492283,
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "thore@itu.dk"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79381315,
+          "id": "thore",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263436,
+      "uuid": "689427b5-8d2a-44f3-b291-6db6ba598305",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/689427b5-8d2a-44f3-b291-6db6ba598305",
+      "prettyUrlIdentifiers": [
+        "miguel-angel-sicart"
+      ],
+      "version": "2a56f2239dfd84caec0940f7ecd737369c415c85",
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 106308528,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords",
+            "da_DK": "Emneord"
+          },
+          "keywords": [
+            {
+              "pureId": 106308530,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "AI in design & art",
+                "Art & play",
+                "Augmented reality",
+                "Creepiness",
+                "Interaction design",
+                "Play design",
+                "Play theories",
+                "Prototyping",
+                "Design",
+                "Ethics",
+                "Dark play"
+              ]
+            },
+            {
+              "pureId": 106308531,
+              "locale": "da_DK",
+              "freeKeywords": [
+                "AI in design & art",
+                "Art & play",
+                "Augmented reality",
+                "Creepiness",
+                "Interaction design",
+                "Play design",
+                "Play theories",
+                "Prototyping",
+                "Design",
+                "Ethics",
+                "Dark play"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "pureId": 84520515,
+          "url": "http://www.miguelsicart.net"
+        }
+      ],
+      "name": {
+        "firstName": "Miguel Angel",
+        "lastName": "Sicart"
+      },
+      "orcid": "0000-0002-8356-5394",
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113217086,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "052c3d63-3248-4204-9db1-c29159570767"
+          },
+          "emails": [
+            {
+              "pureId": 113217087,
+              "value": "miguel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2025-09-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/165",
+            "term": {
+              "en_GB": "Professor",
+              "da_DK": "Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 101698508,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "c07e90b7-3940-4362-858e-b8de824dce38"
+          },
+          "emails": [
+            {
+              "pureId": 108535049,
+              "value": "miguel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2017-10-01"
+          },
+          "primaryAssociation": false,
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 53093333,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e50867dd-11ad-4a3d-897c-e2e57a2f5a70"
+          },
+          "emails": [
+            {
+              "pureId": 79379775,
+              "value": "miguel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2010-10-01"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_center",
+            "term": {
+              "en_GB": "Head of Center",
+              "da_DK": "Centerleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81539019,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "d065e6c2-4fae-4d68-ad04-70aec25d2d5e"
+          },
+          "emails": [
+            {
+              "pureId": 81539021,
+              "value": "miguel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 81539022,
+              "value": "+45 72185031",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2020-11-01",
+            "endDate": "2022-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor_sektionsleder_centerleder",
+            "term": {
+              "en_GB": "Associate Professor, Head of Section, Head of Center",
+              "da_DK": "Associate Professor, Head of Section, Head of Center"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 86929528,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "4e33fdc4-4095-4b1b-a2a4-ad9335e09694"
+          },
+          "period": {
+            "startDate": "2021-01-01",
+            "endDate": "2024-12-31"
+          },
+          "primaryAssociation": false,
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 80817890,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "4cd5ac91-9362-4b61-97cf-76cfeeaedbcf"
+          },
+          "emails": [
+            {
+              "pureId": 80817892,
+              "value": "miguel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 80817893,
+              "value": "+45 7218 5031",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2016-03-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 78745088,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "6e281907-acc9-4dfd-a096-a70af4ab6930"
+          },
+          "emails": [
+            {
+              "pureId": 79380109,
+              "value": "miguel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380792,
+              "value": {
+                "da_DK": "http://deterbold.com/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380551,
+              "value": "+45 7218 5031",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2010-10-01",
+            "endDate": "2016-03-08"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34827225,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "b0dfbdbf-45d5-4891-8e5e-4c447836b9c9"
+          },
+          "emails": [
+            {
+              "pureId": 79379389,
+              "value": "miguel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380679,
+              "value": {
+                "da_DK": "http://deterbold.com/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380346,
+              "value": "+45 7218 5031",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2010-10-01",
+            "endDate": "2014-08-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "profilePhotos": [
+        {
+          "pureId": 81993068,
+          "fileId": "MDA0ZTMxZDZj",
+          "fileName": "miguel.jpg",
+          "mimeType": "image/jpeg",
+          "size": 186739,
+          "url": "https://pure.itu.dk/ws/api/persons/689427b5-8d2a-44f3-b291-6db6ba598305/files/MDA0ZTMxZDZj/miguel.jpg",
+          "fileStoreLocations": {},
+          "type": {
+            "uri": "/dk/atira/pure/person/personfiles/portrait",
+            "term": {
+              "en_GB": "Portrait",
+              "da_DK": "Portræt"
+            }
+          }
+        }
+      ],
+      "privateAddress": {
+        "room": "2F11-2T09"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "miguel"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79381317,
+          "id": "miguel",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263471,
+      "uuid": "10003d22-a201-4b64-88e3-b423bc76fcc2",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/10003d22-a201-4b64-88e3-b423bc76fcc2",
+      "prettyUrlIdentifiers": [
+        "rasmus-ejlers-møgelberg"
+      ],
+      "version": "89e36a59b4e1e022b1ad79418641adc024176447",
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 106393562,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords",
+            "da_DK": "Emneord"
+          },
+          "keywords": [
+            {
+              "pureId": 106393564,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "Programming languages",
+                "Logic",
+                "Semantics",
+                "Dependent types"
+              ]
+            },
+            {
+              "pureId": 106393565,
+              "locale": "da_DK",
+              "freeKeywords": [
+                "Programming languages",
+                "Logic",
+                "Semantics",
+                "Dependent types"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": {
+        "firstName": "Rasmus Ejlers",
+        "lastName": "Møgelberg"
+      },
+      "orcid": "0000-0003-0386-4376",
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113199481,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "c01af025-9c8f-4e9a-aabd-3b8e66f7395b"
+          },
+          "emails": [
+            {
+              "pureId": 113199482,
+              "value": "mogel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2025-04-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/165",
+            "term": {
+              "en_GB": "Professor",
+              "da_DK": "Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 54475191,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "dbd972ac-c438-421c-b7ba-99cee79d52dc"
+          },
+          "emails": [
+            {
+              "pureId": 79379851,
+              "value": "mogel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2013-01-01"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_research_group",
+            "term": {
+              "en_GB": "Head of Research Group",
+              "da_DK": "Forskningsgruppeleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81539056,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "768f3a75-8ff6-46cf-8ab0-c09d1057ec3b"
+          },
+          "emails": [
+            {
+              "pureId": 81539058,
+              "value": "mogel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 81539059,
+              "value": "+45 72185297",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2018-12-01",
+            "endDate": "2022-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34827234,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "b3fe7cc4-8011-4940-aef6-ec228d37c128"
+          },
+          "emails": [
+            {
+              "pureId": 79379392,
+              "value": "mogel@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380681,
+              "value": {
+                "da_DK": "http://www.itu.dk/people/mogel/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380348,
+              "value": "+45 7218 5297",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2013-01-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "profilePhotos": [
+        {
+          "pureId": 82333272,
+          "fileId": "MDA0ZTg0ZTU4",
+          "fileName": "uZF1JQHfRniqPIF4DUPVRQ_thumb_11b3.jpg",
+          "mimeType": "image/jpeg",
+          "size": 124449,
+          "url": "https://pure.itu.dk/ws/api/persons/10003d22-a201-4b64-88e3-b423bc76fcc2/files/MDA0ZTg0ZTU4/uZF1JQHfRniqPIF4DUPVRQ_thumb_11b3.jpg",
+          "fileStoreLocations": {},
+          "type": {
+            "uri": "/dk/atira/pure/person/personfiles/portrait",
+            "term": {
+              "en_GB": "Portrait",
+              "da_DK": "Portræt"
+            }
+          }
+        }
+      ],
+      "privateAddress": {
+        "room": "4C12"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "mogel"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79381323,
+          "id": "mogel",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263476,
+      "uuid": "cfa94f02-ca6c-47ed-b962-64f5f61e50d2",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/cfa94f02-ca6c-47ed-b962-64f5f61e50d2",
+      "prettyUrlIdentifiers": [
+        "kasper-østerbye"
+      ],
+      "version": "1a5f8d20a179d618928b50f65de3da361ec4ba74",
+      "name": {
+        "firstName": "Kasper ",
+        "lastName": "Østerbye"
+      },
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113214540,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/guest",
+            "term": {
+              "en_GB": "Guest",
+              "da_DK": "Gæst"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "04e2bcb8-43a5-45f6-b330-d91ce61a7742"
+          },
+          "emails": [
+            {
+              "pureId": 113214541,
+              "value": "kasper@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2025-09-01",
+            "endDate": "2028-08-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/128",
+            "term": {
+              "en_GB": "Guest Researcher",
+              "da_DK": "Gæsteforsker"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/nonacademic",
+            "term": {
+              "en_GB": "Non-academic",
+              "da_DK": "Ikke-akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81622165,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "768f3a75-8ff6-46cf-8ab0-c09d1057ec3b"
+          },
+          "emails": [
+            {
+              "pureId": 81622167,
+              "value": "kasper@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 81622169,
+              "value": {
+                "da_DK": "http://www.it-c.dk/people/kasper/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/organisation/organisationwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web",
+                  "da_DK": "Web"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2017-01-01",
+            "endDate": "2017-01-17"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/gaest",
+            "term": {
+              "en_GB": "Guest",
+              "da_DK": "Gæst"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 80489672,
+          "addresses": [
+            {
+              "pureId": 80489673,
+              "addressType": {
+                "uri": "/dk/atira/pure/person/personaddresstype/postal",
+                "term": {
+                  "en_GB": "Postal address",
+                  "da_DK": "Postaddresse"
+                }
+              },
+              "building": "4D11"
+            }
+          ],
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/tap",
+            "term": {
+              "en_GB": "TAP",
+              "da_DK": "TAP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e6be95d9-b218-4dc0-990f-cc2a4aeed976"
+          },
+          "emails": [
+            {
+              "pureId": 80489674,
+              "value": "kasper@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 80489676,
+              "value": {
+                "da_DK": "http://www.it-c.dk/people/kasper/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/organisation/organisationwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web",
+                  "da_DK": "Web"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 80489675,
+              "value": "+45 7218 5170",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2015-08-01",
+            "endDate": "2017-01-17"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/gaest",
+            "term": {
+              "en_GB": "Guest",
+              "da_DK": "Gæst"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34827101,
+          "addresses": [
+            {
+              "pureId": 79378279,
+              "addressType": {
+                "uri": "/dk/atira/pure/person/personaddresstype/postal",
+                "term": {
+                  "en_GB": "Postal address",
+                  "da_DK": "Postaddresse"
+                }
+              },
+              "building": "4D11"
+            }
+          ],
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/tap",
+            "term": {
+              "en_GB": "TAP",
+              "da_DK": "TAP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e6be95d9-b218-4dc0-990f-cc2a4aeed976"
+          },
+          "emails": [
+            {
+              "pureId": 79379348,
+              "value": "kasper@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380668,
+              "value": {
+                "da_DK": "http://www.it-c.dk/people/kasper/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380321,
+              "value": "+45 7218 5170",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2015-08-01",
+            "endDate": "2017-01-17"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/gaest",
+            "term": {
+              "en_GB": "Guest",
+              "da_DK": "Gæst"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "kasper"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 80489677,
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "kasper@itu.dk"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79381324,
+          "id": "kasper",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    },
+    {
+      "pureId": 263481,
+      "uuid": "2fa5dc89-7d78-45d0-96c7-e8f39b78dd3e",
+      "portalUrl": "https://pure.itu.dk/portal/da/persons/2fa5dc89-7d78-45d0-96c7-e8f39b78dd3e",
+      "prettyUrlIdentifiers": [
+        "anna-vallgårda"
+      ],
+      "version": "7947fbb3b3ab7e6e324814bb6e05b850bdd6c74b",
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 78905129,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords",
+            "da_DK": "Emneord"
+          },
+          "keywords": [
+            {
+              "pureId": 78905131,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "Interaction design",
+                "Research Through Design",
+                "Care",
+                "Attunement",
+                "FemTech",
+                "Deeply Situated Design",
+                "Care Technologies",
+                "Formgiving"
+              ]
+            },
+            {
+              "pureId": 106601920,
+              "locale": "da_DK",
+              "freeKeywords": [
+                "Interaction design",
+                "Research Through Design",
+                "Care",
+                "Attunement",
+                "FemTech",
+                "Deeply Situated Design",
+                "Care Technologies",
+                "Formgiving"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": {
+        "firstName": "Anna ",
+        "lastName": "Vallgårda"
+      },
+      "orcid": "0000-0001-9898-8106",
+      "staffOrganizationAssociations": [
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 113213797,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "df9352ac-154c-4bd7-a48b-4155f4fd45ab"
+          },
+          "emails": [
+            {
+              "pureId": 113213798,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2025-01-01"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/165",
+            "term": {
+              "en_GB": "Professor",
+              "da_DK": "Professor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 91067646,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "e92dc611-8423-4103-9c23-57ed688a7576"
+          },
+          "emails": [
+            {
+              "pureId": 108535116,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2022-12-07"
+          },
+          "primaryAssociation": false,
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 108269639,
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "9082d6ca-1f45-47ce-a196-43dec9b01245"
+          },
+          "emails": [
+            {
+              "pureId": 108535117,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2018-01-01"
+          },
+          "primaryAssociation": false,
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 30759271,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "8c0665d2-add5-4659-b85b-063379d8150e"
+          },
+          "emails": [
+            {
+              "pureId": 79378793,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2012-08-01",
+            "endDate": "2014-01-13"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 81537801,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "d065e6c2-4fae-4d68-ad04-70aec25d2d5e"
+          },
+          "emails": [
+            {
+              "pureId": 81537803,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 81537804,
+              "value": "+45 72185096",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2017-01-01",
+            "endDate": "2022-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 86929326,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "5f1274b7-139b-4d8e-a714-d95374acffde"
+          },
+          "period": {
+            "startDate": "2021-01-01",
+            "endDate": "2024-12-31"
+          },
+          "primaryAssociation": false,
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 78744716,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "36cbc358-a451-4b18-afcf-7abc591c3d8b"
+          },
+          "emails": [
+            {
+              "pureId": 79380012,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380758,
+              "value": {
+                "da_DK": "http://akav.dk/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380487,
+              "value": "+45 7218 5096",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2015-10-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 80487463,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "36cbc358-a451-4b18-afcf-7abc591c3d8b"
+          },
+          "emails": [
+            {
+              "pureId": 80487465,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 80487466,
+              "value": "+45 7218 5096",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2015-10-01",
+            "endDate": "2016-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/lektor",
+            "term": {
+              "en_GB": "Associate Professor",
+              "da_DK": "Lektor"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 34826819,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "b0dfbdbf-45d5-4891-8e5e-4c447836b9c9"
+          },
+          "emails": [
+            {
+              "pureId": 79379262,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "webAddresses": [
+            {
+              "pureId": 79380638,
+              "value": {
+                "da_DK": "http://akav.dk/"
+              },
+              "type": {
+                "uri": "/dk/atira/pure/person/personwebaddresstype/web",
+                "term": {
+                  "en_GB": "Web address",
+                  "da_DK": "Hjemmeside"
+                }
+              }
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "pureId": 79380274,
+              "value": "+45 7218 5096",
+              "type": {
+                "uri": "/dk/atira/pure/person/personphonenumbertype/phone",
+                "term": {
+                  "en_GB": "Phone",
+                  "da_DK": "Telefon"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2012-08-01",
+            "endDate": "2014-08-31"
+          },
+          "primaryAssociation": false,
+          "contractType": {
+            "uri": "/dk/atira/pure/person/personcontracttype/openended",
+            "term": {
+              "en_GB": "Open ended",
+              "da_DK": "Tidsubegrænset"
+            }
+          },
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/adjunkt",
+            "term": {
+              "en_GB": "Assistant Professor",
+              "da_DK": "Adjunkt"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 86929718,
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "bd4bdd1a-cefe-4355-ae03-aa7b6a633cc5"
+          },
+          "emails": [
+            {
+              "pureId": 108535115,
+              "value": "akav@itu.dk",
+              "type": {
+                "uri": "/dk/atira/pure/person/personemailtype/email",
+                "term": {
+                  "en_GB": "Email",
+                  "da_DK": "E-mail"
+                }
+              }
+            }
+          ],
+          "period": {
+            "startDate": "2022-08-09",
+            "endDate": "2025-04-06"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/head_of_research_group",
+            "term": {
+              "en_GB": "Head of Research Group",
+              "da_DK": "Forskningsgruppeleder"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "StaffOrganizationAssociation",
+          "pureId": 83826036,
+          "employmentType": {
+            "uri": "/dk/atira/pure/person/employmenttypes/vip",
+            "term": {
+              "en_GB": "VIP",
+              "da_DK": "VIP"
+            }
+          },
+          "organization": {
+            "systemName": "Organization",
+            "uuid": "9082d6ca-1f45-47ce-a196-43dec9b01245"
+          },
+          "period": {
+            "startDate": "2018-01-01",
+            "endDate": "2024-12-31"
+          },
+          "primaryAssociation": false,
+          "jobTitle": {
+            "uri": "/dk/atira/pure/person/jobtitles/academic_responsible",
+            "term": {
+              "en_GB": "Lab Head",
+              "da_DK": "Lab ansvarlig"
+            }
+          },
+          "staffType": {
+            "uri": "/dk/atira/pure/person/personstafftype/academic",
+            "term": {
+              "en_GB": "Academic",
+              "da_DK": "Akademisk"
+            }
+          }
+        }
+      ],
+      "profilePhotos": [
+        {
+          "pureId": 110184148,
+          "fileId": "MDA2OTE0NmQ0",
+          "fileName": "ITU_januar_2025_014.jpg",
+          "mimeType": "image/jpeg",
+          "size": 930977,
+          "url": "https://pure.itu.dk/ws/api/persons/2fa5dc89-7d78-45d0-96c7-e8f39b78dd3e/files/MDA2OTE0NmQ0/ITU_januar_2025_014.jpg",
+          "fileStoreLocations": {},
+          "type": {
+            "uri": "/dk/atira/pure/person/personfiles/portrait",
+            "term": {
+              "en_GB": "Portrait",
+              "da_DK": "Portræt"
+            }
+          }
+        }
+      ],
+      "privateAddress": {
+        "room": "4D25"
+      },
+      "profileInformation": [
+        {
+          "pureId": 79369211,
+          "value": {
+            "en_GB": "<p>In my research, I seek to answer the question of how we can design alternative possible futures with stronger ethical and ecological commitments. This drives my research in three areas: developing critical practices for interaction design, designing new ethically responsible care technologies for a diverse population, and exploring the relationship between aesthetics and attunement. I do this through an exploratory design practice where I design artifacts that push the boundaries of what we can and should expect from the technologies we live with. I work with design as an inherently critical practice where artifacts in them selves question our current practice.</p>",
+            "da_DK": "<p>In my research, I seek to answer the question of how we can design alternative possible futures with stronger ethical and ecological commitments. This drives my research in three areas: developing critical practices for interaction design, designing new ethically responsible care technologies for a diverse population, and exploring the relationship between aesthetics and attunement. I do this through an exploratory design practice where I design artifacts that push the boundaries of what we can and should expect from the technologies we live with. I work with design as an inherently critical practice where artifacts in them selves question our current practice.</p>"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/customfields/researchareas",
+            "term": {
+              "en_GB": "Research areas",
+              "da_DK": "Forskningsområde"
+            }
+          }
+        }
+      ],
+      "titles": [
+        {
+          "pureId": 108064131,
+          "value": {
+            "en_GB": "Head of Section",
+            "da_DK": "Sektionsleder"
+          },
+          "type": {
+            "uri": "/dk/atira/pure/person/titles/generic",
+            "term": {
+              "en_GB": "Title",
+              "da_DK": "Titel"
+            }
+          }
+        }
+      ],
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction",
+          "da_DK": "Frit tilgængelig - Ingen begrænsninger"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "synchronisedUnifiedPerson",
+          "value": "akav"
+        },
+        {
+          "typeDiscriminator": "ClassifiedId",
+          "pureId": 79381325,
+          "id": "akav",
+          "type": {
+            "uri": "/dk/atira/pure/person/personsources/employee",
+            "term": {
+              "en_GB": "Employee ID",
+              "da_DK": "Medarbejder id"
+            }
+          }
+        }
+      ],
+      "mainResearchArea": {
+        "uri": "/dk/atira/pure/mainresearcharea/technicalnaturalsciences",
+        "term": {
+          "en_GB": "Technical/natural sciences",
+          "da_DK": "Teknik/Naturvidenskab"
+        }
+      },
+      "systemName": "Person"
+    }
+  ]
+}

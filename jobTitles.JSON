@@ -1,0 +1,333 @@
+{
+  "classifications": [
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/159",
+      "term": {
+        "en_GB": "PhD fellow",
+        "da_DK": "Ph.d.-studerende"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/162",
+      "term": {
+        "en_GB": "Postdoc",
+        "da_DK": "Postdoc"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/104",
+      "term": {
+        "en_GB": "Assistant Professor",
+        "da_DK": "Adjunkt"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/152",
+      "term": {
+        "en_GB": "Associate Professor",
+        "da_DK": "Lektor"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/165",
+      "term": {
+        "en_GB": "Professor",
+        "da_DK": "Professor"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/head_of_center",
+      "term": {
+        "en_GB": "Head of Center",
+        "da_DK": "Centerleder"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/head_of_research_group",
+      "term": {
+        "en_GB": "Head of Research Group",
+        "da_DK": "Forskningsgruppeleder"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/sektionsleder",
+      "term": {
+        "en_GB": "Head of Section",
+        "da_DK": "Sektionsleder"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/phd_skoleleder",
+      "term": {
+        "en_GB": "Head of PhD School",
+        "da_DK": "PhD Skoleleder"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/research_manager",
+      "term": {
+        "en_GB": "Head of Research",
+        "da_DK": "Forskningschef"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/115",
+      "term": {
+        "en_GB": "Head of Education",
+        "da_DK": "Undervisningschef"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/head_of_programme",
+      "term": {
+        "en_GB": "Head of Programme",
+        "da_DK": "Uddannelsesleder"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/co_head_of_programme",
+      "term": {
+        "en_GB": "Co-Head of Programme",
+        "da_DK": "Co-Uddannelsesleder"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/academic_responsible",
+      "term": {
+        "en_GB": "Lab Head",
+        "da_DK": "Lab ansvarlig"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/ledelsessekretariatet_chef",
+      "term": {
+        "en_GB": "Head of Management Secretariat",
+        "da_DK": "Head of Management Secretariat"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/okonomi_og_personale_chef",
+      "term": {
+        "en_GB": "Head of Finance",
+        "da_DK": "Head of Finance"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/head_of_hr",
+      "term": {
+        "en_GB": "Head of HR",
+        "da_DK": "Head of HR"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/head_of_student_affairs_programmes",
+      "term": {
+        "en_GB": "Head of Student Affairs &amp; Programmes",
+        "da_DK": "Studiechef"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/193",
+      "term": {
+        "en_GB": "PhD fellow (industrial)",
+        "da_DK": "Ph.d.-studerende (erhverv)"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/161",
+      "term": {
+        "en_GB": "PhD fellow (enrolled/guest)",
+        "da_DK": "Ph.d.-studerende (indskrevet/gæst)"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/160",
+      "term": {
+        "en_GB": "PhD fellow (4+4)",
+        "da_DK": "Ph.d-studerende (4+4)"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/163",
+      "term": {
+        "en_GB": "Postdoc (industrial)",
+        "da_DK": "Postdoc (erhverv)"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/149",
+      "term": {
+        "en_GB": "Lab Assistant",
+        "da_DK": "Lab-assistent"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/150",
+      "term": {
+        "en_GB": "Lab Manager",
+        "da_DK": "Lab-manager"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/100",
+      "term": {
+        "en_GB": "Academic Officer",
+        "da_DK": "AC-fuldmægtig"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/109",
+      "term": {
+        "en_GB": "Board Member",
+        "da_DK": "Bestyrelsesmedlem"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/112",
+      "term": {
+        "en_GB": "Chief Consultant",
+        "da_DK": "Chefkonsulent"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/113",
+      "term": {
+        "en_GB": "Chief Consultant",
+        "da_DK": "Chefkonsulent"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/117",
+      "term": {
+        "en_GB": "Part-time lecturer",
+        "da_DK": "Ekstern lektor"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/126",
+      "term": {
+        "en_GB": "Guest",
+        "da_DK": "Gæst"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/127",
+      "term": {
+        "en_GB": "Guest Lecturer",
+        "da_DK": "Gæsteforelæser"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/128",
+      "term": {
+        "en_GB": "Guest Researcher",
+        "da_DK": "Gæsteforsker"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/166",
+      "term": {
+        "en_GB": "Professor Emeritus",
+        "da_DK": "Professor Emeritus"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/171",
+      "term": {
+        "en_GB": "Prorector",
+        "da_DK": "Prorektor"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/173",
+      "term": {
+        "en_GB": "Rector",
+        "da_DK": "Rektor"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/174",
+      "term": {
+        "en_GB": "Special Consultant",
+        "da_DK": "Specialkonsulent"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/175",
+      "term": {
+        "en_GB": "Student Worker",
+        "da_DK": "Studentermedhjælper"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/187",
+      "term": {
+        "en_GB": "Teaching Assistant",
+        "da_DK": "Undervisningsassistent"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/188",
+      "term": {
+        "en_GB": "University Director",
+        "da_DK": "Universitetsdirektør"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/189",
+      "term": {
+        "en_GB": "Research Assistant",
+        "da_DK": "Videnskabelig Assistent"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/191",
+      "term": {
+        "en_GB": "Internship Guest",
+        "da_DK": "Virksomhedspraktik"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/131",
+      "term": {
+        "en_GB": "Assistant Lecturer",
+        "da_DK": "Hjælpelærer"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/academic_head",
+      "term": {
+        "en_GB": "Academic Head",
+        "da_DK": "Akademisk leder"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/vice_dean_of_research",
+      "term": {
+        "en_GB": "Vice Dean of Research",
+        "da_DK": "Prodekan for forskning"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/external_consultant/145",
+      "term": {
+        "en_GB": "External consultant",
+        "da_DK": "Ekstern konsulent"
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/academic_employee/101",
+      "term": {
+        "en_GB": "Academic employee",
+        "da_DK": "Akademisk medarbejder "
+      }
+    },
+    {
+      "uri": "/dk/atira/pure/person/jobtitles/adjunct_professor/103",
+      "term": {
+        "en_GB": "Adjunct professor",
+        "da_DK": "Adjungeret professor"
+      }
+    }
+  ]
+}
