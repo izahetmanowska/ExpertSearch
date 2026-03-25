@@ -1,0 +1,47 @@
+@token = 55b39ff8-4e42-4e98-b0d9-329f1c1f9bd3
+@size = 1000
+@order = authorLastName
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=0&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
+###
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=1000&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
+###
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=2000&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
+###
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=3000&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
+###
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=4000&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
+###
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=5000&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
+###
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=6000&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
+###
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=7000&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
+###
+
+GET https://pure.itu.dk/ws/api/research-outputs?size={{size}}&offset=8000&order={{order}} HTTP/1.1
+Accept: application/json
+api-key: {{token}}
