@@ -1,0 +1,789 @@
+UUID,firstName,lastName,email,jobTitleId
+37d49222-56d7-4c65-8d52-3638544511cf,Jens Christian,Godskesen,jcg@itu.dk,4
+79ebe3ed-0527-4160-9af6-be0b0853b00e,Jan ,Pries-Heje,,28
+4d7fda5a-3cf4-4d39-9daf-1ae192b0e0e7,Rune Møller,Jensen,rmj@itu.dk,4
+5ad9c220-e37f-443a-8a31-fc4abf365db5,Dan Witzner,Hansen,witzner@itu.dk,5
+f2136570-f73c-446f-9fb0-6d9e461e2124,Yvonne ,Dittrich,ydi@itu.dk,5
+472021c7-73cc-44ba-a4ef-70cd2bed8601,Thore ,Husfeldt,thore@itu.dk,5
+689427b5-8d2a-44f3-b291-6db6ba598305,Miguel Angel,Sicart,miguel@itu.dk,5
+10003d22-a201-4b64-88e3-b423bc76fcc2,Rasmus Ejlers,Møgelberg,mogel@itu.dk,5
+cfa94f02-ca6c-47ed-b962-64f5f61e50d2,Kasper ,Østerbye,kasper@itu.dk,31
+2fa5dc89-7d78-45d0-96c7-e8f39b78dd3e,Anna ,Vallgårda,akav@itu.dk,5
+a39b94ff-e1b6-4b96-8404-486167a9123d,Andrzej ,Wasowski,wasowski@itu.dk,5
+92f6c3f3-0ad2-40fc-b278-69170f87567d,Lars Rune,Christensen,lrc@itu.dk,4
+ea6d10cf-6bb5-4414-8966-f1ed2591f794,Søren ,Lauesen,slauesen@itu.dk,32
+d30b96a8-4f1e-44fa-9bf5-0209bedf0268,Thomas ,Hildebrandt,hilde@itu.dk,47
+8796830b-1ead-4c0e-a058-7d924cf6d8d9,Elise,Nørrekjær,,
+d3b41838-e2bf-4735-b1cd-03f60b49c7e5,Søren ,Debois,debois@itu.dk,4
+1313519f-2074-41d6-8b79-589648e37211,Carsten ,Schürmann,carsten@itu.dk,5
+47a94200-3abe-4354-b5e3-c8ef6f1ba1f2,Claus ,Brabrand,brabrand@itu.dk,5
+b752c464-c7fb-4a52-a0c3-3b2d3db5d62f,Gitte Bang,Stald,stald@itu.dk,4
+9ba013db-4c4d-41dd-be12-dbe188f67f29,Hanna Elina,Wirman,wirman@itu.dk,4
+46d7f7bb-fea8-4369-a0c0-5c4dc8cb7d2d,Jens Hedegaard,Nielsen,,
+6d22f312-0b4c-4dd5-b2b0-b024473c5c40,Vibeke,Ervø,ervo@itu.dk,
+0ee7ba1e-3108-4db3-a908-97977980d032,Peter ,Sestoft,sestoft@itu.dk,5
+9027b41a-4159-4db7-9ddd-8fc8f41f1fb3,Marco ,Carbone,maca@itu.dk,5
+75c31515-167a-4266-98a0-15c5bb9fc98b,Georg Dam,Steffensen,georgds@itu.dk,38
+b4800b80-4539-4c03-9c45-38110a03ccb5,Flemming,Hedegaard,flehe@itu.dk,
+cf5e1d64-5489-4534-ba34-8dba5fd354a6,Paolo ,Burelli,pabu@itu.dk,4
+9114ff72-bd52-4bd3-b5a1-bbe1412e98f3,Steen,Brahe,,
+2ee8e2e0-7fe6-4b8c-a104-509c46e7b45b,Morten Bach,Jensen,,
+94247311-75aa-44c9-8497-f2849a75a7df,Christian,Stefansen,,
+545501c5-18f2-4cf9-84da-3348bbef27ed,Søren,Nielsen,snielsen@itu.dk,
+4922148e-d902-42d9-bab5-1d1777b9a14d,Mark,von Rosing,mvro@itu.dk,
+34851fce-e4b0-4478-aa8b-fc4444a03db1,Tom,Flensted,tofl@itu.dk,
+deceeaf7-0007-4607-8b92-e326ea39abe3,Jette,Kreiner-Møller,jkm@itu.dk,
+a57398a4-b783-4bce-abc0-aab7070ee8f0,Thomas ,Vigild,vigild@itu.dk,
+59042bb8-c701-462c-990b-ce3d8006fd84,Karen,Boll,,
+fb49eede-1800-4fd9-898a-25518edea887,Renée Korver,Michan,dutchgirl@itu.dk,
+62c65577-d956-4248-a9b6-de9568e424d1,Jasmine,Duchon,,
+0e2c06ee-d065-4477-93e1-d5ccf2f48fec,Fiona Bríd ,Mulvey,,
+51cfa226-5179-4a05-aa13-4a53f8de6404,Helge ,Pfeiffer,ropf@itu.dk,4
+e4e94078-69c9-4ea3-92fe-6266f55511ea,Pippin James,Barr,pjba@itu.dk,
+00234c85-ac92-4a6c-b39c-a31c80531bbd,Berit,Løfstedt,,
+6cf32c11-7590-4b4f-b14f-f0b3abd72f98,Christian Feldbech,Nissen,chfe@itu.dk,
+37a6cad9-60bd-4dd8-839e-140096ccd27d,Tinus,Mørch Abell,,
+d55dab65-fffe-4da4-a383-cfcf5ee3a8cd,Christopher ,Gad,chga@itu.dk,4
+2b8ff3a4-e9b0-403d-8bd8-1bf26121c234,Paolo ,Tell,pate@itu.dk,4
+879e7ac4-e64c-4c5f-9591-421e56cd0678,Natalie ,Schluter,nael@itu.dk,4
+14396cd2-ae59-4ac5-8569-e0305c3a775b,René,Hansen,,
+77ac7c24-83a7-4a8f-9ef7-2b552ee9973a,Benoît,Stella,,
+b2b68ce2-6257-45bf-ab48-dc17d05c885e,Jesper ,Bengtson,jebe@itu.dk,4
+9adee782-0246-4b19-88ed-c41d1056e0d8,Amit,Sangroya,,
+739cd005-518c-4873-a115-e24245a18be3,Ramkumar,Ramachandra,,
+8b302a41-62a6-4cc1-8105-360efb82c2dd,Shashank,Dabriwal,,
+b5c8bbfd-2f6c-4b25-8f6f-691171d0c349,Mohammad ,Sharhan Dakhil Al Jarrah,,
+5f0565d7-b7ed-493f-8c3a-5014e37a51fb,David Rozado,Fernández,,
+bd208ddd-495a-409c-ad24-6ac8d5b7b003,Luigi,Cardamone,,
+dbf46bed-0956-47c4-95e9-d850c6f897d5,Gabriela,Marcu,,
+df20d8ed-95fe-4f73-aa91-f6e87f497c37,Amin,Piramoon,,
+fc88869e-dc05-4982-8ae9-a4a2a250b6f7,Maurizio,Garbarino,,
+1279cca4-a4f0-43fd-809d-3dab3385fed2,Andreas,Hesel,,
+c3ca70b5-bc44-4c11-88be-73fd44ff0741,Christos,Iosifidis,,
+2371afb1-c89c-4d5f-9910-d2acd066c9f9,Søren ,Therkelsen,,
+e7f2d619-5752-4b5c-b702-f25ba9b13b48,Birgitte Gorm,Hansen,,
+1052b289-f510-4c5a-9662-2db48c12ebc2,Lene ,Nielsen,lene@itu.dk,4
+0cc78e11-da3d-4687-a49a-76a2ba39c292,Sara Marie,Ertner,saramarie@itu.dk,4
+f2217efc-4676-4b22-b358-03337f238502,Ulrik Hartmann,Gade,uhg@itu.dk,
+138d74d8-70cf-4baa-b5ba-2ab5bef941ca,Ivana,Cipriano,,
+a788557f-cc3f-41f7-8004-5d1bf002e0c9,Mads Bjerregaard ,Andersen,mban@itu.dk,
+80784458-06f6-4eff-b0c8-df982ffa9835,Rune Kristian Lundedal,Nielsen,rkln@itu.dk,4
+b21da0ac-624d-4d76-b546-7dbeae5751ee,Thomas,Berglund,,
+55750491-d4d3-47d4-a473-7a2252edb685,Károly,Szánto,,
+30db2a39-d0ec-4dfa-8805-f2179253e848,Signe Marie,Elm-Larsen,,
+8627449e-0403-47b5-bb0c-6ae099fd94e2,Mads,Hartmann Jensen,,
+be01e9df-3650-43bf-ad2c-3603bebe0996,Yusuf,Pisan,,
+4992a739-22ae-4be8-a683-39ad0340c512,Sidsel Marie,Hermansen,,
+9f1cf02b-ca92-4665-945a-29f2755c390c,Johanne,Keiding,johanne@itu.dk,
+a4abf4dd-b4c3-474e-97f6-89b54c1f0389,Lykke,Ilg,ilg@itu.dk,
+b7c1af22-ef9c-444e-a1d5-dfd1721d5a8d,Yuri,Malitsky,,
+e0e0a6d3-d35b-4223-8069-89f632461c6e,Jens Zeilund,Sørensen,,
+7a07de74-65db-490a-874b-d8977dc522a6,Thomas Ølund,Høgild,thlu@itu.dk,
+03abc2c4-2109-4222-b82e-0ba6104e102e,John Willy,Bakke,johw@itu.dk,
+8d491856-cb93-4a84-b012-e5388f7c4ff2,Marie,Lau,lau@itu.dk,
+6dc6c07f-7961-4fe0-96c4-6c3a857e16ff,Søren,Vibjerg,sovi@itu.dk,
+a119a5dc-b09a-492a-a92a-354005c1ea19,William ,Robinson,,
+76ad912b-dbb1-45c6-93f5-b2fe7f1ec3e9,Wusheng,Wang,wwan@itu.dk,
+6b6a992c-950e-47a8-b6bf-62c682e4b289,Michael,Heimark,,
+3b99f4b4-0782-4c43-8bb3-263f498133a3,Tim,Kindberg,,
+6037053a-1b8e-4028-9847-32bf6b26410b,Kristian,Borten,kbor@itu.dk,
+2bdb680b-104c-42a4-a65d-cdc0ee3a5382,Mikkel,Wendt-Larsen,,
+f6dd6460-4307-4c21-a194-2c0b0c68be3e,Andrea,Pacino,,
+5dffbbe0-cff5-46d0-ae3c-e112a2020a9a,Bent,Egebart,bleo@itu.dk,
+b1a387bf-34f6-469c-b479-58ddcba4c14c,Kateryna,Lastovka,,
+bdecc845-533c-4a48-98b1-8a8608c7456b,Ji-Hyeong,Han,,
+72ebe705-66ad-4418-8d64-092e4fe246b4,Woo-Ri,Ko,,
+88507577-fe21-433b-8253-c6115383730b,Gopalan,Nadathur,gopn@itu.dk,
+ee5bdf6f-79e2-4c7c-83da-3691365680a8,Timothy Colfax,Hankins,tcol@itu.dk,
+536b2a72-7c70-4fcc-a2ff-52d7c437adba,Christian,Harrington,cnha@itu.dk,
+bc5981ee-e75f-4a38-b506-d1ff62ae19e5,Nicolai Dahl,Blicher-P.,ndbl@itu.dk,
+7998ba0f-5ca2-4f16-a4c3-275c12f77fc0,Héctor Puente ,Bienvenido,,
+2e383aa4-363d-4800-a8c5-60f0d4aab439,Nikolaj,Settnes,nise@itu.dk,
+ba4474fe-5991-4132-9fe8-8e7f4b094250,Laura,Sesma Sanchez,,
+deb2c84b-5527-40a4-808c-12b6d5a88881,Lian,Yu,liyu@itu.dk,
+74a08deb-18e1-48d0-a86e-ed6675da92ab,Christian Østergaard,Madsen,chrm@itu.dk,4
+61bbf302-baeb-4dcd-9307-ea40d41add59,Jan,Dalsfort,jdal@itu.dk,
+651ae9ee-a6e0-4700-821b-577bfec72ad2,Mads,Munck Petersson,mmpe@itu.dk,
+2efbc294-1ce4-4148-a403-93fe6450d879,James ,Maguire,jmag@itu.dk,4
+f505c4bc-e50d-49eb-b37f-c49b5fa8a730,Henriette,Boesen,hboe@itu.dk,
+5ff90316-cd07-47e3-b5a3-d2078f84888b,Tawhid Bin,Waez,twae@itu.dk,
+bc7a60f7-45a0-401f-813f-6b4aa700c849,Steffen ,Dalsgaard,sdal@itu.dk,5
+e0b756b0-479a-4970-92a8-3aea5075250a,Julie,Skovbo Pedersen,jsko@itu.dk,
+a08b2ac6-ab79-4b5f-ba3f-c767feaf3db9,Andreas Brinck,Kristensen,abri@itu.dk,
+4b8912e5-fee8-4777-862e-d4655e48f14f,Bastian,Müller,bmue@itu.dk,
+469f6dd3-74e7-4bb3-afa7-c7fcb2a30944,Magdalena,Kogutowska,magk@itu.dk,
+d519f00c-0243-4f50-a8bc-fae7506b7fea,Sara Elisabeth Veinholt,Jensen,sevj@itu.dk,
+d92907d9-b39e-4524-9848-536546bd2fb9,Siv Katharina Petersen,Søndergaard,siks@itu.dk,
+86f555de-8a2b-4aa9-a24f-6ed6f7100787,Esben Mosbæk,Christensen,esch@itu.dk,
+de12256c-c49d-4560-9c3f-e055e4f7db65,Alexander,Almegaard,alea@itu.dk,
+b6c98930-e1c7-422f-bb9c-808f1394344a,Ornela,Dardha,odar@itu.dk,
+4e33d926-364b-47b8-97d7-409c16b62db9,Vasiliki ,Baka,vasb@itu.dk,4
+c12f599c-64a5-4fdb-86c9-e07392942129,Marco,De Gasperis,maga@itu.dk,
+eee03c7a-550e-4c71-b222-00f32b917e43,Julie Meinicke,Nielsen,juln@itu.dk,
+44c88dce-966d-46f3-88a8-2014e39197b9,Hans-Joachim Løvind,Backe,hanj@itu.dk,4
+1dfe5d85-a1cc-4810-b5f7-7790e77896b9,Israel,Vazques Marquez,isra@itu.dk,
+2d9032e2-b0c5-4713-b072-5cf9d63822ea,Zhang,Zhichao,zzhi@itu.dk,
+10e4fc8e-556f-4104-b744-409caedc2276,Morten ,Hjelholt,,
+ddf4d696-84ed-420f-966a-54208ce844b9,Stine Birk,Nissen,sbni@itu.dk,
+91042c4f-f3f1-4e5b-aaad-59d5e7635bac,Simon,Shine,sshi@itu.dk,
+d49a30e4-939a-4a5c-98bf-adc795e89cb0,Charlotte,Larsen,chal@itu.dk,
+992303a7-ea78-4019-b072-7d517a662690,Simon,Terkildsen,sbat@itu.dk,
+f3bf8270-4bd5-434f-8b79-3a0d64810007,Freja Bange,Nyboe,freb@itu.dk,
+adc43c0b-b285-43f4-941b-e67e38395302,Juan Francisco,Belmonte-Ávila,jfbv@itu.dk,
+bffb9317-9590-43fa-8060-e441038a5648,Ida Egedal,Henriksson,iege@itu.dk,
+2a9c0934-98ca-4101-b829-b88d77f6487e,Kasper ,Støy,ksty@itu.dk,5
+f11b0cc1-ad9f-4b12-b805-65b70e5bcd65,Rachel ,Douglas-Jones,rdoj@itu.dk,5
+1b45e3f5-b8cd-4c0d-a444-2901304f76ee,Luca ,Rossi,lucr@itu.dk,4
+05af43bb-33f1-403a-b03d-a165188f503c,Cathrine Møller,Petersen,cmop@itu.dk,
+5046db19-a48e-4b82-ba16-914340c8d93a,Rikke,Oberlin Flarup,,
+a420ffb3-2ca6-4925-a25f-baaa5228fc15,Sebastian ,Risi,sebr@itu.dk,5
+82c323b6-319f-4f38-835e-3e7618da4d20,Michaela,Rizzolli,,
+4158ccb2-0c9d-44eb-a71b-3b30a7294786,Paulius,Juodisius,pjuo@itu.dk,
+9e2646b1-9ff1-4bfb-a42e-46d546654ecc,Marie,Olofsen,molo@itu.dk,
+23c8fa15-b51a-4177-b5a5-1cbf2b7dbe46,Sarah Marie El-Youssoufi,Malm,sely@itu.dk,
+fb1fdc6c-a32c-4616-a15c-a1271f5bb91b,Henrik,Haugbølle,hhau@itu.dk,
+c787bf67-b04c-4910-838c-c157c876b01c,Lars Yndal,Sørensen,lynd@itu.dk,48
+a86c7c9f-df1e-461a-9f94-54df4f007ca8,Søren Korsholm,Poulsen,srek@itu.dk,
+c88a32b8-0c58-4ba4-ad3b-ade0d5392e8b,Juan Carlos Brinkhard,Krebber,juak@itu.dk,48
+1e0534b4-fe3e-4c5e-ad6d-5f1c7df6a14e,Erik ,Grönvall,erig@itu.dk,4
+b3bce202-53a8-450a-9790-4bfdc5f7fe09,Jonatan,Van Hove,jvah@itu.dk,48
+a01fb25e-ca57-4ab4-b781-7303196f16ce,Gry Krogager,Lund,grlu@itu.dk,25
+8e2b54cb-0eb3-46b0-b224-b7b7b02404fe,Panagiotis,Lypiridis,plip@itu.dk,48
+4ccfdc24-c34f-4d1c-9c93-6284b38fa910,Kristine Helen,Falgren,khfa@itu.dk,49
+443362d7-b255-460d-a559-0fa80a8d9fbc,Vasilis ,Galis,vgal@itu.dk,5
+d260b32a-eb4d-4f8f-8699-158489e32f53,Halla Nordfjörd,Gudmundsdottier,hnog@itu.dk,50
+f06ed23d-b6d0-4af9-bb74-ecbcd6ca0c47,Jørn ,Lambertsen,jrnl@itu.dk,39
+7dd48cfe-3069-4563-bef4-ef661c18387a,Andres ,Faina,anfv@itu.dk,4
+d74968d5-5a37-461d-bbfb-8148d2f2c2ae,Emilie,Grambye-Jensen,emgr@itu.dk,48
+3001da47-d304-4ec0-a2d6-622c06ebada3,Thomas,Snaidero,tsna@itu.dk,48
+bbe8cff1-639c-4226-ac23-9a569470722d,Ioannis,Sintos,isin@itu.dk,48
+0d2b6d7c-68a8-44c8-ba1a-0494823eb015,Kristrún,Einarsdottir,kein@itu.dk,48
+ca54b959-a7ec-48df-9925-6859ac2ca221,Jens Ulrik,Jørgensen,jenu@itu.dk,48
+cbfb9944-6d2a-44ee-a537-7a2c3de0d89a,Mikkel Riise,Lund,mirl@itu.dk,48
+22ec9269-2fff-4dbf-a9c7-5037559a15ee,Anders Sundnes,Løvlie,asun@itu.dk,4
+5c54c44a-9eaa-4a97-a78a-e853dc73e9d9,Rodrigo Moreno,Garcia,rodr@itu.dk,3
+54728da8-274d-40e6-b119-23318d995721,Hanne ,Westh,hwni@itu.dk,4
+e9d14210-bc71-4824-b7cf-fd1448d022ab,Marisa ,Cohn,mcoh@itu.dk,4
+a4c1604d-b01f-46ef-baf3-74d2a8046d6b,Jörn ,Christiansson,jrme@itu.dk,4
+b8e6e2fd-abda-463d-a7d1-f7a0cc1636fb,Anne Geisshirt,Lorentzen,agep@itu.dk,23
+28ea45c1-7b56-4157-b0e4-ab92947065bc,Jonas Kastberg,Hinrichsen,jkas@itu.dk,47
+7a562635-f192-45b1-a691-16d0887422de,Annemette,Elkrog,,
+db2424e2-5f49-46bb-88df-9095f30a0ab3,Christina,Fischer,,
+cb99d0c9-5292-48f9-8642-bcde8e72320f,Elisabeth Kjær,Simonsen,,
+e913bcc8-06df-4c44-aa51-75ca6e6a6c67,Margareta,Christensen,,
+9c4a377c-4273-4e66-adfa-b3c380cef3a3,Mie,Weile,,
+daad9e48-6ac9-46c5-a76a-e587e95f3932,Stine Letholm,Wagn,,
+09dfef69-d887-4399-a1e6-2373570d2d3d,Suzanne,Kjær,,
+dd3c02e1-bc65-4418-9800-b80af6135d8f,Stig Vester,Pedersen,,
+3d49de50-0620-46fe-ae15-53b12dfb8649,Björn ,Karlsson,bjrk@itu.dk,29
+e0edf6ca-5a14-41d8-81cc-77fd67f03ee5,Jens ,Schmidt,jesc@itu.dk,27
+ddcdfda8-c5ea-4e67-b0ea-21ba86966197,Martin,Pichlmair,mpic@itu.dk,4
+e6f70fb0-caf1-4736-b583-b0777bc1390f,Riko ,Jacob,rikj@itu.dk,4
+84c470ec-b123-4cc2-b075-497c78b39d6f,Sarah Tenna,Tobiasen,stto@itu.dk,23
+5041f387-908f-4845-9f79-3a6dbd527f4b,Michael ,Hockenhull,michh@itu.dk,2
+9240e4cf-f53b-4b2f-b561-4562e88ef3f3,Rikke Lovmand,Vistisen,,
+a22e85da-82e3-410d-8ef1-31407362ba19,Louise Harder,Fischer,louf@itu.dk,4
+6ec63914-1f4e-4708-8830-1b054c2ee03a,Irina ,Papazu,irpa@itu.dk,4
+d37cba38-dff2-4c27-a515-226cfadfd849,Jonas ,Fritsch,frit@itu.dk,4
+25a5a0d6-404b-419c-9502-b246525617a2,Laurens ,Boer,laub@itu.dk,4
+5e271e6a-7a91-47bd-9f12-3b73f4e0d7ac,Patrick ,Bahr,paba@itu.dk,4
+0537edb0-1a18-425e-8a82-c92b2882a597,Vasilieos-Spyridon ,Vlassis,vavl@itu.dk,2
+c27ebbb6-7aae-41d4-b6fe-eb4a09024eca,Ida Kathrine Hammeleff,Jørgensen,ihjo@itu.dk,51
+5b00382a-85c0-470a-9cf2-529ff74cd785,Jimmy Lykke,Mikkelsen,jlym@itu.dk@itu.dk,23
+805cae2a-3462-4130-88de-cc7d94aec0a5,Vasiliki ,Tsaknaki,vats@itu.dk,4
+15d90e32-9373-4257-9a74-2b92124fce67,Annette,Thomsen,,
+0ab452c7-ce47-4abc-bae3-5779ce461783,Friederike,Schlüter,,
+1b3cff7f-1549-4998-b52e-0ba9093e1d01,Pedro ,Ferreira,pedf@itu.dk,4
+6242af97-6bf8-4996-bbcd-6c6742db9ad5,Louise Lærke,Jensen,,
+6e29df7b-a433-4d8d-94bb-c2f73e8d19ab,Atanas,Bozhikov,,
+530fe249-687f-4e71-97c1-9f892995e77d,Carina Vind,Petersen,,
+e7e5390a-0940-4ac7-ab51-299bb7af3657,Simon Asger,Gjerløv-Christensen,sgjc@itu.dk,48
+4398dfd4-2627-4dbb-9ef1-de133b87f57f,Elizabete ,Munzlinger,enar@itu.dk,19
+cc05080c-2847-4077-a5a3-c5f56c2f02e7,Janus,Varmarken,janv@itu.dk,48
+084307b9-439e-4546-a7cb-b92436c01d9e,Simon,Langhoff,siml@itu.dk,48
+5c50bbc9-ed3d-417f-ba4d-e484eaf536b3,Alessandro ,Bruni,brun@itu.dk,4
+5f52759c-418a-41b7-bbdb-050492677284,Martin ,Aumüller,maau@itu.dk,4
+70f3c85a-9cd2-40b4-bed9-5e2a75609421,Sisse ,Finken,sisf@itu.dk,4
+795903b2-fcd5-4380-a9fb-b671780631af,Lars,Christoffersen,,
+82e44c10-e721-4308-8c18-cbe0f5ece50f,Jesper,Nielsen,,
+3475035c-51e0-431d-995c-5532f56fb2ba,Majken,Houborg,,
+1f5d1b7a-c5fd-4754-a225-4691a56d3d8e,Eva,Ulstrup,,
+528393a3-e784-47a8-85be-c81d44c393bd,Sanna-Maria ,Marttila,sanma@itu.dk,4
+ffa412d2-827d-4a64-9a61-739c2fe1b24d,Maria Vilsgaard,Murphy,mavm@itu.dk,25
+4b32d446-5acb-42c7-83b2-41ca287d8613,Ben,Cahill,benc@itu.dk,25
+831421c0-027f-4a25-b795-ee2fce0c8d2a,Louise ,Barkhuus,barkhuus@itu.dk,5
+b401a0de-8ec9-4055-9833-42e58719082a,Anne,Stokholm,,
+3ef9211c-34b2-4061-ba59-c5800d6a5b32,Cæcilie Sloth,Laursen,cael@itu.dk,20
+d0ac2ddf-92a4-4aa2-80ec-779dbf355e0f,Lien,Tran,,
+4671b701-f943-4dbc-92f2-34d5be8e698e,Anna,Carstens,,
+79a844ac-9286-4162-a4b5-47744c0735de,Dennis Viltsborg,Jonasen,,
+e2f09090-1995-4442-89a5-4449edec3b76,Carlotta,Porcelli,capo@itu.dk,48
+0ec7cb1b-3d3c-4c4f-af41-84eae49336a7,Nina Sølvberg,Nelby,,
+7b9f9bfa-9817-4357-a4c1-481ebe11edee,Peter,Morris,petmo@itu.dk,49
+42147e05-f94c-471d-a889-c57a01e4bdd0,Pawel ,Grabarczyk,pawg@itu.dk,4
+bd52cb95-025e-4106-9c13-1345c76dcbfe,Björn Thór,Jónsson,bjth@itu.dk,31
+33e8ee22-baab-489b-8fb2-7d931d7f1743,Rikke,Meyer,,
+4b021213-e6b4-48ec-bd65-439e4621f6f4,Anne Birgitte,Tauris,,
+62db65c9-470c-472f-b039-6c4a704ef170,Rosario ,Giustolisi,rosg@itu.dk,4
+73fc2a06-9951-4cb6-9263-2b72002c4340,Konstantinos ,Manikas,koma@itu.dk,28
+5d268f64-6963-4991-9ac4-e7510c0ae705,Harvey ,Bewley,harb@itu.dk,25
+66386436-d2dd-4385-9604-0ba4665341e5,Ljiljana,Markovic,,
+e74612ae-6f51-4bb4-bb8b-d45c3a48c95b,Sara,Toft,,
+20f85094-c6bb-4907-addd-849fb006f058,Christina Gren,Weiland,,
+48280ecb-769d-4bf4-a268-56fb423c256e,Line Engel,Hüttig,,
+b614ac6f-eefa-44a3-8b9a-092b88d86d37,Baki ,Cakici,bakc@itu.dk,4
+e8e88610-5144-41da-95bf-597abf1d7869,Sami ,Brandt,sambr@itu.dk,5
+fc5b12db-2ad4-4eb3-9332-f78216602b44,Lis Lak,Risager,,
+0b94a786-c5df-4159-a01d-86d82f34bc0c,Søren,Brunsgaard,,
+82a68906-d29e-47d3-9b30-ab8c6e916283,Halfdan Hauch,Jensen,halj@itu.dk,52
+0de12e29-b9ec-4e0a-9d8d-67bfd694bc58,Ann-Sofie,Eskildsen,,
+c5ea8246-924f-408d-a535-8e1e12c3872c,Patryk,Jon,pajo@itu.dk,48
+6ccac6a9-b687-422b-9ab3-c4001295b7f1,Natalie Fialho,Kierulf,,
+d8e9ef38-e331-4dfb-8be6-8b95191a05e7,Lisbeth,Figge,,
+06d038a4-f659-4c53-8a6d-58e295ab603f,Sunniva ,Sandbukt,suns@itu.dk,3
+67a099f1-94c4-4bcd-b900-5f42aceb70d0,Jacob Mathias,Schreiner,jams@itu.dk,48
+3dac6e0e-2770-4c5e-b32a-d7750523516f,Jonas Valbjørn,Andersen,jova@itu.dk,4
+63342b24-28ec-40c5-a7d9-ec49867dc75d,Pinar ,Tözün,pito@itu.dk,4
+5d210d1d-c7de-4434-96ae-8ced89de0da5,Rasmus,Balle,,
+789b6eac-8500-4bf3-bd31-bc9db5e771fa,Carolina,Velasco,,
+6c543b1d-8137-489d-b444-d17921fc9de9,Simy Kaur,Gahoonia,sgah@itu.dk,2
+785a7089-e58e-4aaa-986d-ae0e615ba508,Leon ,Derczynski,leod@itu.dk,4
+53c45a58-4c3c-424c-80a2-c39e733fd7c3,Radu-Cristian ,Curticapean,racu@itu.dk,4
+807b03e7-ab1e-424c-abe3-4494134e9ab0,Thomas Charles,Rohleder,tcha@itu.dk,48
+bf3f9e1d-6f17-4ada-9b71-4ee93b47eb53,Irene,Thisted Larsen,,
+f073ebac-704d-4236-9206-d1d2ef2be9c3,Barbara ,Plank,bapl@itu.dk,31
+9cf737ee-bd9a-4f7e-b865-b6ff6ed01fde,Willard ,Rafnsson,wilr@itu.dk,4
+fccf3da3-bf8b-4ce9-99d9-6744b1913f69,Henning,í Grund Bøgesvang,,
+99a08639-c3fe-4ec6-adfb-6731eb95da48,Malene,Fagerberg,,
+00544b55-7862-4d8c-8c57-01551a7f04d2,Annette,Nørballe,,
+90b501a9-4d44-460b-b193-4d7d524bb21b,Michele ,Coscia,mcos@itu.dk,4
+02960d47-7677-4b2c-99d4-490a31fd6885,Mircea ,Lungu,mlun@itu.dk,4
+f14f4742-c9d8-4a34-b8e2-d713c3a1f437,Oliver ,Krancher,olik@itu.dk,5
+9d016d08-baa1-4a1c-b406-9105cac383d8,Bertil Johannes,Ipsen,beip@itu.dk,23
+c596539b-3ceb-497c-9a43-e71d6b0f65a6,Djordje ,Grbic,djgr@itu.dk,4
+05c84589-af09-4f19-b5d6-d2771e26d83c,Anne-Sophie Worm,Hansen,,
+0bdda5a8-b38a-4532-b9a2-e5d9a98c05a7,Hasib ,Ahsan,hahs@itu.dk,29
+7016a7a0-c187-4a62-baef-0780150912d1,Morten Roed,Frederiksen,mrof@itu.dk,3
+e23e8096-59cb-4ef6-af48-ce9d806fd1eb,Nanna ,Inie,nans@itu.dk,3
+c4e4fa45-a84f-4422-a4f5-7cc5706782a2,Mai ,Hartmann,maih@itu.dk,1
+857b3b5b-92d4-43b3-861c-d8efbdbe3b16,Omar Shahbaz,Khan,omsh@itu.dk,3
+8785f18a-1bf3-4c63-8d8b-d3e5d516ca40,Payam ,Zahadat,paza@itu.dk,4
+bdc2cd4a-df05-46ca-b027-b038039a58ec,Bernardo Machado,David,beda@itu.dk,4
+c649bf10-5588-4d10-8c7c-471874cf98f9,Sebastian ,Büttrich,sbut@itu.dk,53
+34f20028-8dec-4545-8fc2-0fe4a60759a8,Christian,Moikjær,,
+b5e99c68-35b4-409a-a644-5d7345983b02,Laura Ahlquist,Jensen,,
+15c12622-f52e-4709-bc01-f2ff057568cf,Halfdan ,Mouritzen,,24
+8949ca8c-746d-4a53-b816-ec9ebf06764c,Olivia Thomassen,Harre,olih@itu.dk,2
+605b59ab-91b4-4f8e-bb12-df68ce0491c5,Cancan ,Wang,cawa@itu.dk,4
+d33f2275-2c22-47e4-a40d-3cc58b2c2236,Helle,Martens,helma@itu.dk,24
+3ad26d6b-4619-4a9f-a1b6-8424aab1dd52,Tom ,Jenkins,tomje@itu.dk,4
+2ef641d0-bd79-425b-8b12-b58d74b993ae,Michael ,Szell,misz@itu.dk,4
+9734ef6f-09d1-4ca1-b968-6ad34872d504,Priscila Santos da,Costa,prsa@itu.dk,4
+418f030f-2b26-4c74-a77b-c0c87d13f56d,Roberta ,Sinatra,rsin@itu.dk,5
+0baaf9f8-3126-4cb1-b22f-b9fceabb8b54,Lara,Tatjana Reime,lata@itu.dk,54
+fb4b9d17-f1ec-466b-b222-caba06823edc,Mahsa ,Varshosaz,mahv@itu.dk,4
+1dbd1112-eb47-4406-936c-6807e8845610,Oksana ,Kulyk,okku@itu.dk,4
+e383647f-00d3-41b1-ad95-ff69bdfffb42,Jichen ,Zhu,jicz@itu.dk,5
+85eeeb83-b899-4ba6-a8d5-d8fc9f39f1ad,Sidsel Küsch,Nørmark,sino@itu.dk,55
+20ad2ae0-df32-484d-84ed-f65810600cfa,Konstantinos ,Floros,kofl@itu.dk,29
+0c46864b-a7f8-4439-aeda-0781f77bfe88,Katrine Meldgaard,Kjær,kakj@itu.dk,4
+430f5396-df3e-4569-bef7-75607e9d3b7b,Kiril Krasimirov,Boyanov,,
+09813918-f2fa-46c2-a9b1-069b140c2903,Morten Tychsen,Clausen,mocl@itu.dk,20
+ef9b447a-d6c4-4250-a506-093730db84d6,Holger ,Dell,hold@itu.dk,4
+c448d4cf-638a-4825-ac1a-260245826798,Kimie Rose,Serup,,
+5ff6939c-5502-44ea-a277-b111500344cd,Maia,Eilstrup,,
+fda8c630-1b0a-4910-ae2a-602850616275,Christoph,Seidl,chse@itu.dk,4
+8aaf5ea6-92c2-4780-bba3-cdc171315e0b,Katinka Amalie,Schyberg,amks@itu.dk,56
+ce1a5350-f645-4a53-a745-fca8d4f1f030,Elda ,Paja,elpa@itu.dk,4
+d05daa00-c3d6-4a89-ba14-cfd1847fb0cc,Raúl ,Pardo Jimenez,raup@itu.dk,4
+610312cd-b173-4efa-bbb5-0a22e9b9ce02,Christian ,Sivertsen,csiv@itu.dk,2
+ad50bed7-77fd-4c7f-819c-54455506e3f0,Stella ,Grasshof,stgr@itu.dk,4
+e9d5602d-a3ba-4ac4-9c9c-7a51100e41d3,Sif Dam,Sonniks,sifs@itu.dk,25
+8e5f2a6c-c817-4a90-b48b-d9171743ad0f,Rob van der,Goot,robv@itu.dk,4
+bd7b83a0-75dc-498e-b463-b33c87c43086,Maria,Bordorff,bord@itu.dk,49
+080591ca-7543-426d-b25f-f12b22dcb388,Kirsten,Astrup,kias@itu.dk,49
+7d7aa141-f716-4165-a057-f49e3f5d5b1e,Lena ,Kühn,leky@itu.dk,20
+33e64c70-e0bd-46ec-b7e2-236e865afa9d,Jonas,Rosenberg,,
+a4a2ae41-ba0c-4fe3-9a58-caf4601e86d6,Holly,Logan,,
+7c852728-c562-4df0-84c1-4488dde7c360,Imke ,Grabe,imgr@itu.dk,1
+d2ab0b30-780c-495a-abfe-963f1dfaddd3,Marija ,Stepanovic,maste@itu.dk,1
+920e4042-e0c7-4807-a860-fd9b12a584d6,Nanna,Sidelmann,,
+1578b20c-b5d0-466f-b114-2582529ddc53,Therese ,Graversen,theg@itu.dk,4
+746a80f6-df9f-40be-8aac-c5867e12726b,Nanna,Bagge,,
+aa71d7ef-382e-4e32-a958-827b495669cb,Kaspar Bredahl,Rasmussen,,
+98a59a44-499e-4a6e-a8e8-24211f117b23,Elias ,Najarro,enaj@itu.dk,2
+4ca57c3b-1d1f-4ecf-87b0-fe690510c887,Jessamy ,Perriam,jper@itu.dk,4
+07a52bc0-1368-4c96-b20d-4bf9668a3693,Henrik,Larsen,helar@itu.dk,25
+3cc1d857-6fff-470b-83ad-a001723c54e5,Corinna,Nisi,corn@itu.dk,57
+61dc6056-2164-4081-909c-d96eb84c229c,Thomas Tyge,Andersen,thta@itu.dk,25
+0683c920-f6b4-4e68-9214-db511f2bc1f4,Vibeke,Smits,,
+df52a23b-7109-4616-a59a-d6d90f777595,Katja Sara Pape,de Neergaard,knee@itu.dk,56
+a0141d84-9000-4cb4-9fbf-8d8377d7b66d,Mikala,Hansbøl,,
+2dc35d5c-5fbe-4537-8a85-7d4038c7b628,Bayram,Sülük,,
+31a4c9ce-a527-4dd9-a8f3-363254f65407,Jesper Büttner,Olesen,,
+04344edd-2f02-45d5-ad45-baffe4c08898,Kristian Nørgaard,Jensen,krnj@itu.dk,25
+8bd9b364-d90f-486f-9965-84cd3dc63ca3,Maria Sinziiana,Astefanoaei,msia@itu.dk,3
+db64c222-0674-4eab-9f09-7f9ea1c483e3,Vedran ,Sekara,vsek@itu.dk,4
+3536ebc3-f9ef-459d-998a-7e4b612769e2,Vlad,Gîdea,vgde@itu.dk,49
+d0dd342f-e36f-4057-ad5b-f527d28eef58,Anaya Mourad,Jensen,,
+ffc6db77-95ed-452f-92ac-ca143a9db73c,Maria Jung,Barrett,mbarrett@itu.dk,2
+a0f5a47c-1073-4c01-b62d-51b767f01d69,Melanie Duckert,Schmidt,mela@itu.dk,56
+09ec1bda-4550-4a83-8480-fe742d77e882,Asger Balle,Pedersen,asbp@itu.dk,3
+ff6f398b-4bde-46da-a460-9815134b42eb,Joachim Winther,Pedersen,jwin@itu.dk,2
+193e7067-841e-4b93-8713-a3df2bc2c203,Louise,Sørensen,,
+845595fe-6614-4cf2-968c-3e815db79b4d,David ,Sasu,dasa@itu.dk,58
+a0e31b8c-3d9c-4b68-834d-d4c06914b69f,Christian Janos,Lebeda,chle@itu.dk,2
+25dea3e7-a42b-4522-9ff0-5e89b92ea7f3,Katrine Drachmann,Strawbridge,,
+59264501-60c6-4666-87c2-73d7a42a4ff0,Mike Hyslop,Graham,mihg@itu.dk,2
+15ed8b07-830e-45b1-8a97-4311ce43b733,Rasmus Carl,Rønneberg,rroe@itu.dk,59
+cc5319d4-9264-4f02-82d1-21c5e0b84e6b,Cecilie Krogh,Hjersing,cehj@itu.dk,49
+fc9ecac5-2e99-4fea-998a-545b680f85e1,Ea,Larsen,eala@itu.dk,49
+05817d99-266a-43ab-897d-6e996035bc97,Ditte Nygaard,Rasmussen,,
+523ffd96-f3b2-49cc-8f24-dc9215b84bed,Maximilian ,Müller-Eberstein,mamy@itu.dk,2
+78a992d3-b8eb-4fd6-8a5e-18c464d0b254,Mike,Zhang,mikz@itu.dk,
+6a57a243-af32-4e1d-849c-75146da60102,Adrian,Hoff,adho@itu.dk,2
+bb89c554-3132-40cd-8787-c724c12721b4,Maria Bendix,Mikkelsen,mbmi@itu.dk,1
+6596de1d-ea29-4252-a22e-f98cf28090c6,Dennis Thomas,Ulmer,deul@itu.dk,56
+c6b67626-5ff8-4730-93a6-70ee08f6013e,Elisa ,Bassignana,elba@itu.dk,2
+adce8f5a-42d1-46d5-af0c-a825a9781101,Frederik Gabriel,Jørgensen,fgjo@itu.dk,25
+0284519c-3320-48a2-8b0d-b4ae9351a403,Qiuyu ,Jiang,qiji@itu.dk,2
+5d5b695b-1d3c-4a7f-950d-1450bcdf2890,Otto Stadel,Clausen,otcl@itu.dk,25
+42d8cef2-2fa9-4545-b4f4-a44dadf4934f,Camilla Vesterberg,Christensen,cachr@itu.dk,1
+c8cce486-742d-43be-b185-b8f8c5a82489,Qamar Un Nisa,Sahibzada,,
+2d051ceb-fa4a-4a33-b059-ed443d8c79cc,Ieva,Daukantas,ieja@itu.dk,
+9504265d-0046-4e58-b529-256a656c012d,Christian ,Hardmeier,chrha@itu.dk,4
+b4a6e67f-0caa-4faf-a136-bf77496f3659,Shyam,Sudhakaran,shsu@itu.dk,60
+6aed9698-9a0c-4956-be0d-ec658bbfe09a,Luca Maria,Aiello,luai@itu.dk,5
+1c4bfd79-4336-4b17-a672-9acb465f15c0,Veronika ,Cheplygina,vech@itu.dk,5
+2f4daeb6-5872-4c86-8f2d-5c5ffc3dd5fa,Melissa Høegh,Marcher,mhom@itu.dk,61
+2f3c072b-bd96-45b2-bb7b-80a1e8be0b2e,Julian Charles Philip,Priest,jucp@itu.dk,31
+71efb6df-0032-4f63-9a05-8489aedd9023,Siyan,Li,siyl@itu.dk,60
+493e8cf3-2965-4420-be29-9dc564b5cd77,Merethe Riggelsen,Gjørding,merg@itu.dk,24
+2575c800-642d-4984-9c56-41601cf07a26,Søren ,Knudsen,soekn@itu.dk,4
+73641273-e9ee-42ce-bce0-9a6d5cf1c4eb,Paw Saabye,Pedersen,pawp@itu.dk,25
+ea1810b6-81e8-4c74-ac89-f7390beaf7b7,Ida,Thrane,idth@itu.dk,61
+0309c0d2-f64d-4449-a321-e39e8fba9f83,Jeppe Kilberg,Møller,jeppem@itu.dk,53
+91d18624-3489-48a8-834d-8737581b8ff2,Magnus,Ibh,ibhq@itu.dk,56
+02fbfd2f-9290-41dc-b82e-fcc2abcd9b2a,Laura ,Weihl,lawe@itu.dk,29
+05788d6a-1042-4bf1-8ed7-b11224fb483e,Jonas Haugaard,Jensen,jhaj@itu.dk,1
+ff92d4d1-9be8-4b8e-a56d-d8a3dd94e7a2,Kirstine,Dahl,,
+2b7ea821-fddb-4b66-8cb4-15dc343549c9,Kasper Hjort,Berthelsen,khjo@itu.dk,56
+1a37d33e-4d25-4879-9269-eb1b922c19cf,Julianne,Hughes,juhu@itu.dk,62
+672280b6-17c9-4191-9b00-8f1322fc1d90,Frederik ,Haagensen,haag@itu.dk,1
+f1d2ce00-f49b-4652-9bdc-8ec3b527bcc0,Emil,Budtz-Jørgensen,embu@itu.dk,60
+f2b81a70-1d6c-42d1-a3b5-1d4338be4b8c,Claire,Glanois,clgl@itu.dk,2
+410df04c-bc1d-4cd3-9726-c35469ddab8c,Aske ,Mottelson,asmo@itu.dk,4
+598de448-af84-43c8-9147-6134a63c9b3c,Bent ,Flyvbjerg,befl@itu.dk,5
+6800c64b-0e54-49cb-a703-384b4987b70c,Dovile,Juodelyte,doju@itu.dk,56
+205293c7-3f0e-4adb-94d5-790e81990d48,Lottie Rosamund,Greenwood,logr@itu.dk,53
+fea53dc2-758b-4dc3-962c-68e0b52d2925,Mahya Mohammadi,Kashani,mahmo@itu.dk,1
+fc57a764-276e-463a-aa68-fa54ffaf31d6,Sergio Daniel,Quijano,sequ@itu.dk,29
+9ccc3d10-9e1d-4947-bd62-5d789604477e,Emily Louisa Laue,Christensen,emic@itu.dk,2
+a63425bf-3843-42e2-9039-582dddf58821,Matas ,Sabalas,msab@itu.dk,24
+4634ce05-3fcb-49ca-89c7-080955f450e8,Maaike Annebet,Zwart,mazw@itu.dk,2
+3f05e4ce-6433-4c5a-b72c-aa89422cf431,Nutan ,Limaye,nuli@itu.dk,5
+42c316a3-1a31-469b-b436-635edc389e02,Titus Theodorus (Ties),Robroek,titr@itu.dk,2
+1abda59f-c493-4824-a7b1-7470d66f08d1,Stefan ,Heinrich,stehe@itu.dk,4
+cada4620-0e09-4dd8-af2e-0d3ad33376cb,Jakob,Tonn-Petersen,,
+b5f76327-0b01-46b3-8a8b-f12c8bee53dc,Linea Oxholm,Larsen,,
+12df9187-47b5-4d7e-87f5-9089a3d229c1,Dawit ,Tirore,dati@itu.dk,2
+ac400e55-5188-4efd-872a-12df089e7068,Ehsan ,Yousefzadeh-Asl-Miandoab,ehyo@itu.dk,2
+986bf923-1db1-4387-85ed-db9c03a27ab5,Luis Alfredo Landa,Mariaca,,51
+0080607f-9f26-4f73-a974-36b4940fb777,Meisam Jamshidi,Seikavandi,meis@itu.dk,22
+c12518ce-b3ab-469c-81fb-e2178e6b87e3,Mohsen ,Ghaffari,mohg@itu.dk,29
+d7412bcc-4b0f-4ccf-97e2-11b985e93fd9,Sandro,Sousa,ssou@itu.dk,2
+32a0f61b-3bd3-4fba-8d87-d27a8baf9d49,Dina Friberg,Larsen,,
+711c7a5e-4323-4b32-82ad-5fe635684bcf,Pernille,Hvalsøe,,
+0a2a2206-180b-4443-bdb7-92deba889221,Leon Y.,Xiao,lexi@itu.dk,29
+39f7afe3-fd9c-4ac5-8ba1-fa2f2826ab8c,Paloma Thomé de,Lima,palt@itu.dk,4
+71115e9d-836f-409e-8c75-27d2de3e9caa,Robert ,Bayer,roba@itu.dk,1
+45b600aa-d6c7-4c4b-91b3-1d934aec4402,Ane Rahbek,Vierø,anev@itu.dk,1
+d4dc2c50-a749-4f5b-a3f1-763c1dc405fb,Cecilie Caroline,Falch,cefa@itu.dk,56
+d6d93566-d546-42a8-8864-766098389589,Louise Meier,Carlsen,loca@itu.dk,2
+5f3b7745-99be-4d1b-8ce1-a413325c2008,Carsten Lund,Pedersen,calp@itu.dk,4
+fa03d816-cd99-4fea-b45b-efe7ecd3cb0a,Jaike van,Twiller,jaiv@itu.dk,2
+78fda1ee-f213-4072-bfe1-076ec8668479,Stine Lund,Wesselhoff,,
+3f5ead36-ca97-4037-875c-2e1571c987d5,Kristian Holm,Hansen,,
+aca61168-e0d5-43d8-8400-01f93aa6b427,Riddhi,Raj,ridr@itu.dk,25
+140f881b-1540-455b-8066-f0bc9ac6d82c,Henriette,Friis,hefh@itu.dk,24
+60de6d68-f699-4c55-954d-67ae53f600ec,Lukas ,Retschmeier,lure@itu.dk,31
+d0c8ad3f-0f75-42db-953d-740f2e7db16f,Alberte Kjær,Wærens,albw@itu.dk,62
+b01899ba-4088-43b4-aa83-2112fcfd4b8b,Wioletta,Giuza,wigl@itu.dk,25
+ceef6d97-26fe-4163-9538-6685e98bce2e,Daniel ,Fürstenau,dafy@itu.dk,4
+3ec363e3-83f0-4dd8-9b2d-b87a7d34dc55,Eleni Tzirita,Zacharatou,elza@itu.dk,3
+f30d35c6-4320-476f-8506-481764e6009e,Peter,Kun,peku@itu.dk,2
+e175684d-abc3-4ee4-9a12-af6c611e47c0,Sebastian Mateos,Nicolajsen,sebni@itu.dk,39
+74556ce3-9926-47a4-95b6-061d7bf041f5,Luna ,Rasmussen,lura@itu.dk,1
+64730011-f493-4dbb-abf6-b48924ddc794,Amelia Jiménez,Sánchez,amji@itu.dk,31
+44aa2464-bb3c-413f-93fa-d5b56d85ec5c,Nikolaj Krebs,Pedersen,nped@itu.dk,1
+b611f406-3531-4b9a-a511-831d28cf62ef,Anna ,Brynskov,abry@itu.dk,1
+6b81fcf4-173e-4e8b-86d6-2c9e7b4320c6,Jon,Aaen,jonaa@itu.dk,2
+7e884581-3d40-42e6-af12-453e052c9c87,Thomas Vase Schultz,Volden,thvo@itu.dk,20
+efa39e70-a80a-4780-b151-ba31b01726bb,Per Bruun,Brockhoff,pebb@itu.dk,34
+cf6cfa0b-e3ac-4164-8de2-b956d8e23825,Elisa ,Mekler,elme@itu.dk,4
+977ec015-b047-44f1-8aa9-bda7d606c977,Olga ,Iarygina,olgl@itu.dk,20
+c072fa93-9dbb-4815-b72a-e24dcdd453f8,Piyakorn ,Koowattanataworn,piko@itu.dk,1
+a85ab610-d32b-4590-b00a-3c3d54c8cc14,Philip,Sønderberg,,
+e5c14627-d4f0-4195-b349-cf3a403b01c5,Hanna,Vágsheyg,,
+e20164d2-7e0c-4f05-88be-ca477dfc5f8c,Laurits ,Dixen,ldix@itu.dk,20
+38e643e8-bd72-40e3-ba25-b031e957b7fb,Camilla Birch,Okkels,cabi@itu.dk,20
+cfb0029a-04d0-4606-810f-bf6d6777171b,Luigi ,Arminio,luia@itu.dk,20
+3fc4cf72-04f9-43a3-91ff-fc629a0bbb46,Carsten,Jørgensen,,
+f09e1c90-dbb8-4379-9905-0086e71503d4,Arianna ,Pera,arpe@itu.dk,31
+1780c8b5-860d-4c59-8d81-09438caf15cd,Nicolas Hugo,Bessone,nbes@itu.dk,2
+e726f512-d3fd-4d89-962a-3aa9f532a52f,Toine ,Bogers,tobo@itu.dk,4
+124de7ea-2c0b-435f-b2bd-3fd5869590e7,Roosa ,Piitulainen,ropi@itu.dk,20
+ecc36d3e-77ac-4333-9918-2431807cd4e0,Jan Benjamin,Vornhagen,javo@itu.dk,56
+d5c3a434-36d5-4861-862d-3c5b3e332121,Zoi ,Kaoudi,zoka@itu.dk,4
+59131ae2-96aa-4cb3-9d40-c4a233ac1d44,Yannick Elmar,Schürmann,yasc@itu.dk,60
+fc4a63b2-8edf-4d1c-94a4-2cbfe61adf48,Camille ,Rønn,camro@itu.dk,1
+dac0e506-da5d-4ee6-8783-5abd2a2096f3,Feng ,Feng,fefe@itu.dk,31
+ca2a035e-64a1-4a75-9269-d6ee91496191,Daniel ,Bennett,daben@itu.dk,31
+2eacca76-d6c8-413d-b3c5-5a6c5a54c4e3,Thomas Flodgaard,Kaufmanas,tkau@itu.dk,52
+2f6e4cae-9002-4aff-a562-526705e850af,David-Levente ,Kovacs,dako@itu.dk,20
+c40e1e8a-50ee-4a7c-b7f0-2fc0fdd62adc,Anna ,Rogers,arog@itu.dk,4
+147a9f2c-2353-4ddf-a631-a86a369d8c12,Erwan ,Plantec,erpl@itu.dk,1
+8999b149-c410-4fd7-882f-9be2e31a4fe8,Lucia Montesinos,Garcia,lumo@itu.dk,1
+7714a7e2-c618-414c-b295-067c651b524b,Milton Llera,Montero,mlle@itu.dk,2
+17b18c69-c9d0-456a-affa-5396d0a0d09e,Markus Krabbe,Larsen,krml@itu.dk,1
+07251d01-c63e-448b-84f2-6e9e128ae147,Anders Giovanni,Møller,agmo@itu.dk,1
+c90e23c6-5bf4-4d6f-97d8-b162b8a5b03e,Thomas ,Binder,tbin@itu.dk,5
+7e6e312c-7d1b-4d6a-ac22-385bab06ee41,Andreas,Björklund,anbjo@itu.dk,4
+f240d002-893f-45bd-b9ad-6a6ddc015e40,Alena,Thiel,thie@itu.dk,2
+81de28ef-db46-405c-a49b-79af67660d89,Kai ,Budrikas,kaib@itu.dk,1
+bc8bcc0c-c956-451c-8f18-6caed523f6d6,Wei ,Guo,viwe@itu.dk,1
+17164ef9-74ba-43ba-ba21-8cd57493f4cb,Eleni ,Nisioti,enis@itu.dk,2
+0600e907-f51e-4588-923c-9a984592580e,Martin Lund,Trinhammer,mlut@itu.dk,1
+d1be56b5-3ded-4aeb-9339-3af4d4c35035,Amir ,Nikabadi,amir@itu.dk,1
+cb1b6c5f-6206-4a35-b8aa-6a750f9c89a1,Raquel ,Robinson,raqr@itu.dk,2
+864e737f-8deb-4b43-8403-8edb558e8567,Yucheng,Lu,yucl@itu.dk,2
+54383d75-e8f9-42fc-bf92-593e0133f0eb,Christine Borgvold Naaby,Hansen,chbh@itu.dk,1
+5e0b9262-e80c-4eb3-9d39-47d0121454ca,Ingrid Jakobi Wolff,Madsen,inma@itu.dk,1
+f2a38db0-49a6-4252-af15-8586639f1b6e,Anders Weile,Larsen,awel@itu.dk,1
+17ebd58d-ffad-4a6f-923d-a0118d0056b0,Martin Abildgaard,Padalak,abpa@itu.dk,1
+8141993a-b522-4f30-8e3c-626566a037b4,Pratik Suresh,Ingle,prin@itu.dk,1
+ae381d9e-1028-4309-b7a2-8cf83a65c0b8,Bailey ,Dacre,baid@itu.dk,1
+a4d5d125-061e-4594-b4e4-1389a19ff99f,Christina Frederikke,Nissen,chfn@itu.dk,1
+c3ca425d-f0d9-493b-9012-7dee3b9e2dfb,Felipe Silva,Figueiredo,fefi@itu.dk,1
+d21db1f2-9a89-4611-8077-e06e89985faa,Peter Brunsgaard,Trolle,ptro@itu.dk,39
+41da2096-dc8b-44c2-93ad-6473e220f85e,Justyna ,Starostka,juss@itu.dk,2
+77359666-99eb-4d00-90af-6cbec6c4562b,Rahul Bangalore,Satish,rahs@itu.dk,1
+1ee9fda3-cb4e-4c06-82b1-7e248c20a700,Willem Lennert Antoon van der,Maden,wiva@itu.dk,2
+cac3823d-3dc6-4513-8448-be21a2d49344,Tobias ,Pedersen,tobpe@itu.dk,1
+b55a7155-5e64-4230-b7da-94f7872e9742,Louie Søs,Meyer,,1
+b2431f12-bff1-4a97-af68-defe62b81aee,Karl ,Werder,karw@itu.dk,4
+f72688e0-ad8f-4dc2-bb6b-c22fa14164c3,Clément ,Sebastiao,clse@itu.dk,1
+c22491da-c338-47a0-ae95-5a51b85e576b,Kamila Anna,Dzierzak,kadz@itu.dk,1
+9dd22344-26d5-46f4-9c29-9623e4cc73b5,Mesut ,Kaya,meska@itu.dk,22
+20685b27-43b0-4170-bcf8-3cc28832d2e7,Nicklas Engelbrecht,Ravn,nrav@itu.dk,1
+bf8d35b0-2ec1-4cd7-a341-51627a0acbb9,Timothée François Nathan,Anne,timl@itu.dk,2
+7208d996-d004-402b-b6f9-36294ff67fcc,Safra Aurora Noelle,Martinussen,safm@itu.dk,1
+8ee88b26-8053-4761-8c8d-91a2941a9df9,Raha ,Asadi,asad@itu.dk,1
+213422bf-9c58-4ae2-8a4c-89e00b943946,Raquel Andrade Barros,Ouriques,raou@itu.dk,2
+1f032838-af8c-4f87-9b9f-9b591907cd1d,Xenofon,Karakonstantis,xeka@itu.dk,2
+06b69b03-fa50-410d-a8e5-fd3da1876353,Arturo Valdivia,Martinez,arva@itu.dk,2
+661b700e-7c1d-4e6d-b90b-4dbbfaab2adf,Mylène ,Tanferri,mylt@itu.dk,2
+70ec5312-dd31-4816-a9f0-d91883214b0a,Fioralba ,Ajazi,fiaj@itu.dk,2
+ab5ad2f2-e83f-4121-9723-76d569e1d91b,Lene,Rehder,,18
+9034a399-92b2-4ad0-bdfe-d65c494dea58,Prateek ,Dwivedi,prdw@itu.dk,2
+410b0cad-d9fe-48d8-9edc-56ad6eb9c43b,Ratish Surendran,Puduppully,rapu@itu.dk,3
+b2d076fd-b924-4251-abbe-d86ecbed2004,Harshit ,Harshit,hano@itu.dk,2
+5417f888-9371-4933-8a2b-7679eb21bd84,Doga Buse,Cavdir,dogc@itu.dk,3
+c6b6c936-4eda-40f2-95f1-3127101ca1cf,Silke Sofie Holme,Bonnén,ssbo@itu.dk,
+54e42219-4e3f-42cd-a19d-66c82ee60654,Martin ,Hentschel,mhent@itu.dk,4
+6abf7fdb-d583-4b32-816b-22fcfde6e74b,Tomasz ,Chwalek,tchw@itu.dk,1
+35dbc3d0-efc4-4935-960c-beff5c64a758,Nicola Bjerg,Ens,nens@itu.dk,2
+5890872a-fc4b-4720-93f6-0c473404ca15,Johanna Christine Larby,Lithén,jchl@itu.dk,25
+13f2be7b-37ab-4ab3-b5c3-90d54e1515dc,Jonas ,Juul,jjuu@itu.dk,3
+6826c79c-8024-4f3c-bebf-f07d51e8988b,Mark Staun,Poulsen,stpo@itu.dk,1
+0562500c-e9cb-43cf-9641-8775d47103cc,Luiza Ribeiro,Marnet,luim@itu.dk,56
+be459204-f0ed-46cf-a79b-66031919e944,Claudia ,Acciai,acci@itu.dk,2
+309a5219-ed28-4827-bf5f-9ddee6ae66a2,Magnus Rahbek Dalgaard,Hansen,ramh@itu.dk,1
+5fe674d5-8b11-4c75-8fe0-c7730db40441,Juri ,Petersen,jurp@itu.dk,1
+cfd2eb14-8c3d-4c92-b6f4-acf076e82110,Xiao ,Li,xliq@itu.dk,2
+dda395cd-41ec-469e-a3e9-b1c024bbb1a7,Anna-Mamusu ,Wehlitz,aweh@itu.dk,2
+363f336f-ee57-420f-990f-11e8c2f0e2c6,Bertram ,Højer,berh@itu.dk,1
+5d525d5b-71fe-4055-a345-87fc1ddeacbd,Andreas Geert Motzfeldt,Jensen,agej@itu.dk,19
+f26c06f8-44dc-46d1-be15-d31a9ccfc2e2,Kara,Oehler,oehl@itu.dk,52
+2996b994-b732-41d0-ad26-171f5453500f,Aref,Moradi,arem@itu.dk,63
+b36939ee-d7f6-4e4d-aebf-ff5d0ea2524a,Leo ,Vitasovic,leov@itu.dk,1
+cea9fe0e-2aa6-4a19-8a04-13cffe563626,Alessia ,Galdeman,gald@itu.dk,29
+17d5f65c-93c4-4160-be62-e6fd9260e305,Caroline Costa da Silva,Gaudeoso,ccos@itu.dk,1
+7dd2f4fa-dd14-4676-8f1a-f719f213f64f,Eduard ,Kamburjan,edka@itu.dk,3
+d9376c00-8047-4c1b-b86a-e2f5e00018b3,Pelin ,Karaturhan,peka@itu.dk,2
+0d90a829-12d8-4cbe-a2c5-0ba7e7ab4814,Christina Staun,Biangslev,cbia@itu.dk,19
+ca774ad3-2e45-49a0-b78a-ad9433f977c7,Morten Ib Kjærgaard,Munk,moim@itu.dk,22
+68c98361-6807-46e5-9a98-998768792653,Sebastian,Vissing Clausen,sevi@itu.dk,49
+132b5ea1-777f-4379-a7a1-c1d739ce9963,Anders,Schaumann,,51
+9a373ad6-3013-4832-ade1-e3fb60e331b0,Olaya Alvarez,Tunon,oltu@itu.dk,22
+3e4ed468-389e-4710-91bb-af9b4ab15e8a,Shivansh,Ajmani,shia@itu.dk,23
+1ce50d06-b6fe-4c11-9a74-aef5048e76fc,Jakob Grue,Simonsen,jags@itu.dk,33
+bf75a5d2-ae40-48c8-9f44-0f3de5f93bd9,Nikolaos ,Salamanos,nsal@itu.dk,2
+12b9f158-5c84-4979-9c41-388ba3cf2c6e,Marcello ,Barylli,bary@itu.dk,1
+cf08dfab-d4e2-4073-b88e-2d305a0e47f3,Anne Sofie Gammelgaard,Gregersen,asog@itu.dk,1
+12698500-7fd8-4508-b86a-adafaeaf91a9,David ,Struthers,stru@itu.dk,2
+f700e2ca-1e23-4355-8c9c-cc5d75674092,Martin ,Mitrovic,marmi@itu.dk,19
+585fb82c-8795-458d-bfd7-35e8a9be6125,Alexander Theodor Bilde,Pedersen,altp@itu.dk,1
+b8c7a59c-125b-48a6-9a1f-e22b82335828,Luís ,Cruz-Filipe,luic@itu.dk,11
+7d122c0d-2d26-473c-a009-6eb58b898928,Frauke Tom H,Mennes,frme@itu.dk,2
+35cc0100-4ab9-4cc5-9bc7-10b4d671416f,Ricardo Jose Menezes,Maia,rmen@itu.dk,2
+db33decd-f177-4dce-973c-4fb83671e65f,Christos-Evangelos,Lampropoulos,clam@itu.dk,64
+98276178-6706-48d0-8281-3bd487014112,Inna ,Ermilova,iner@itu.dk,35
+7df5fb79-5850-4de3-8594-323f1915ff1e,Alejandro Lorite,Mora,lori@itu.dk,1
+3e584fc9-4b2e-4d6d-b200-994505d4e809,Daniel ,Nickelsen,dnic@itu.dk,3
+bb404350-dc8d-4345-965f-a3602b726014,Tim Frederik,Seppelt,tise@itu.dk,2
+1e347a58-fe9c-4be8-a5db-4df11df9bd13,Simona ,Mancusi,smanc@itu.dk,23
+839b9aee-0580-49ac-90c5-8e9d98880d56,Amelie ,Wührl,amwy@itu.dk,2
+aabb6eb1-afb9-4570-8e8e-4725a423ee5f,Aycan ,Aslan,ayas@itu.dk,3
+82f8ffa4-b7d6-490d-b3b4-2c68b79cd77a,Megan Lynn,Maurer,megm@itu.dk,3
+4277f6ec-bfbb-4bef-bed8-2a3420be1d6e,Sarita de,Berg,debe@itu.dk,2
+996a21e3-30b2-4b17-8031-85d66aa00ffa,Mattes ,Ruckdeschel,mruc@itu.dk,1
+9228d512-99fd-4254-a4c9-f782687d2469,Anders,Rasmussen,,
+737f8d04-2c81-4e24-a77e-55ffea40c345,Yueran ,Tian,yuti@itu.dk,2
+5faaedca-53c9-4888-b617-2d81414c84bd,Nicholas,Hansen,nicha@itu.dk,23
+551ffa9b-93c0-41e7-999a-a507a1c0a57e,Ola ,Rønning,oroe@itu.dk,2
+50d4bf89-8621-4bc3-bdce-6916656c12fa,Ivor van der,Hoog,ivva@itu.dk,3
+4d425855-1065-40b5-9b65-e04126df5838,Manon Brigitte,Blanc,mbrb@itu.dk,2
+2a0966cb-1bbd-4f5b-8d2e-d68f53acee87,Ida Marie,Schrøder,isch@itu.dk,4
+ca64807f-3290-44b4-bc84-f4933387f2a5,Kathrin ,Korte,kort@itu.dk,1
+2b80c8cc-9d5a-4049-847d-6dae84cc603d,Nikolaos ,Vitsakis,nvit@itu.dk,2
+5efe5e56-5ba7-43e0-bd2b-881e088db29e,Stine Loft,Rasmussen,slr@itu.dk,2
+ad9a85fb-d2fc-4c47-a486-1cc30be3a555,Juliette Marie Victoire,Vlieghe,juvl@itu.dk,1
+ab7600cd-0bd2-4d86-9def-2c6fd1ade1c5,Eva ,Rotenberg,erot@itu.dk,5
+f14a5893-8cba-4ed5-b066-55c2ea626d24,Ask Greve,Johansen,agjo@itu.dk,2
+7eb6d157-4fd0-4cd0-a3fa-df10cee36552,Maya ,Acharya,mayac@itu.dk,24
+d1f72ad7-d2ad-40cc-aeb1-b6f9b3d5779f,Sergei ,Stepanenko,serst@itu.dk,2
+ea2d2480-46fb-493d-8dd4-6f054f58098a,Théo ,Sourget,tsou@itu.dk,1
+690f2362-8a0e-4011-9928-dcac64f1e09b,Johannes Gabriel,Sindlinger,jgsi@itu.dk,1
+06e2c784-e628-4c15-a0d4-478a94e1ee15,Lasse Sascha Stefan,Wulf,lasw@itu.dk,2
+1d2ee6fa-15cb-416a-b173-2486edca10b8,Mikhail ,Fiadotau,mifi@itu.dk,3
+8342fc20-8530-4b6f-8880-660ae75ce6d2,Johanne Müller,Vistisen,jomy@itu.dk,1
+d43519a1-5bf4-4290-a053-fe55459ca88a,Sven Matthias,Peldszus,svpe@itu.dk,29
+20fc77af-75eb-4930-9443-83a22ffa41d5,Jens Birk,Andersen,jbia@itu.dk,19
+b49cff0e-6cf0-43ac-8e3e-65845cdfff93,Dooley Joel,Murphy,dojo@itu.dk,2
+0c4bb244-feb1-49f6-b658-ba79b505f679,Eszter ,Vigh,esvi@itu.dk,2
+d8d65689-9f8f-4a93-9353-f8bb4137e4bb,Anna Elisabeth Østergaard,Hjortdal,aehj@itu.dk,20
+31d0c8f0-72bb-40a5-a5c7-2167ac747bc3,Ramya ,Rao,ramr@itu.dk,20
+c76f4d2e-f55e-4a42-93d0-0af4971bd229,Rasmus ,Ronneberg,rron@itu.dk,20
+257f4ce3-c40c-4786-ae0c-d9996eeab0b9,Bergdís Ester,Gísladóttir,begi@itu.dk,20
+5959abe5-736b-4a23-bdfc-4ba03ab094d5,Willem Jan,Pieterson,wipi@itu.dk,31
+2909594e-6014-4263-841e-b0b6ef5d5c71,Sofía ,Guridi,sogu@itu.dk,20
+1de7c66c-445b-4520-85ef-83ca78016b59,Michele De,Cillis,deci@itu.dk,31
+63023d01-7d9b-4fd2-abe0-6439c37452aa,Valerio ,Siniscalco,vsin@itu.dk,31
+24f767a4-e468-4852-8575-85bd1f4946cb,Zhuojun ,Gu,zhgu@itu.dk,31
+078bdb0e-73c5-413d-9664-d3e2067f4978,Ditte ,Bjerregaard,dimo@itu.dk,19
+933dcfa4-ded0-48d2-957f-dbb5aa333910,Anders Aagaard,Kristensen,anak@itu.dk,19
+97fb0e82-0a87-4aa5-a7e8-05f64310ea8f,Maria Florencia,Langa,mfll@itu.dk,31
+ff18c8da-adab-4e97-9d96-6c05e46fbfa7,Mia Sikker,Thastum,admmsit@itu.dk,36
+db964f05-fc13-412b-b542-612895baf733,Mafalda ,Samuelsson-Gamboa,mafsa@itu.dk,31
+1ebec410-d5e3-4c51-aa57-46c42489b4da,Elisabetta ,Salvai,elsa@itu.dk,31
+b4308b29-551c-42ae-8915-3a23d5e0db7f,Burak ,Özdemir,admbuoe@itu.dk,36
+6feb1b96-c4aa-459a-a6bd-5ade510b6f78,Marc ,Peral,maper@itu.dk,20
+120abad4-792d-4650-886c-b1e97e471863,Kevin Marín,Rubio,keru@itu.dk,20
+803e93d4-5618-430f-a9e0-75059d97cc4a,Anton ,Ekman-Thorgaard,admanek@itu.dk,31
+c411a181-0567-4b8d-b53a-7442ec8d64d2,Tanya Isabell Signe Rudberg,Selin,admtase@itu.dk,31
+eb51c18b-a92a-4178-b5a0-fc32da6b63ed,Daniel Verdi do,Amarante,daam@itu.dk,31
+2c9b3822-bec4-4f1c-8f96-9f74e0850c23,Yuliia Storm,Larsen,admyuls@itu.dk,31
+6465bf97-1c60-4319-9303-01d7b7424a9c,Sigrid ,Lind,admsigli@itu.dk,36
+589a251e-a347-480c-990b-105ab7621efe,Lasse Lund Sten,Jensen,lalj@itu.dk,30
+2e559331-5c15-4df7-be43-d0eb2d05319d,Oscar Wiberg,Friisgaard,osfr@itu.dk,29
+1c9ac91f-a179-4cff-a651-e02aadf9c9c5,Daniela ,Gallo,danga@itu.dk,31
+da15516e-2107-4421-8a9d-7d81351c943a,Oscar William,Kankanranta,admoska@itu.dk,36
+dce916a2-82d7-44da-a12e-325aa12d3a6f,Marco ,Tonin,mton@itu.dk,20
+76c10d82-0e9f-40a5-ae9b-be1cce5a2ba8,Alessandro ,Ariis,aari@itu.dk,19
+7b0e43bb-6336-4555-bf51-37acd80f1807,Gusts Gustavs,Grinbergs,admgugr@itu.dk,36
+1f9dd122-cdc7-45c0-9537-50594bdf20e2,Erfan Samieyan,Sahneh,erfs@itu.dk,40
+3ac2b6ea-b8b0-4e03-9dc5-81b62d990f0a,Caroline Rosenberg,Antonsen,admcroa@itu.dk,31
+36ba9710-0bea-47cb-b305-05b561363db0,Martin Møller Djervil,Bech,maom@itu.dk,29
+1aad1655-7250-4bb2-8f1f-c8eeefcc9201,Frederikke Uldahl,Martensen,freu@itu.dk,1
+366ac367-a976-466d-9737-ca7d7c648e9d,Gianmarco ,Tedeschi,,
+4742ff09-a1d9-4a0d-aaae-ed1882317982,Edoardo ,Maggioni,edom@itu.dk,20
+82cdcb03-ed41-4b5c-b32f-865c00b6e268,Sanja ,Cejvanovic,scej@itu.dk,31
+1c959734-e3f6-4cd9-8505-af9be7c16714,Thomas ,Murphy,admthmu@itu.dk,25
+a861c460-a904-4393-bd42-0955ed5a6e07,Tim Sehested,Poulsen,timp@itu.dk,29
+7dc37233-960c-43da-99fd-602664242d2a,Damiano ,Orlandi,daor@itu.dk,31
+3c3eb079-70ea-4300-8bc0-533476428a45,Antonia-Bianca ,Zserai,admantz@itu.dk,31
+93e414ca-f557-478c-bee8-601438c4fcf8,Stian ,Sivertsgård,admssiv@itu.dk,31
+b0501c40-7af2-44dd-b08b-6327805d285f,Ida Marie,Iversen,admidiv@itu.dk,36
+450db6af-e153-4515-be8f-7a70342499f5,Pranabendu ,Misra,prmi@itu.dk,31
+9c1a2ffb-9f4d-4eba-b88e-cfa843ad643d,Ulrik Vincent Østergaard,Bertelsen,ulrv@itu.dk,29
+24475f7d-905a-47cf-89d9-059581d0a7a1,Farley ,Nobre,fano@itu.dk,31
+2e2035fa-0cfb-4dbf-9d37-51dc029fcfa0,Beatrix Miranda Ginn,Nielsen,beat@itu.dk,2
+ea9052b5-b292-440f-9aa7-c3491cd22aea,Ralf ,Raumanns,ralr@itu.dk,20
+0ffdf4d9-6e21-4ae6-a319-f32186f669ed,Jan ,Elfes,jelf@itu.dk,20
+a4ea715c-055e-4e63-a7dc-6e4a39ce7058,Anar ,Yeginbergenova,anye@itu.dk,20
+cef311dd-9741-4770-9237-adf62f5ef33e,Yili ,Ge,yige@itu.dk,29
+7760078b-bc4f-4f4e-a8b8-bd303901df73,David ,Prochazka,dpro@itu.dk,20
+da190e9d-748c-4802-b7ee-526eb57a600c,Jacob Aarup,Dalsgaard,jacd@itu.dk,20
+b6f877cb-840c-4c67-98f7-0cc2220a2e1d,Katharina Anastasia Iniakhina,Schmidt,,23
+59a5c8b4-0a40-4e0b-8160-690a2b7cf1ca,Lasse Buschmann,Alsbirk,admlaal@itu.dk,21
+93b32fab-3ac6-4407-8b0f-6bf925740b37,Nikolaj Munk Binder,Jensen,admnimj@itu.dk,39
+ae06bfcb-3b3c-485d-83bc-04a89a82a6f3,Rasmus ,Lystrøm,rnie@itu.dk,28
+8c50bf60-0ab3-4d7f-853b-f85c4e42b9ed,Nils Cornelius ,Grünefeld,nilgr@itu.dk,1
+ad34a0be-1ed8-477e-a356-cbe1195ea315,Arzu Burcu,Güven,argy@itu.dk,1
+34091488-41ed-4cc6-bdce-ba0c016ad87d,Hanna Dana,Stokes,admhast@itu.dk,23
+85625f7d-709f-492e-b8af-06e6be54ff67,Markus Løfgren,Elvig,melv@itu.dk,1
+a11914d7-cda4-4928-821a-746dad4eb60f,Daniel Peter,Rutschmann,danpe@itu.dk,29
+348c7117-a69e-4d7d-b9c3-9505f4a6721a,Srikanth ,Tiyyagura,srti@itu.dk,51
+68012fca-733f-48e3-872e-6b718eeb74ab,Johanne Aarup,Hansen,,51
+d3d02293-0bf6-45f6-9140-1db2589b8a68,Anette ,Broløs,,51
+faf0279a-dd8c-47b7-9570-3570c0ac803c,Noah Brunken,Syrkis,nobr@itu.dk,1
+801b142b-4e9f-4b6d-b35e-ab69f5019888,Erica ,Manca,admmanc@itu.dk,23
+1040c6ef-839a-421b-91d7-418d0373d0e3,Barbora ,Matejova,admbarm@itu.dk,23
+72d18cb3-9f44-45bb-b66e-673a209c8201,Turjja ,Datta,tuda@itu.dk,39
+14f5bea8-b200-417c-a412-2bae0847b44e,Emil ,Radosavljevic,rado@itu.dk,39
+ad3a5499-cc17-4a53-a73e-c527d6d2de86,Frederik Max,Grøn,admfrmc@itu.dk,23
+52bc4c7c-bf29-443f-900e-1585b66c0ad3,Ellen Yue,Daetz,admelda@itu.dk,39
+f6ab3dac-e492-4f34-9e76-c7f2c65a9a41,Mads Dalgaard,Andersen,admmadsd@itu.dk,23
+4f09aa86-7e7b-463b-b9aa-a7dc7909aa71,Elisabeth Broe,Christensen,ebc@itu.dk,28
+c1c2139e-f0e8-4c72-8c63-dc6666c0beeb,Steffen ,Löfvall,,28
+07983492-ae22-47c5-915e-a5eec25d555c,Stefano ,Vincenti,,51
+37159d2f-8b61-4746-a65c-d7c9d7080457,Reyes Torrubia,Sanz,reto@itu.dk,39
+7a7e7f95-0f71-43a4-93c5-7e439bbd465a,Mads Sejer,Pedersen,sepe@itu.dk,39
+2ffaef2f-2d45-4229-b61e-c8a1d18a037a,Tobias Worm,Bøgedal,tobboe@itu.dk,20
+2a06826f-564b-465b-a63e-1280861e2afc,Jacobus ,Conradi,jaccon@itu.dk,31
+c6f2b225-5d52-4eb5-825f-32aba821f2b6,Sara ,Savani,ssav@itu.dk,31
+841f9825-114f-4812-a7fc-9fce6ef62447,Roan ,Schellingerhout,ROASCH@itu.dk,20
+1cbed286-443d-4811-8f74-2c3175663dd6,Manuel ,Knepper,admmkne@itu.dk,39
+f6921641-1f0a-4e24-a3a9-546e3927ab72,Signe Louise,Yndigegn,signelouise@itu.dk,4
+09c9ffd6-1b86-4158-90c0-a4bc49783f57,Yuta ,Moroi,yumo@itu.dk,29
+1bf4c08a-db6d-4f28-8d3d-686544f45a0d,Vinit ,Ravishankar,VIRAVI@itu.dk,31
+c39e3b33-a741-4d3c-b802-5c9efd0661b1,Raffaello ,Mastromarino,RAFMAS@itu.dk,31
+00de3708-e11f-4787-af46-b3e4cfbb1877,Luca ,Gallo,LUCGAL@itu.dk,31
+b3fe8bf1-525f-4c0b-8a59-ab8d2b6b5248,Mathias Tinghøj,Tulinius,MATTUL@itu.dk,2
+cffd9ca8-dadc-456f-80a4-1d9fb5c47e58,Florian ,Meier,flme@itu.dk,29
+c7fb29ef-b1ab-41d7-b4bf-4774178f9df1,Kevin ,Hermann,KEVHER@itu.dk,20
+17930aec-c113-46d8-87b9-71e4c67792e6,Steen Lund,Holbek,STELUN@itu.dk,29
+86f336d0-e28d-494b-aa87-31206621e232,Morten Rahbæk,Boilesen,morah@itu.dk,1
+757f57fc-f02b-41ac-8b45-d6b0b1392982,Niclas ,Classen,niclc@itu.dk,1
+f0effd3a-3e18-4e1f-aa89-25f1f7393ac3,Mihaela Yurieva,Hristova,mihr@itu.dk,1
+6ce6ac6a-59ab-44a1-90ab-b5e56b5138e4,Vincenzo ,Carandente,vcar@itu.dk,20
+ab4de307-fdb1-432b-b8b2-b2fa76bff3c5,Fatemeh ,Vatani,fava@itu.dk,20
+1bcb6a4e-4298-4ac7-bdc6-c936d3d45055,Debasmita ,Lohar,DEBLOH@itu.dk,3
+6bc60ad3-a8f5-4f7b-9f76-eec5cec4e214,Kristina ,Andersen,krista@itu.dk,31
+a3b22cc1-8de5-4934-abf7-f639204ae296,Rune ,Saugmann,RUNSAU@itu.dk,31
+01b1d0b4-c90f-4ce6-91b1-30aa29c6e4ac,Anika ,Schröder,ANISCH@itu.dk,2
+13952a09-a2da-427e-81c4-53c9e8605e50,Hjalte Erlang,Treebak,HJATRE@itu.dk,36
+6b472291-3d33-475b-8538-80cc0c48583c,Victor Bloch Daugaard,Hansen,VICHAN@itu.dk,36
+34360d77-1e83-4d6c-9544-73e0a99383e5,Alessandro ,Valerio,ALEVAL@itu.dk,20
+60f1a768-101b-4d1e-89f9-b587891df1ea,Mads ,Høpner,,
+d31e3f33-6fab-4511-91de-64181212f59a,Weronika ,Mlotkowska,,
+a7596071-a61f-451b-88a5-429d3ec9c1cc,Francisca ,Kanstrup,,
+64cbeeee-90ec-417c-a649-e3f6d85187ad,Emilia ,Helsted,,
+0c46e282-3976-4bab-9e81-b69828c1d398,Giulia ,Curtolo,,
+056407eb-cadf-4c05-9af1-acfe8e36afbe,Marion ,Meyers,,
+72d930fd-2f79-4890-ab9e-c51637845073,Bergur ,Davidsen,,
+518ed3b9-1876-4f67-a035-76218bc19269,Zahra Abdus,Samad,,
+e72197d9-478d-432d-90ff-2255e0dc93f2,Sara Pissarra Gouveia,Vieira,,
+4a23f05d-2292-43a5-acd0-6611bb9c1fea,Alexandra ,Ghizdareanu,,
+38d02817-f0e2-4880-a2c4-be986549a1ae,Axel ,Døring,,
+bf29aae0-8f62-4a89-a517-ab282406474a,Apostolos ,Draganis,,
+be55f116-0001-46c5-b22d-80ca391eae8f,Sigurd Viktor,Bjerager,,
+e907fa54-fcf2-4954-8288-00559392f237,Stine ,Derror,,
+5251b4b1-d5c8-47a8-862a-363b5b9b9204,Milja ,Hildigunnsdottir,,
+6b44e480-0c7d-4e60-bd22-9890117118c3,Tom Jonas,Kordes,,
+705e04d6-f915-4481-960e-61c56a9891a2,Gabija ,Makutenaite,,
+d0f41682-d5b0-42bd-82eb-5cb3c4f7c4e6,Niklas ,Christensen,,
+ba1f3b72-2b57-4c8a-9ec5-917a918708ae,Abdulrahman ,Mohsen,,
+aea25c7f-48d8-4014-a9d6-6991a9e161a4,Annam Bashir,Chaudhry,,
+840a4c48-dac9-4270-94f3-7055f6a8a6d2,Victor Hvid,Troelsen,,
+9326f35d-2369-4c9e-979c-b16b9d5e8727,Catalina-Elena ,Popovici,,
+89884c45-fb3b-4009-9a24-8cc32573a06a,Nicolai ,Seloy,,
+05dd2a2e-47ef-4353-930b-fc5f66a4308f,Amanda Reiff Kirkegaard,Nathan,,
+89f6d3f6-630d-45a0-a3d3-2ef1344c4b01,Mariia ,Zviahintseva,,
+096997de-f7c9-4102-a249-b848f455e38a,Felicia ,Sørensen,,
+252f0c4e-7b8b-438f-9a5f-cf7d9c0c89e7,Jonathan ,Opitz,,
+fb79d4d5-72a3-4aed-b4a5-79589999640f,Marius ,Salcutan,,
+205ca5ca-da30-4a46-9be9-d66453621ba5,Lucía ,Gómez Zaragozá,LUCZAR@itu.dk,2
+8a6a365f-4d1d-47ff-a24f-e4b3bb24a279,Søren ,Kastrup,,
+c893a1cb-b17b-4f35-a7c6-2387712680d4,Mohamed Karam,Haybout,,
+ac868f8e-0be8-4f68-a79b-52869b83ed47,Babette ,Bækgaard,,
+eea4b364-9884-4a6d-a1ef-f63b89e31c5c,Villads ,Emil,,
+abd278ad-8ee9-4a85-b071-9194f33c2162,Rebecca ,Schneider,,
+5d320e01-cfdd-4723-b606-11b8fb056fdc,Jacques Høyberg Puvis de,Chavannes,,
+db87f82a-f4c2-4827-9539-29db1ec01b31,Oleg ,Jarma,OLEJAR@itu.dk,1
+b5777bd7-e10c-42ad-9bf4-90dc7159ba48,Luca Bjørn,Larsen,,
+015dcdaa-e970-4e4d-a59c-8091465ea6bd,Halfdan ,Brage,,
+1bfbb453-8398-4a7b-ae69-c8325e3f4e0e,Daria ,Pietruczynik,,
+cfa7fec2-098f-4030-bc88-9b1e867a48e7,Louise Holst,Andersen,,
+44129f16-c405-4975-b609-3e6df02e46b0,Philip ,Quorning,,
+2c57717b-67d1-4197-b594-83fa70d0f020,Noah van,Wagenen,,
+f9b1f28b-2f56-408d-a730-3763d0c9da52,Thomas ,Deis-Christensen,,
+99e1f048-2254-4b2c-947c-fd5120b4a0c0,Kristóf ,Lénárd,,
+d4c81267-8813-42d9-bea1-a24727f9ec63,Adam ,Sweilem,,
+19213b60-d2f5-4258-8753-f79c930f644c,Zhipeng ,Zhao,,
+ef023233-a1e5-4823-8d0c-9f73344aa228,Jakub ,Gasior,,
+1bec39ff-1d28-4f9f-a03c-f6a59a80261c,Anastasiia ,Sedova,ANASED@itu.dk,2
+9ec1903e-8121-464f-8840-10c1771f3622,Vincent ,Molenaar,,
+7f1c5a27-5b01-4a48-be11-c508eb14e96f,Filippos ,Moumtzidellis,,
+b8ff8dc6-7414-4386-bf67-9362a63b1b83,Anna Sophie Jul,Eilersen,,
+83621c11-87db-482d-a06d-d02de6ce5bf4,Sebastian ,Rosenkvist,,
+18d9e93f-cab1-48d8-be6e-a0b9aa08b3d7,Allan ,Petersen,,
+d5e67bf9-4aed-42f0-8b7d-acea3d21eee4,Emma Capion,Avnbøl,,
+868e1864-dd91-4440-9d1b-4f6b05d06d3a,Laura Benthin,Hansen,,
+b7f2ebfa-0c93-456d-84f1-f150863e7db9,Hiep ,Cao,,
+12833a39-80ac-4970-8542-d691d17c69db,Danyal ,Yorulmaz,,
+271af918-5d3e-4f68-9aed-127268c44645,Johanna ,Reuter,,
+32e3f75a-df69-476b-92f9-19a464e46e30,Jacob Liam ,Curran-Sebastian,JACCUR@itu.dk,2
+8f8895c7-9cd6-48e1-af68-fc85f4070eb3,Eliza ,Niedzielski,,
+47c8c0e9-8153-4750-841a-33e45bca7aee,Philip ,Mørch,,
+460f58b5-cc6c-47d1-be86-dc4ebf277854,Ida Hagemann,Jensen,,
+58106b9f-e86d-40c7-a199-3304ec6ea41a,Christian ,Ainis,,
+babad22d-82f7-4c3e-b8ca-13bc50f61e39,Thomas ,Vallier,thoval@itu.dk,2
+991a0bd8-70ff-4bed-a1c4-6fecd8b98392,Marcus Andreas,Aandahl,,
+19286916-2423-4158-99db-da82d97b6da9,Matthias ,Nielsen,,
+640cf04f-70c5-419a-abea-69d1f03309b0,Line ,Larsen,,
+2f293c68-8b2f-4c61-a8c3-6d64d8916bff,Amna ,Abdullah,,
+17359bf2-01ee-4871-8daa-e78925419c3d,August Leander,Hedman,,
+0f625ea4-4ff9-4feb-8f1c-7ff3abfc0c0b,Jacob Møller,Jensen,,
+4c4e6e47-3c0a-443a-a098-415604d0bf9f,Oliver Flinck,Sheye,,
+fa758db2-fc74-41f0-a442-3f4b0ffcf44f,Lasse Faurby,Klausen,,
+4934eafd-f92f-499f-ae66-2959bf537513,Sofie ,Spiegelhauer,,
+ef4ee0d0-eee4-4eb5-9787-41a4dcd70a67,Christine ,Nampeera,,
+139c6149-ee31-4319-943e-febacd7dd82e,Mads Christian Ørskov,Koldenborg,,
+a9372c5b-457d-452d-9242-da3b1a2f151d,Kira ,Szallai,,
+36ca910f-e697-4b75-9406-648862e4d537,Andrej ,Alfirevic,,
+d90559a7-ddfd-4ae2-a8cb-9e489d8fd2c2,Johan Hausted,Schmidt,,
+447f94fd-e55d-4998-a0a9-ceb53d3a83ae,Sehar ,Shafique,SEHARS@itu.dk,1
+2823857f-2d85-4fd0-835e-ce93640c40b9,Manuela ,Widmer,,
+0fdfffc9-ccda-462b-a858-79c296cf0381,Jan van,Waaij,,
+548ed199-fabf-46c5-baa0-97723efc9ca4,Nanna ,Plougmand,,
+1f34ec4d-622d-4b5d-9b38-323158382709,Stavros ,Alfieris,,
+b52b2e6c-5d93-45c7-b121-0d3759f446bc,Frida ,Laustsen,,
+d729190c-6c52-4c8b-931d-a1cf310bd57c,Veronika ,Kovacicova,,
+5ed0052b-0a8f-4988-a6db-769e7d90cf4c,Seyda Begum,Ersoz,SEYBEG@itu.dk,31
+29fd2910-0421-4fad-815a-5acf1a8d3c9f,Gabriela ,Zhelyazkova,,
+891861a5-f9d0-4d63-91e1-40e7f777e828,Pietro ,Rebecchi,,
+336f48a2-ea08-4e50-90cb-854613ea467b,Thomas Sandahl,Christensen,,
+4e3d4b04-7fcf-4733-a412-31b3c25f7b4b,Nikolaj Munk Binder,Jensen,nimj@itu.dk,39
+37a82d97-b810-4740-954a-07210103bfb6,Inga Kristin,Wohlert,INGWOH@itu.dk,20
+26caf98d-95a7-4ab9-92eb-ef8fe93497b0,Pavlos ,Chatzipolakis,PAVCHA@itu.dk,20
+53ca9232-1563-4e27-b29e-def57b7cb2c1,Udbela Escanero,Xi,UDBESC@itu.dk,20
+e886f5fb-2c2a-4252-a93a-77898f193268,Victoria ,Popa,VICPOP@itu.dk,31
+f39fae8b-a164-4e5d-a40a-78b87a743a81,Michelle ,Kranot,MICKRA@itu.dk,19
+32e2ed99-102f-4f4b-9cb0-b8d2355ab3ca,Hongyu ,Wu,hongwu@itu.dk,31
+acbf0bf6-ec6c-4089-a6ce-de09ac400f25,Alessio ,Coltellacci,ALECOL@itu.dk,2
+938a0969-d560-4cd0-b4bb-9b209b283b6c,Paul Louis Franz,Huber,PAUHUB@itu.dk,40
+f3318df4-89bf-4a41-8709-1d5fef1c1100,Elias Gilling,Borgmann,ELGIBO@itu.dk,
+0ff624bc-132b-4629-ae54-75eb7be5b0cb,Test Ansat Testesen,Tester,,
+9ccbc271-ca88-464a-85e5-6b3d604e32d6,Line Falkensten,Ekdahl,liek@itu.dk,31
+72dd37b6-6330-4250-9e02-324e24644fde,Susanna Carmen,Caruso,SUSCAR@itu.dk,20
+4e6fd37c-79ee-46e9-8d3a-db983debc473,Jutta ,Haider,JUTHAI@itu.dk,31
+a10391a3-dafe-4be6-897b-b8958caba722,Juan Pablo,Fonseca-Zamora,JUAFON@itu.dk,20
+1ecb80a1-4be1-4c6e-b2a2-b171f2acdfc5,Roberto ,Passaro,ROPASS@itu.dk,20
+5cd2cccf-f076-4a9b-b1e8-22f13834c45d,Ana Garcia,Quintana,ANAQUI@itu.dk,20
+99550ffa-268c-443b-ad9a-f216bb1da1dd,Riccardo Roberto,Basilone,RICBAS@itu.dk,20
+f08ab039-49d0-4346-859a-619dfe95d56a,Niels Inselmann,Christiansen,NIEINS@itu.dk,39
+e6f501d8-5732-4749-b62a-89c16618bf87,Florence Claire Smith,Nicholls,FLONIC@itu.dk,2
+acc43762-555c-4fa5-80e3-8d46ee7105d0,Derguene ,Mbaye,dembay@itu.dk,2
+8020f142-fd94-4596-91e5-7eb169296d71,Tommaso ,Calò,tomcal@itu.dk,2
+1e557428-7cc0-4b10-af79-10dc03bb37ab,Usama ,Saqib,USAMAS@itu.dk,2
+40699dbc-7813-46d2-a3ea-8768d020b331,Jacob Kildegaard,Larsen,JACLAR@itu.dk,44
+7b4140f9-0683-41c0-b734-a08f78e4a77c,Zarina ,Rafgatova,ZARIRA@itu.dk,31
+6b945e80-6f7d-4af3-bfce-e11232f155a9,Natasja ,Bjørklund,NATBJO@itu.dk,31
+011ab6d5-1d85-4ca8-911f-275644055173,Andy ,Percuccon,ANDPER@itu.dk,20
+364d546a-042d-4a18-b3d0-9acdeefdc974,Julián Alejandro Gutiérrez,Carrera,JULCAR@itu.dk,29
+21bcab68-b085-4b68-a5e5-e44576f3e2ac,Jonas ,Waaben,,
+2d7f31e7-97a4-439b-a00c-79eacd989631,Harshith Kumar ,Malkapuram Bheemesh Kumar,HARKUM@itu.dk,1
+a267119b-b341-4e84-85d3-28d421c7e553,Marco ,Pernarella,MARPER@itu.dk,20
+530db294-a702-44ae-aaef-31359ac34c82,Marco ,Stranisci,MARCOS@itu.dk,31

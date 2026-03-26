@@ -15,7 +15,6 @@ We extracted data from:
 
 We have pooled the data from all these different sources under a single DB hosted in PostgresSQL and used DBeaver as a CLI.
 
-
 ## Appendix
 
 ### PURE data fetch helper
@@ -51,3 +50,89 @@ Example with deduplication:
 ```bash
 node fetchResearchOutput.js --dedupe
 ```
+
+### Persons JSON to CSV mapper
+
+Map selected fields from `persons.JSON` into a flat CSV for database import.
+
+Mapped output columns:
+
+- `UUID` ← `items[*].uuid`
+- `firstName` ← `items[*].name.firstName`
+- `lastName` ← `items[*].name.lastName`
+- `email` ← `items[*].staffOrganizationAssociations[0].emails[0].value`
+- `jobTitleId` ← integer mapped from `items[*].staffOrganizationAssociations[0].jobTitle.term.en_GB`
+
+Run:
+
+```bash
+node mapPersonsToCsv.js
+```
+
+Optional arguments:
+
+```bash
+node mapPersonsToCsv.js --input persons.JSON --output persons_mapped.csv --job-titles jobTitles.JSON --job-title-lookup-out job_title_lookup.csv
+```
+
+The script also writes a lookup CSV (`job_title_lookup.csv`) so `jobTitleId` can be used as a foreign key.
+
+### Research output JSON to Paper CSV mapper
+
+Map selected fields from `researchOutput.JSON` into a flat CSV for database import into the `Paper` table.
+
+Mapped output columns:
+
+- `uuid` ← `items[*].uuid`
+- `year` ← `items[*].submissionYear`
+- `title` ← `items[*].title.value`
+- `subtitle` ← `items[*].subTitle.value`
+- `university` ← constant `ITU`
+- `type` ← `items[*].type.term.en_GB`
+- `abstract` ← `items[*].abstract` (prefers `en_GB`, then `da_DK`)
+- `file` ← `items[*].portalUrl`
+- `totalNumberOfContributors` ← `items[*].totalNumberOfContributors`
+
+Run:
+
+```bash
+node mapPapersToCsv.js
+```
+
+Optional arguments:
+
+```bash
+node mapPapersToCsv.js --input researchOutput.JSON --output paper.csv --types-out paper_types.csv
+```
+
+- `--input`: path to source research output JSON
+- `--output`: destination CSV for the `Paper` table
+- `--types-out`: optional CSV containing all unique values found in `type`
+
+### Projects JSON to Project CSV mapper
+
+Map selected fields from `projects.JSON` into a flat CSV for database import into the `Project` table.
+
+Mapped output columns:
+
+- `uuid` ← `items[*].uuid`
+- `title` ← `items[*].title.en_GB`
+- `periodStartDate` ← `items[*].period.startDate`
+- `periodEndDate` ← `items[*].period.endDate`
+- `description` ← first available `items[*].descriptions[*].value.en_GB`
+- `portalUrl` ← `items[*].portalUrl`
+
+Run:
+
+```bash
+node mapProjectsToCsv.js
+```
+
+Optional arguments:
+
+```bash
+node mapProjectsToCsv.js --input projects.JSON --output project.csv
+```
+
+- `--input`: path to source projects JSON
+- `--output`: destination CSV for the `Project` table
