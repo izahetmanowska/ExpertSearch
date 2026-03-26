@@ -136,3 +136,52 @@ node mapProjectsToCsv.js --input projects.JSON --output project.csv
 
 - `--input`: path to source projects JSON
 - `--output`: destination CSV for the `Project` table
+
+### Projects participants JSON to CSV mapper (TypeScript)
+
+Map project participants from `projects.JSON` into a flat CSV. Each participant in `items[*].participants[*]` is saved as one row.
+
+Mapped output columns:
+
+- `projectUUID` ← `items[*].uuid`
+- `personName` ← `items[*].participants[*].name.firstName`
+- `personLastName` ← `items[*].participants[*].name.lastName`
+- `role` ← `items[*].participants[*].role.term.en_GB`
+- `externalContributor` ← `true` when `items[*].participants[*].typeDiscriminator === "ExternalParticipantAssociation"`, otherwise `false`
+
+Compile TypeScript:
+
+```bash
+npx tsc
+```
+
+Run:
+
+```bash
+node Scripts4DataGathering/dist/mapProjectParticipantsToCsv.js --input projects.JSON --output project_participants.csv
+```
+
+### Research output contributors to PaperContributors CSV mapper (TypeScript)
+
+Map contributors from `researchOutput.JSON` into a flat CSV for the `PapeContributors` table. Each contributor in `items[*].contributors[*]` is written as one row.
+
+Mapped output columns:
+
+- `paperUUID` ← `items[*].uuid`
+- `personUUID` ← matched from `CsvForDB/person.csv` when `externalContributor = false` using 3 passes: exact (`firstName`,`lastName`), accent-insensitive full-name fallback, then unique initial+last-name fallback (e.g., `J. Smith`)
+- `personName` ← `items[*].contributors[*].name.firstName`
+- `personLastname` ← `items[*].contributors[*].name.lastName`
+- `externalContributor` ← `true` when `items[*].contributors[*].typeDiscriminator === "ExternalContributorAssociation"`, otherwise `false`
+- `role` ← `items[*].contributors[*].role.term.en_GB`
+
+Compile TypeScript:
+
+```bash
+npx tsc
+```
+
+Run:
+
+```bash
+node Scripts4DataGathering/dist/mapPaperContributorsToCsv.js --input researchOutput.JSON --persons CsvForDB/person.csv --output paper_contributors.csv
+```
