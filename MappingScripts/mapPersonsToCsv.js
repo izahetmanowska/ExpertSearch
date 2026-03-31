@@ -5,10 +5,10 @@ const path = require('path');
 
 function parseArgs(argv) {
   const args = {
-    input: 'PureJSONs/persons.JSON',
-    output: 'CsvForDB/person.csv',
-    jobTitles: 'PureJSONs/jobTitles.JSON',
-    jobTitleLookupOut: 'CsvForDB/jobTitles.csv',
+    input: '../PureJSONs/persons.JSON',
+    output: '../CsvForDB/person.csv',
+    jobTitles: '../PureJSONs/jobTitles.JSON',
+    jobTitleLookupOut: '../CsvForDB/jobTitles.csv',
   };
 
   for (let index = 0; index < argv.length; index += 1) {
@@ -108,8 +108,8 @@ function buildPersonsCsvRows(personsJson, jobTitleIdMap) {
 
     rows.push([
       person?.uuid ?? '',
-      person?.name?.trim(firstName) ?? '',
-      person?.name?.trim(lastName) ?? '',
+      (person?.name?.firstName ?? '').trim(),
+      (person?.name?.lastName ?? '').trim(),
       getFirstEmailValue(firstAssociation),
       jobTitleId,
     ]);
