@@ -1,19 +1,19 @@
 # Experts Search Engine
 
-We are building a search engine to find experts from ITU which uses a database with data from a wider range of sources, and would
-provide better results to anyone querying it.
+We are building a search engine to find experts from ITU which uses a database with data from a wide range of sources: PURE, The Danish Research Portal and LearnIT (from where we retrieve all courses taught by ITU academics).
+
 
 ## Step 1: Extracting data
 
 We extracted data from:
 
-- Pure: Persons of interest, projects and research output - through an API
+- Pure: Persons of interest, projects and research output - by querying an API and transforming JSONs into formatted CSVs which we will load to our DB.
 - the Danish Research portal: projects and research output from academics before joining ITU - by using a web crawler
 - LearnIT: professors and courses taught - by using a web crawler
 
 ## Step 2: Creating a basic database
 
-We have pooled the data from all these different sources under a single DB hosted in PostgresSQL and used DBeaver as a CLI.
+We have pooled the data from all these different sources under a single DB hosted in PostgresSQL (RDS) and used pgAdmin as a CLI.
 
 ## Appendix
 
