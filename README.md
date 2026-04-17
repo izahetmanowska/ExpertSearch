@@ -158,7 +158,7 @@ npx tsc
 Run:
 
 ```bash
-node Scripts4DataGathering/dist/mapProjectParticipantsToCsv.js --input projects.JSON --output project_participants.csv
+node Scripts4DataGathering/dist/mappingProjectParticipants.js 
 ```
 
 ### Research output contributors to PaperContributors CSV mapper (TypeScript)
