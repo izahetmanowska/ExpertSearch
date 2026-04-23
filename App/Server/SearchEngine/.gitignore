@@ -6,4 +6,4 @@ __pycache__/
 *.pyc
 
 # Whoosh index (generated files)
-whoosh_index/
+whoosh_index/*WRITELOCK
