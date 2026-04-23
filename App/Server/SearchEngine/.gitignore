@@ -1,1 +1,21 @@
 App/Server/SearchEngine/whoosh_index/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Search index
+App/Server/SearchEngine/whoosh_index/
+
+.DS_Store
+__pycache__/
+*.pyc
+App/Server/SearchEngine/whoosh_index/
+
+.DS_Store
+__pycache__/
+*.pyc
+whoosh_index/
