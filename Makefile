@@ -7,6 +7,10 @@ install-server:
 install-client:
 	cd App/client && npm install
 
+# not  needed after deploy
+install-react-bootstrap:
+	cd App/client && npm install react-bootstrap bootstrap
+
 install: install-server install-client
 
 server:
