@@ -1,7 +1,6 @@
 import psycopg
 from typing import Any
-
-from search_papers_2 import DB_CONFIG
+from dbconfig import DB_CONFIG
 
 
 def get_papers_by_person(person_uuid: str) -> list[dict[str, Any]]:
