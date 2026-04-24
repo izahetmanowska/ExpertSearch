@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Whoosh index (generated files)
+whoosh_index/*WRITELOCK

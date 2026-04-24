@@ -1,0 +1,2 @@
+whoosh_index/*.seg filter=lfs diff=lfs merge=lfs -text
+whoosh_index/*.toc filter=lfs diff=lfs merge=lfs -text

@@ -15,6 +15,60 @@ We extracted data from:
 
 We have pooled the data from all these different sources under a single DB hosted in PostgresSQL (RDS) and used pgAdmin as a CLI.
 
+## Server
+
+Backend API is in `App/Server/SearchEngine` and uses FastAPI + Uvicorn + Whoosh + PostgreSQL.
+
+### Server dependencies
+
+Pinned Python dependencies are listed in:
+
+- `App/Server/SearchEngine/requirements.txt`
+
+Current packages:
+
+- `fastapi==0.136.1`
+- `uvicorn==0.46.0`
+- `psycopg[binary]==3.3.3`
+- `whoosh==2.7.4`
+
+### Run the server (macOS)
+
+From the project root:
+
+```bash
+cd App/Server/SearchEngine
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+uvicorn api:app --reload
+```
+
+Server should start at:
+
+- `http://127.0.0.1:8000`
+- Swagger docs: `http://127.0.0.1:8000/docs`
+
+### Optional environment variables (DB connection)
+
+If not provided, defaults from `search_papers_2.py` are used.
+
+```bash
+export DB_HOST=...
+export DB_NAME=...
+export DB_USER=...
+export DB_PASSWORD=...
+export DB_PORT=5432
+export DB_SSLMODE=require
+```
+
+### Quick verification
+
+```bash
+python -c "import fastapi, uvicorn, psycopg, whoosh; import api; print(hasattr(api, 'app'))"
+```
+
 ## Appendix
 
 ### PURE data fetch helper

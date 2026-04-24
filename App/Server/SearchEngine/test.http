@@ -1,0 +1,19 @@
+###
+// 200: test endpoint /search for term "marco carbone"
+GET http://127.0.0.1:8000/search?q=marco%20carbone&limit=15 HTTP/1.1
+
+###
+// 200: test endpoint /search for term "machine learning"
+GET http://127.0.0.1:8000/search?q=machine%20learning&limit=15 HTTP/1.1
+
+###
+// 200:  test endpoint /papersByPerson for person UUID "9027b41a-4159-4db7-9ddd-8fc8f41f1fb3"
+GET http://127.0.0.1:8000/papersByPerson?person_uuid=9027b41a-4159-4db7-9ddd-8fc8f41f1fb3 HTTP/1.1
+
+###
+// 200:  test endpoint /projectsByPerson for person UUID "9027b41a-4159-4db7-9ddd-8fc8f41f1fb3"
+GET http://127.0.0.1:8000/projectsByPerson?person_uuid=9027b41a-4159-4db7-9ddd-8fc8f41f1fb3 HTTP/1.1
+
+###
+// 200:  test endpoint /coursesByPerson for person UUID "9027b41a-4159-4db7-9ddd-8fc8f41f1fb3"
+GET http://127.0.0.1:8000/coursesByPerson?person_uuid=9027b41a-4159-4db7-9ddd-8fc8f41f1fb3 HTTP/1.1
