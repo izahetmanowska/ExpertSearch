@@ -12,7 +12,7 @@ install-react-bootstrap:
 	cd App/client && npm install react-bootstrap bootstrap
 
 install-react-router:
-npm install react-router-dom
+	npm install react-router-dom
 
 install: install-server install-client
 
