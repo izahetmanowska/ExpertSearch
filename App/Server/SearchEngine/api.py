@@ -4,6 +4,8 @@ from pydantic import BaseModel
 
 from search_papers_2 import search_people, MAX_RESULTS
 from paper_url import get_papers_by_person
+from projects import get_projects_by_person
+from courses import get_courses_by_person
 
 
 app = FastAPI(
@@ -56,3 +58,22 @@ def papers_by_person(person_uuid: str):
         "person_uuid": person_uuid,
         "papers": get_papers_by_person(person_uuid)
     }
+    
+# ---------- PROJECT DATA ----------
+
+@app.get("/projectsByPerson")
+def projects_by_person(person_uuid: str):
+    return {
+        "person_uuid": person_uuid,
+        "projects": get_projects_by_person(person_uuid)
+    }
+    
+# ---------- PROJECT DATA ----------
+
+@app.get("/coursesByPerson")
+def get_courses_by_person(person_uuid: str):
+    return {
+        "person_uuid": person_uuid,
+        "courses": get_courses_by_person(person_uuid)
+    }
+    
