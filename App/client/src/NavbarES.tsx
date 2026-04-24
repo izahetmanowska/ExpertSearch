@@ -2,13 +2,14 @@ import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import siteLogo from './site-logo.png';
 import Nav from 'react-bootstrap/Nav';
+import { Link } from 'react-router-dom';
 
 function NavbarES() {
   return (
     <>
       <Navbar className="bg-body-tertiary">
         <Container>
-          <Navbar.Brand href="#home">
+          <Navbar.Brand as={Link} to="/">
             <img
               alt=""
               src={siteLogo}
@@ -20,7 +21,7 @@ function NavbarES() {
           </Navbar.Brand>
           <Nav className="ms-auto">
             <Nav.Item>
-              <Nav.Link href="/home">Home</Nav.Link>
+              <Nav.Link as={Link} to="/">Home</Nav.Link>
             </Nav.Item>
           </Nav>
         </Container>

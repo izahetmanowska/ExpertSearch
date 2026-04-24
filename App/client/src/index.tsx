@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import NavbarES from './NavbarES';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { BrowserRouter } from 'react-router-dom';
 
 
 
@@ -12,8 +13,10 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <NavbarES/>
-    <App/>
+    <BrowserRouter>
+      <NavbarES/>
+      <App/>
+    </BrowserRouter>
   </React.StrictMode>
   
 );

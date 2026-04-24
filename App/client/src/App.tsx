@@ -4,8 +4,8 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import SearchCard from './SearchCard';
-import SearchResultsPage from './SearchCard';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import SearchResultsPage from './SearchResultsPage';
+import { Navigate, Route, Routes } from 'react-router-dom';
 
 
 function App() {
@@ -15,13 +15,11 @@ function App() {
       <Container>
         <Row>
           <Col md={{ span: 10, offset: 1 }}>
-              <BrowserRouter>
-              <Routes>
-                <Route path="/" element={<SearchCard/>} />           {/* default page */}
-                <Route path="/search" element={<SearchResultsPage/>} />
-                <Route path="*" element={<Navigate to="/" replace />} /> {/* fallback */}
-              </Routes>
-            </BrowserRouter>
+            <Routes>
+              <Route path="/" element={<SearchCard />} />
+              <Route path="/search" element={<SearchResultsPage />} />
+              <Route path="*" element={<Navigate to="/" replace />} />
+            </Routes>
           </Col>
         </Row>
       </Container>

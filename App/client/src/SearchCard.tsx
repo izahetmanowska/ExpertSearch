@@ -1,19 +1,32 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import Card from 'react-bootstrap/Card';
+import { FormEvent, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 
 function SearchCard() {
+    const [query, setQuery] = useState('');
+    const navigate = useNavigate();
+
+    const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        const trimmedQuery = query.trim();
+        navigate(trimmedQuery ? `/search?q=${encodeURIComponent(trimmedQuery)}` : '/search');
+    };
+
 	return (
 		<div className="SearchCard">
-            <Form className="d-flex w-100">
+            <Form className="d-flex w-100" onSubmit={handleSubmit}>
 				<Form.Control
 					type="search"
 					placeholder="Search"
 					className="me-2"
 					aria-label="Search"
+                    value={query}
+                    onChange={(event) => setQuery(event.target.value)}
 				/>
-				<Button variant="light">Search</Button>
+                <Button variant="light" type="submit">Search</Button>
 			</Form>
             <br></br>
             <TextExample/>
