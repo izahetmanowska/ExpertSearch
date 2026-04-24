@@ -1,0 +1,9 @@
+###
+// 200: test the backend for search term "marco carbone"
+GET http://127.0.0.1:8000/search?q=marco%20carbone&limit=15 HTTP/1.1
+
+###
+// 200: test the backend for search term "machine learning"
+GET http://127.0.0.1:8000/search?q=machine%20learning&limit=15 HTTP/1.1
+
+
