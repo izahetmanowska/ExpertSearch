@@ -2,7 +2,6 @@
 
 We are building a search engine to find experts from ITU which uses a database with data from a wide range of sources: PURE, The Danish Research Portal and LearnIT (from where we retrieve all courses taught by ITU academics).
 
-
 ## Step 1: Extracting data
 
 We extracted data from:
@@ -52,16 +51,7 @@ Server should start at:
 
 ### Optional environment variables (DB connection)
 
-If not provided, defaults from `search_papers_2.py` are used.
-
-```bash
-export DB_HOST=...
-export DB_NAME=...
-export DB_USER=...
-export DB_PASSWORD=...
-export DB_PORT=5432
-export DB_SSLMODE=require
-```
+Defaults from `dbconfig.py` are used.
 
 ### Quick verification
 
