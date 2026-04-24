@@ -68,7 +68,7 @@ def projects_by_person(person_uuid: str):
         "projects": get_projects_by_person(person_uuid)
     }
     
-# ---------- PROJECT DATA ----------
+# ---------- COURSE DATA ----------
 
 @app.get("/coursesByPerson")
 def get_courses(person_uuid: str):
