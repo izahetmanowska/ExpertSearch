@@ -71,7 +71,7 @@ def projects_by_person(person_uuid: str):
 # ---------- PROJECT DATA ----------
 
 @app.get("/coursesByPerson")
-def get_courses_by_person(person_uuid: str):
+def get_courses(person_uuid: str):
     return {
         "person_uuid": person_uuid,
         "courses": get_courses_by_person(person_uuid)
