@@ -192,4 +192,24 @@ dist
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,macosApp/Server/SearchEngine/whoosh_index/
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,macos
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# End of https://www.toptal.com/developers/gitignore/api/react
+
+App/Server/SearchEngine/whoosh_index/
