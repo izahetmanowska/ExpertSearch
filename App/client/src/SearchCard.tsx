@@ -5,6 +5,8 @@ import { FormEvent, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 
+//TODO: update function to replace FormEvent by non deprecated code
+
 function SearchCard() {
     const [query, setQuery] = useState('');
     const navigate = useNavigate();
@@ -29,14 +31,13 @@ function SearchCard() {
                 <Button variant="light" type="submit">Search</Button>
 			</Form>
             <br></br>
-            <TextExample/>
+            <InfoCard/>
 		</div>
 	);
 }
+//TODO: make call to API endpoint with query and save response
 
-export default SearchCard;
-
-function TextExample() {
+function InfoCard() {
     return (
         <div>
             <Card className="w-100">
@@ -55,3 +56,5 @@ function TextExample() {
         </div>
     );
 }
+
+export default SearchCard;
