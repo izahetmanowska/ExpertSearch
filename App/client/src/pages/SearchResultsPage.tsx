@@ -11,7 +11,7 @@ function SearchResultsPage() {
 
     return (
         <>
-            <LoadingSpinner loading={loading} />
+            <LoadingSpinner loading={loading} text={"Searching our Database for the best fit for your query"} />
             {!loading && (
                 <Stack gap={3}>
                     {error && <div>{error}</div>}

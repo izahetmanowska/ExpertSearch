@@ -6,7 +6,7 @@ type LoadingSpinnerProps = {
     text?: string;
 };
 
-function LoadingSpinner({ loading, text = 'Searching our database...' }: LoadingSpinnerProps) {
+function LoadingSpinner({ loading, text }: LoadingSpinnerProps) {
     const [isFading, setIsFading] = useState(false);
     const [showSpinner, setShowSpinner] = useState(false);
     const fadeTimeoutRef = useRef<number | null>(null);

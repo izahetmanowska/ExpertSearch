@@ -20,7 +20,7 @@ function ExpertDetailPage() {
     const {courses, loadingCourses, coursesError} = useCourses(uuid);
 
     if (loadingPerson || loadingPapers || loadingProjects ) {
-        return <LoadingSpinner loading={loadingPerson || loadingPapers || loadingProjects || loadingCourses} />;
+        return <LoadingSpinner loading={loadingPerson || loadingPapers || loadingProjects || loadingCourses} text={"We are fetching your expert's data..."}/>;
     }
     if (personError || papersError || projectsError) {
         return <div>Error: {personError || papersError || projectsError || coursesError}</div>;
