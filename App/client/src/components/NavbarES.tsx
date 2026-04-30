@@ -1,6 +1,6 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
-import siteLogo from './site-logo.png';
+import siteLogo from '../site-logo.png';
 import Nav from 'react-bootstrap/Nav';
 import { Link } from 'react-router-dom';
 

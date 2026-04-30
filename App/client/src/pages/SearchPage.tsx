@@ -1,17 +1,14 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import Card from 'react-bootstrap/Card';
-import { FormEvent, useState } from 'react';
+import { SubmitEventHandler, JSX, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-
-//TODO: update function to replace FormEvent by non deprecated code
-
-function SearchCard() {
+function SearchPage(): JSX.Element {
     const [query, setQuery] = useState('');
     const navigate = useNavigate();
 
-    const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
+    const handleSubmit: SubmitEventHandler<HTMLFormElement> = (event) => {
         event.preventDefault();
         const trimmedQuery = query.trim();
         navigate(trimmedQuery ? `/search?q=${encodeURIComponent(trimmedQuery)}` : '/search');
@@ -35,7 +32,7 @@ function SearchCard() {
 		</div>
 	);
 }
-//TODO: make call to API endpoint with query and save response
+
 
 function InfoCard() {
     return (
@@ -57,4 +54,4 @@ function InfoCard() {
     );
 }
 
-export default SearchCard;
+export default SearchPage;

@@ -17,3 +17,7 @@ GET http://127.0.0.1:8000/projectsByPerson?person_uuid=9027b41a-4159-4db7-9ddd-8
 ###
 // 200:  test endpoint /coursesByPerson for person UUID "9027b41a-4159-4db7-9ddd-8fc8f41f1fb3"
 GET http://127.0.0.1:8000/coursesByPerson?person_uuid=9027b41a-4159-4db7-9ddd-8fc8f41f1fb3 HTTP/1.1
+
+###
+// 200:  test endpoint /coursesByPerson for person UUID "9027b41a-4159-4db7-9ddd-8fc8f41f1fb3"
+GET http://127.0.0.1:8000/person?person_uuid=9027b41a-4159-4db7-9ddd-8fc8f41f1fb3 HTTP/1.1

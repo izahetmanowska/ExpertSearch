@@ -6,6 +6,7 @@ from search_papers_2 import search_people, MAX_RESULTS
 from paper_url import get_papers_by_person
 from projects import get_projects_by_person
 from courses import get_courses_by_person
+from persons import get_person_data
 
 
 app = FastAPI(
@@ -16,7 +17,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://localhost:3000"],  # change this in production
+    allow_origins=["*"],  # change this in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -75,5 +76,14 @@ def get_courses(person_uuid: str):
     return {
         "person_uuid": person_uuid,
         "courses": get_courses_by_person(person_uuid)
+    }
+    
+# ---------- PERSON DATA ----------
+
+@app.get("/person")
+def get_courses(person_uuid: str):
+    return {
+        "person_uuid": person_uuid,
+        "data": get_person_data(person_uuid)
     }
     
