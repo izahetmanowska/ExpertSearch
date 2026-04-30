@@ -40,7 +40,7 @@ function PaperAccordions({ papers }: PaperSectionCardProps) {
 function PaperSectionCard({ papers }: PaperSectionCardProps) {
     return (
         <SectionCard
-            title="Papers published"
+            title="Papers"
             items={papers}
             renderAccordions={(items) => <PaperAccordions papers={items} />}
         />

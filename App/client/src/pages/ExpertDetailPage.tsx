@@ -8,6 +8,8 @@ import PaperSectionCard from '../components/PaperSectionCard';
 import { usePapers } from '../hooks/usePapers';
 import ProjectSectionCard from '../components/ProjectSectionCard';
 import { useProjects } from '../hooks/useProjects';
+import CourseSectionCard from '../components/CourseSectionCard';
+import { useCourses } from '../hooks/useCourses';
 
 function ExpertDetailPage() {
     const [searchParams] = useSearchParams();
@@ -15,12 +17,13 @@ function ExpertDetailPage() {
     const {expert, loadingPerson, personError} = usePerson(uuid);
     const {papers, loadingPapers, papersError} = usePapers(uuid);
     const {projects, loadingProjects, projectsError} = useProjects(uuid);
+    const {courses, loadingCourses, coursesError} = useCourses(uuid);
 
     if (loadingPerson || loadingPapers || loadingProjects ) {
-        return <LoadingSpinner loading={loadingPerson || loadingPapers || loadingProjects} />;
+        return <LoadingSpinner loading={loadingPerson || loadingPapers || loadingProjects || loadingCourses} />;
     }
     if (personError || papersError || projectsError) {
-        return <div>Error: {personError || papersError || projectsError}</div>;
+        return <div>Error: {personError || papersError || projectsError || coursesError}</div>;
     }
     if (!expert) {
         return <div>Expert not found.</div>;
@@ -44,8 +47,13 @@ function ExpertDetailPage() {
                         <Row>
                             <ProjectSectionCard projects={projects} />
                         </Row>
+                        <br/>
+                        <Row>
+                            <CourseSectionCard courses={courses} />
+                        </Row>
                 </Container>
             </div>
+            <br/>
             <Link to="/">Back to search</Link>
         </div>
     );
