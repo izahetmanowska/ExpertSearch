@@ -1,4 +1,4 @@
-import { Expert, SearchResponse, PersonResponse } from '../types/expert';
+import { Expert, SearchResponse } from '../types/expert';
 
 export async function fetchExperts(query: string, limit = 15): Promise<Expert[]> {
     if (!query) {

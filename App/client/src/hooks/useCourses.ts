@@ -1,17 +1,17 @@
 import { useEffect, useState } from 'react';
-import { fetchPerson } from '../api/person';
-import { Expert } from '../types/expert';
+import { Course } from '../types/expert';
+import { fetchCourses } from '../api/courses';
 
-export function usePerson(query: string) {
-    const [expert, setExpert] = useState<Expert | null>(null);
-    const [loadingPerson, setLoading] = useState(false);
-    const [personError, setError] = useState<string | null>(null);
+export function useCourses(query: string) {
+    const [courses, setCourses] = useState<Course[]>([]);
+    const [loadingCourses, setLoading] = useState(false);
+    const [coursesError, setError] = useState<string | null>(null);
 
     useEffect(() => {
         let isActive = true;
 
         if (!query) {
-            setExpert(null);
+            setCourses([]);
             setError(null);
             setLoading(false);
             return;
@@ -20,10 +20,10 @@ export function usePerson(query: string) {
         setLoading(true);
         setError(null);
 
-        fetchPerson(query)
+        fetchCourses(query)
             .then((data) => {
                 if (isActive) {
-                    setExpert(data);
+                    setCourses(data);
                 }
             })
             .catch((err) => {
@@ -43,5 +43,5 @@ export function usePerson(query: string) {
         };
     }, [query]);
 
-    return { expert, loadingPerson, personError };
+    return { courses, loadingCourses, coursesError };
 }

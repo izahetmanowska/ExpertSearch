@@ -47,3 +47,18 @@ export type PersonData = {
     email: string;
     job_title: string;
 };
+
+export type PaperResponse = {
+    person_uuid: string;
+    papers: Paper[];
+};
+
+export type ProjectResponse = {
+    person_uuid: string;
+    projects: Project[];
+};
+
+export type CourseResponse = {
+    person_uuid: string;
+    courses: Course[];
+};

@@ -1,17 +1,17 @@
 import { useEffect, useState } from 'react';
-import { fetchPerson } from '../api/person';
-import { Expert } from '../types/expert';
+import { Project } from '../types/expert';
+import { fetchProjects } from '../api/projects';
 
-export function usePerson(query: string) {
-    const [expert, setExpert] = useState<Expert | null>(null);
-    const [loadingPerson, setLoading] = useState(false);
-    const [personError, setError] = useState<string | null>(null);
+export function useProjects(query: string) {
+    const [projects, setProjects] = useState<Project[]>([]);
+    const [loadingProjects, setLoading] = useState(false);
+    const [projectsError, setError] = useState<string | null>(null);
 
     useEffect(() => {
         let isActive = true;
 
         if (!query) {
-            setExpert(null);
+            setProjects([]);
             setError(null);
             setLoading(false);
             return;
@@ -20,10 +20,10 @@ export function usePerson(query: string) {
         setLoading(true);
         setError(null);
 
-        fetchPerson(query)
+        fetchProjects(query)
             .then((data) => {
                 if (isActive) {
-                    setExpert(data);
+                    setProjects(data);
                 }
             })
             .catch((err) => {
@@ -43,5 +43,5 @@ export function usePerson(query: string) {
         };
     }, [query]);
 
-    return { expert, loadingPerson, personError };
+    return { projects, loadingProjects, projectsError };
 }
