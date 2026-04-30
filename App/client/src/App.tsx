@@ -3,8 +3,9 @@ import './App.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import SearchCard from './SearchCard';
-import SearchResultsPage from './SearchResultsPage';
+import SearchPage from './pages/SearchPage';
+import SearchResultsPage from './pages/SearchResultsPage';
+import ExpertDetailPage from './pages/ExpertDetailPage';
 import { Navigate, Route, Routes } from 'react-router-dom';
 
 
@@ -16,8 +17,9 @@ function App() {
         <Row>
           <Col md={{ span: 10, offset: 1 }}>
             <Routes>
-              <Route path="/" element={<SearchCard />} />
+              <Route path="/" element={<SearchPage />} />
               <Route path="/search" element={<SearchResultsPage />} />
+              <Route path="/expert" element={<ExpertDetailPage />} />
               <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
           </Col>

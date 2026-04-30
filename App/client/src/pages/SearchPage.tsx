@@ -1,15 +1,14 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import Card from 'react-bootstrap/Card';
-import { FormEvent, useState } from 'react';
+import { SubmitEventHandler, JSX, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-
-function SearchCard() {
+function SearchPage(): JSX.Element {
     const [query, setQuery] = useState('');
     const navigate = useNavigate();
 
-    const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
+    const handleSubmit: SubmitEventHandler<HTMLFormElement> = (event) => {
         event.preventDefault();
         const trimmedQuery = query.trim();
         navigate(trimmedQuery ? `/search?q=${encodeURIComponent(trimmedQuery)}` : '/search');
@@ -29,14 +28,13 @@ function SearchCard() {
                 <Button variant="light" type="submit">Search</Button>
 			</Form>
             <br></br>
-            <TextExample/>
+            <InfoCard/>
 		</div>
 	);
 }
 
-export default SearchCard;
 
-function TextExample() {
+function InfoCard() {
     return (
         <div>
             <Card className="w-100">
@@ -55,3 +53,5 @@ function TextExample() {
         </div>
     );
 }
+
+export default SearchPage;

@@ -11,6 +11,7 @@ def get_papers_by_person(person_uuid: str) -> list[dict[str, Any]]:
                 SELECT
                     p.title,
                     p.subtitle,
+                    p.year,
                     p.abstract,
                     p."file"
                 FROM paper p
@@ -27,8 +28,9 @@ def get_papers_by_person(person_uuid: str) -> list[dict[str, Any]]:
         {
             "title": row[0],
             "subtitle": row[1] or "",
-            "abstract": row[2] or "",
-            "file_url": row[3] or "",
+            "year": row[2] or "",
+            "abstract": row[3] or "",
+            "file_url": row[4] or "",
         }
         for row in rows
     ]

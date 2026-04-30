@@ -17,3 +17,19 @@
   color: #030303e4;
 }
 
+.search-spinner {
+  width: min(640px, 92vw);
+  margin: 0 auto;
+  opacity: 1;
+  transition: opacity 600ms ease;
+}
+
+.search-spinner--fade {
+  opacity: 0;
+}
+
+.search-spinner__text {
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
