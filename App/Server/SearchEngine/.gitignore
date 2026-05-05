@@ -7,3 +7,5 @@ __pycache__/
 
 # Whoosh index (generated files)
 whoosh_index/*WRITELOCK
+
+#ignore .venv folder
