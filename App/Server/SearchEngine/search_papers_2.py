@@ -12,7 +12,7 @@ DB_CONFIG = {
     "host": os.getenv("DB_HOST", "expertsearchdb.cfqcguycqydz.eu-north-1.rds.amazonaws.com"),
     "dbname": os.getenv("DB_NAME", "ExpertsDb"),
     "user": os.getenv("DB_USER", "postgresAdmin"),
-    "password": os.getenv("DB_PASSWORD", "voknef-kuxziv-detwY0"),
+    "password": os.getenv("DB_PASSWORD","voknef-kuxziv-detwY0"),
     "port": int(os.getenv("DB_PORT", "5432")),
     "sslmode": os.getenv("DB_SSLMODE", "require"),
 }
@@ -58,6 +58,28 @@ def normalize_list(value: Any) -> list[str]:
 
 def tokenize_query(query_text: str) -> list[str]:
     return [token for token in re.findall(r"\w+", query_text.lower()) if len(token) > 1]
+
+
+def normalize_scores(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    if not results:
+        return results
+
+    scores = [result["score"] for result in results]
+    min_score = min(scores)
+    max_score = max(scores)
+
+    if max_score == min_score:
+        for result in results:
+            result["normalized_score"] = 1.0
+        return results
+
+    for result in results:
+        result["normalized_score"] = round(
+            (result["score"] - min_score) / (max_score - min_score),
+            4,
+        )
+
+    return results
 
 
 def name_probe(query_text: str, limit: int = 5) -> list[dict[str, Any]]:
@@ -257,8 +279,6 @@ def get_name_match_bonus(query_text: str, person_name: str, query_type: str) -> 
             return 8.0
 
     else:
-        # For topic/mixed searches, do not boost people just because
-        # one query token appears in their name.
         return 0.0
 
     return 0.0
@@ -293,8 +313,6 @@ def search_people(query_text: str, limit: int = MAX_RESULTS) -> dict[str, Any]:
         name_bonus = get_name_match_bonus(query_text, row["name"], query_type)
         evidence = get_relevant_evidence(row, query_text)
 
-        # Topic searches must have visible topic evidence.
-        # Person searches do not need topic evidence because we want full profiles.
         if not is_person_query and not has_relevant_evidence(evidence):
             continue
 
@@ -307,36 +325,33 @@ def search_people(query_text: str, limit: int = MAX_RESULTS) -> dict[str, Any]:
             adjusted_score += 2.0
 
         ranked_results.append(
-    {
-        "uuid": row["uuid"],
-        "name": row["name"],
-        "email": row["email"],
+            {
+                "uuid": row["uuid"],
+                "name": row["name"],
+                "email": row["email"],
 
-        # 👇 Display-friendly (limited)
-        "papers": row["paper_titles"][:10],
-        "projects": row["projects"][:10],
-        "courses": row["courses"][:10],
+                "papers": row["paper_titles"][:10],
+                "projects": row["projects"][:10],
+                "courses": row["courses"][:10],
 
-        # 👇 Full data (for "show more" / detail view)
-        "all_papers": row["paper_titles"],
-        "all_projects": row["projects"],
-        "all_courses": row["courses"],
+                "all_papers": row["paper_titles"],
+                "all_projects": row["projects"],
+                "all_courses": row["courses"],
 
-        # 👇 Useful metadata
-        "paper_count": len(row["paper_titles"]),
-        "project_count": len(row["projects"]),
-        "course_count": len(row["courses"]),
+                "paper_count": len(row["paper_titles"]),
+                "project_count": len(row["projects"]),
+                "course_count": len(row["courses"]),
 
-        # 👇 Optional explanation
-        "matched_evidence": evidence,
+                "matched_evidence": evidence,
 
-        "score": round(adjusted_score, 4),
-    }
-)
-    
+                "score": round(adjusted_score, 4),
+            }
+        )
 
     ranked_results.sort(key=lambda x: x["score"], reverse=True)
+
     final_results = ranked_results[:limit]
+    final_results = normalize_scores(final_results)
 
     return {
         "query": query_text,
