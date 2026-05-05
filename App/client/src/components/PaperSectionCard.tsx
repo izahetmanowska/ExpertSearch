@@ -2,17 +2,16 @@ import Accordion from 'react-bootstrap/Accordion';
 import type { Paper } from '../types/expert';
 import Button from 'react-bootstrap/Button';
 import SectionCard from './SectionCard';
+import React from 'react';
 
 // turns papers into a JSX element
-type PaperSectionCardProps = {
+type PapersSectionCardProps = {
     papers: Paper[];
 };
 
 // loads an accordion for each paper on papers with its corresponding title, abstract, etc. 
-function PaperAccordions({ papers }: PaperSectionCardProps) {
-    const openInNewTab = (url: string) => {
-        window.open(url, '_blank', 'noopener,noreferrer');
-    };
+function PaperAccordions({ papers }: PapersSectionCardProps) {
+    
     return (
         <>
             {papers.map((paper, index) => (
@@ -23,12 +22,7 @@ function PaperAccordions({ papers }: PaperSectionCardProps) {
                         Year: {paper.year} <br/>
                         Abstract: {paper.abstract} <br/>
                         <br/>
-                        <Button
-                                onClick={() => openInNewTab(paper.file_url)}
-                                variant="primary"
-                                size="sm"
-                            >See paper
-                        </Button>
+                        <FileButton paper={paper}></FileButton>
                     </Accordion.Body>
                 </Accordion.Item>
             ))}
@@ -36,8 +30,29 @@ function PaperAccordions({ papers }: PaperSectionCardProps) {
     );
 }
 
+type PaperSectionCardProps = {
+    paper: Paper;
+};
+
+function FileButton({ paper }: PaperSectionCardProps) {
+    if (!paper.file_url) {
+        return null;
+    }
+
+    const openInNewTab = (url: string) => {
+        window.open(url, '_blank', 'noopener,noreferrer');
+    };
+
+    return (
+        <Button onClick={() => openInNewTab(paper.file_url)} variant="primary" size="sm">
+        See paper
+        </Button>
+    );
+}
+
+
 //creates main paper card
-function PaperSectionCard({ papers }: PaperSectionCardProps) {
+function PaperSectionCard({ papers }: PapersSectionCardProps) {
     return (
         <SectionCard
             title="Papers"
