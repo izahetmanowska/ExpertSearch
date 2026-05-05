@@ -352,6 +352,10 @@ def search_people(query_text: str, limit: int = MAX_RESULTS) -> dict[str, Any]:
 
     final_results = ranked_results[:limit]
     final_results = normalize_scores(final_results)
+    for result in final_results:
+        result["raw_score"] = result["score"]
+        result["score"] = result["normalized_score"]
+        del result["normalized_score"]
 
     return {
         "query": query_text,
