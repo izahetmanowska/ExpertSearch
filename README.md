@@ -2,7 +2,12 @@
 
 We are building a search engine to find experts from ITU which uses a database with data from a wide range of sources: PURE, The Danish Research Portal and LearnIT (from where we retrieve all courses taught by ITU academics).
 
-## Step 1: Extracting data
+## 1. Requirements
+
+To run both server and client it is only necessary to have Docker installed.
+If you do not have it yet, you can find link here: [Download](https://www.docker.com/products/docker-desktop/)
+
+## 2. Data extraction
 
 We extracted data from:
 
@@ -10,56 +15,83 @@ We extracted data from:
 - the Danish Research portal: projects and research output from academics before joining ITU - by using a web crawler
 - LearnIT: professors and courses taught - by using a web crawler
 
-## Step 2: Creating a basic database
+## 3. Data cleaning
+
+## 4. Database
 
 We have pooled the data from all these different sources under a single DB hosted in PostgresSQL (RDS) and used pgAdmin as a CLI.
 
-## Server
+## 5. Server (Back-end)
 
-Backend API is in `App/Server/SearchEngine` and uses FastAPI + Uvicorn + Whoosh + PostgreSQL.
+The Back-end API is in `App/server` and uses Python: FastAPI + Uvicorn + Whoosh. Moreover, it has been containerised, so it can be run in Docker with a single command.
 
-### Server dependencies
-
-Pinned Python dependencies are listed in:
-
-- `App/Server/SearchEngine/requirements.txt`
-
-Current packages:
-
-- `fastapi==0.136.1`
-- `uvicorn==0.46.0`
-- `psycopg[binary]==3.3.3`
-- `whoosh==2.7.4`
-
-### Run the server (macOS)
+### 5.1 Run the server (macOS)
 
 From the project root:
 
 ```bash
-cd App/Server/SearchEngine
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-uvicorn api:app --reload
+make server
 ```
+
+### 5.2 Run the server (Windows)
+
+```bash
+cd App/server && docker compose up --build
+```
+
+If you are using plain cmd.exe, you should run it as two commands:
+
+`\cd App\server`
+`docker compose up --build`
 
 Server should start at:
 
 - `http://127.0.0.1:8000`
+
+### 5.3 Server documentation
+
 - Swagger docs: `http://127.0.0.1:8000/docs`
 
-### Optional environment variables (DB connection)
+### 5.4 Closing server
+
+Either press the stop button on the corresponding container on the Docker Desktop GUI or press `Ctrl` + `C` on the corresponding terminal.
+
+### 5.5 Optional environment variables (DB connection)
 
 Defaults from `dbconfig.py` are used.
 
-### Quick verification
+## 6. Client
+
+The Front-end is developed using Node.js, Typescript and React. Just like the Back-end, it has been containerised, so it can be run in Docker with a single command.
+
+### 5.1 Run the client (macOS)
+
+From the project root:
 
 ```bash
-python -c "import fastapi, uvicorn, psycopg, whoosh; import api; print(hasattr(api, 'app'))"
+make client
 ```
 
-## Appendix
+### 5.2 Run the client (Windows)
+
+```bash
+cd App/client && docker compose up --build
+```
+
+If you are using plain cmd.exe, you should run it as two commands:
+
+`\cd App\client`
+`docker compose up --build`
+
+Client should start at:
+
+- `http://127.0.0.1:3000`
+
+### 5.4 Closing client
+
+Either press the stop button on the corresponding container on the Docker Desktop GUI or press `Ctrl` + `C` on the corresponding terminal.
+
+## 7. Appendix
 
 ### PURE data fetch helper
 
