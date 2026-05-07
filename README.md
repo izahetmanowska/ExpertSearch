@@ -41,14 +41,12 @@ make server
 
 ### 5.2 Run the server (Windows)
 
-```bash
-cd App/server && docker compose up --build
+You should run it as two commands:
+
+```powershell
+cd App/server 
+docker compose up --build
 ```
-
-If you are using plain cmd.exe, you should run it as two commands:
-
-`\cd App\server`
-`docker compose up --build`
 
 Server should start at:
 
@@ -80,14 +78,12 @@ make client
 
 ### 5.2 Run the client (Windows)
 
-```bash
-cd App/client && docker compose up --build
+You should run it as two commands:
+
+```powershell
+\cd App\client
+docker compose up --build
 ```
-
-If you are using plain cmd.exe, you should run it as two commands:
-
-`\cd App\client`
-`docker compose up --build`
 
 Client should start at:
 
@@ -95,6 +91,6 @@ Client should start at:
 
 Access the URL above from any browser to use the search engine.
 
-### 5.4 Closing client
+### 5.3 Closing client
 
 Either press the stop button on the corresponding container on the Docker Desktop GUI or press `Ctrl` + `C` on the corresponding terminal.
