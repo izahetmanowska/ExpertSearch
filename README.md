@@ -7,7 +7,7 @@ We are building a search engine to find experts from ITU which uses a database w
 To run both server and client it is only necessary to have Docker installed.
 If you do not have it yet, you can find link here: [Download](https://www.docker.com/products/docker-desktop/)
 
-## 2. Data extraction and cleaning
+## 2. Data extraction and mapping
 
 We extracted data from:
 
