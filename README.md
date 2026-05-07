@@ -7,19 +7,25 @@ We are building a search engine to find experts from ITU which uses a database w
 To run both server and client it is only necessary to have Docker installed.
 If you do not have it yet, you can find link here: [Download](https://www.docker.com/products/docker-desktop/)
 
-## 2. Data extraction
+## 2. Data extraction and cleaning
 
 We extracted data from:
 
-- Pure: Persons of interest, projects and research output - by querying an API and transforming JSONs into formatted CSVs which we will load to our DB.
-- the Danish Research portal: projects and research output from academics before joining ITU - by using a web crawler
-- LearnIT: professors and courses taught - by using a web crawler
+- Pure: Persons of interest, projects and research output - by querying an API and transforming JSONs (which can be found in original format in `./Data_collection/PureJSONs`) into formatted CSVs (the mapping scripts can be found in `./Data_collection/MappingScripts` and the result `./Data_collection/CsvForDB`) which we loaded to our DB.
+- the Danish Research portal: research output from academics before joining ITU (saved in `./Data_collection/CsvForDB`) - by using a web crawler (scripts can be found `./Data_collection/danish_research_portal_scraper`).
+- LearnIT: professors and courses taught - by using a web crawler (scripts can be found `./Data_collection/danish_research_portal_scraper` and formatted output can be found in `./Data_collection/CsvForDB`)
 
 ## 3. Data cleaning
 
+Some of the data extracted from these various sources was not useful, therefore we had to:
+
+1. Run scripts on it to remove some undesired values.
+2. Load it on to staging tables on the DB for further cleaning and filtering before passing the relevant data
+on to the final tables.
+
 ## 4. Database
 
-We have pooled the data from all these different sources under a single DB hosted in PostgresSQL (RDS) and used pgAdmin as a CLI.
+We have pooled the data from all these different sources under a single DB hosted in AWS RDS (PostgresSQL) and used pgAdmin as a CLI.
 
 ## 5. Server (Back-end)
 
@@ -87,11 +93,13 @@ Client should start at:
 
 - `http://127.0.0.1:3000`
 
+Access the URL above from any browser to use the search engine.
+
 ### 5.4 Closing client
 
 Either press the stop button on the corresponding container on the Docker Desktop GUI or press `Ctrl` + `C` on the corresponding terminal.
 
-## 7. Appendix
+## 6. Appendix
 
 ### PURE data fetch helper
 
