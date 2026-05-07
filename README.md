@@ -39,6 +39,12 @@ From the project root:
 make server
 ```
 
+or
+
+```bash
+cd App/server && docker compose up --build
+```
+
 ### 5.2 Run the server (Windows)
 
 You should run it as two commands:
@@ -70,15 +76,21 @@ The Front-end is developed using Node.js, Typescript and React. Just like the Ba
 
 ### 5.1 Run the client (macOS)
 
-From the project root:
+Open an additional terminal from the project root:
 
 ```bash
 make client
 ```
 
+or
+
+```bash
+cd App/client && docker compose up --build
+```
+
 ### 5.2 Run the client (Windows)
 
-You should run it as two commands:
+Open an additional terminal. You should run it as two commands:
 
 ```powershell
 \cd App\client
