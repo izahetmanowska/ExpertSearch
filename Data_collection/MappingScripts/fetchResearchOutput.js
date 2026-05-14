@@ -163,6 +163,22 @@ async function run() {
     throw new Error(`No HTTP requests found in ${args.http}`);
   }
 
+  const baseRequest = requests[0];
+  const baseUrl = new URL(baseRequest.url);
+  const sizeParam = Number(baseUrl.searchParams.get('size'));
+  const pageSize = Number.isFinite(sizeParam) && sizeParam > 0 ? sizeParam : 1000;
+  const maxOffset = 8000;
+
+  const expandedRequests = [];
+  for (let offset = 0; offset <= maxOffset; offset += pageSize) {
+    const nextUrl = new URL(baseUrl.toString());
+    nextUrl.searchParams.set('offset', String(offset));
+    expandedRequests.push({
+      ...baseRequest,
+      url: nextUrl.toString(),
+    });
+  }
+
   const outputJson = await loadOutputFile(outputPath);
   if (!Array.isArray(outputJson.items)) {
     outputJson.items = [];
@@ -179,9 +195,9 @@ async function run() {
   }
 
   let appended = 0;
-  for (let index = 0; index < requests.length; index += 1) {
-    const request = requests[index];
-    console.log(`Request ${index + 1}/${requests.length}: ${request.method} ${request.url}`);
+  for (let index = 0; index < expandedRequests.length; index += 1) {
+    const request = expandedRequests[index];
+    console.log(`Request ${index + 1}/${expandedRequests.length}: ${request.method} ${request.url}`);
 
     const response = await fetch(request.url, {
       method: request.method,
