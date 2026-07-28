@@ -1,3 +1,4 @@
 Data_collection/danish_research_portal_scraper.zip filter=lfs diff=lfs merge=lfs -text
 Data_collection/**/*.ipynb linguist-vendored
 Data_collection/**/*.py linguist-vendored
+*.js linguist-vendored
