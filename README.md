@@ -1,6 +1,6 @@
 # Experts Search Engine
 
-We built a search engine to find experts from ITU which uses a database with data from a wide range of sources: PURE, The Danish Research Portal and LearnIT (from where we retrieve all courses taught by ITU academics).
+We built a search engine to find experts from ITU which uses a database with data from a wide range of sources: PURE, The Danish Research Portal and LearnIT (from where we retrieve all courses taught by ITU academics). The search engine indexes approx. 800 experts and 32K publications, as well as hundreds of courses.
 
 ## Report
 [Click here](https://github.com/macastrogimenez/ExpertSearch/blob/main/Experts%20Search%20Engine.pdf)
