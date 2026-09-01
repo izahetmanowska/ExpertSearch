@@ -3,4 +3,4 @@ Data_collection/danish_research_portal_scraper.zip filter=lfs diff=lfs merge=lfs
 */.jsx linguist-detectable=false
 */.ts linguist-detectable=false
 */.tsx linguist-detectable=false
-*.js linguist-vendored
+
