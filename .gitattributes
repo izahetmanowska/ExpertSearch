@@ -1,5 +1,5 @@
-**/*/.js linguist-detectable=false
-**/*/.jsx linguist-detectable=false
-**/*/.ts linguist-detectable=false
-**/*/.tsx linguist-detectable=false
+*.js linguist-detectable=false
+*.jsx linguist-detectable=false
+*.ts linguist-detectable=false
+*.tsx linguist-detectable=false
 
