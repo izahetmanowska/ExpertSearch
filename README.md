@@ -7,7 +7,7 @@ Search engine to find experts from ITU which uses a database with data from a wi
 
 ## 1. Requirements
 
-To run both server and client it is only necessary to have Docker installed.
+To run both server and client it is necessary to have Docker installed.
 If you do not have it, you can find link here: [Download](https://www.docker.com/products/docker-desktop/)
 
 ## 2. Data extraction and mapping
