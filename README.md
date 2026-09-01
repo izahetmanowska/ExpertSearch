@@ -108,4 +108,4 @@ Access the URL above from any browser to use the search engine.
 
 ### 5.3 Closing client
 
-Either click the stop button on the corresponding container on the Docker Desktop GUI or press `Ctrl` + `C` on the corresponding terminal.
+Either press the stop button on the corresponding container on the Docker Desktop GUI or press `Ctrl` + `C` on the corresponding terminal.
